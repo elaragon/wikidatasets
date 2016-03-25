@@ -1,0 +1,12 @@
+#HI Hindi local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 168 & Ashoka & 126 & Ashoka \\
+2 & 106 & Mahatma Gandhi & 108 & Akbar \\
+3 & 100 & Benazir Bhutto & 99 & Indira Gandhi \\
+4 & 91 & Vikramāditya & 98 & Mahadevi Varma \\
+5 & 90 & Shivaji & 96 & Sanjeev Kumar \\
+6 & 89 & Jawaharlal Nehru & 93 & Amitabh Bachchan \\
+7 & 88 & Akbar & 91 & Premchand \\
+8 & 87 & Indira Gandhi & 90 & Dayananda Saraswati \\
+9 & 86 & Adi Shankara & 89 & Jaishankar Prasad \\
+10 & 85 & Vishnu Prabhakar & 86 & Adi Shankara \\

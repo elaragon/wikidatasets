@@ -1,0 +1,102 @@
+#List of top 100 Arabic 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Muhammad	SA	Saudi_Arabia	6	M	AR
+2	Ali	SA	Saudi_Arabia	7	M	AR
+3	Umar	SA	Saudi_Arabia	6	M	AR
+4	Alexander the Great	GR	Greece	-4	M	EL
+5	Jesus	PS	State_of_Palestine	-1	M	AR
+6	Adolf Hitler	AT	Austria	19	M	DE
+7	Muhammad Ali of Egypt	GR	Greece	18	M	EL
+8	Saladin	IQ	Iraq	12	M	AR
+9	Napoleon	FR	France	18	M	FR
+10	Anwar Sadat	EG	Egypt	20	M	AR
+11	Gamal Abdel Nasser	EG	Egypt	20	M	AR
+12	Henry VIII of England	UK	United_Kingdom	15	M	EN
+13	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+14	Al-Ghazali	IR	Iran	11	M	FA
+15	Naguib Mahfouz	EG	Egypt	20	M	AR
+16	Muammar Gaddafi	LY	Libya	20	M	AR
+17	Ibn Saud	SA	Saudi_Arabia	19	M	AR
+18	Khalid ibn al-Walid	SA	Saudi_Arabia	6	M	AR
+19	Al-Shafi‘i	PS	State_of_Palestine	8	M	AR
+20	Sayyid Qutb	EG	Egypt	20	M	AR
+21	Mehmed the Conqueror	TR	Turkey	15	M	TR
+22	Charles V, Holy Roman Emperor	BE	Belgium	15	M	NL
+23	Suleiman the Magnificent	TR	Turkey	15	M	TR
+24	Mohammed Abdel Wahab	EG	Egypt	20	M	AR
+25	Baibars	UA	Ukraine	13	M	WR
+26	Selim I	TR	Turkey	15	M	TR
+27	Saddam Hussein	IQ	Iraq	20	M	AR
+28	Hosni Mubarak	EG	Egypt	20	M	AR
+29	Anas ibn Malik	SA	Saudi_Arabia	7	M	AR
+30	Al-Suyuti	EG	Egypt	15	M	AR
+31	Yusuf al-Qaradawi	EG	Egypt	20	M	AR
+32	Ibn Taymiyyah	TR	Turkey	13	M	TR
+33	Barack Obama	US	United_States	20	M	EN
+34	Al-Dhahabi	SY	Syria	13	M	AR
+35	Faisal of Saudi Arabia	SA	Saudi_Arabia	20	M	AR
+36	Saud of Saudi Arabia	KW	Kuwait	20	M	AR
+37	Abdullah of Saudi Arabia	SA	Saudi_Arabia	20	M	AR
+38	Farouk of Egypt	EG	Egypt	20	M	AR
+39	Ja'far al-Sadiq	SA	Saudi_Arabia	8	M	AR
+40	Hasan ibn Ali	SA	Saudi_Arabia	7	M	AR
+41	Abdel Halim Hafez	EG	Egypt	20	M	AR
+42	Yasser Arafat	EG	Egypt	20	M	AR
+43	Ibn Hazm	ES	Spain	10	M	ES
+44	Saint Peter	IL	Israel	1	M	HE
+45	Taha Hussein	EG	Egypt	19	M	AR
+46	Alexander Graham Bell	UK	United_Kingdom	19	M	EN
+47	Abdul Hamid II	TR	Turkey	19	M	TR
+48	Nur ad-Din, atabeg of Aleppo	SY	Syria	12	M	AR
+49	Yazid I	SY	Syria	7	M	AR
+50	Ali Abdullah Saleh	YE	Yemen	20	M	AR
+51	Alhazen	IQ	Iraq	10	M	AR
+52	Mohammed bin Rashid Al Maktoum	AE	United_Arab_Emirates	20	M	AR
+53	Mohamed Morsi	EG	Egypt	20	M	AR
+54	Martin Luther	DE	Germany	15	M	DE
+55	Ronaldo	BR	Brazil	20	M	PT
+56	Talhah	SA	Saudi_Arabia	6	M	AR
+57	Umar II	SA	Saudi_Arabia	7	M	AR
+58	Al-Jahiz	IQ	Iraq	8	M	AR
+59	Michelangelo	IT	Italy	15	M	IT
+60	Zayed bin Sultan Al Nahyan	AE	United_Arab_Emirates	20	M	AR
+61	Nikola Tesla	HR	Croatia	19	M	WR
+62	Ibn 'Abd al-Barr	ES	Spain	10	M	ES
+63	Abdul Muttalib	SA	Saudi_Arabia	5	M	AR
+64	Malik ibn Anas	SA	Saudi_Arabia	8	M	AR
+65	Noam Chomsky	US	United_States	20	M	EN
+66	Abu'l-Faraj ibn al-Jawzi	IQ	Iraq	12	M	AR
+67	Hisham Abbas	EG	Egypt	20	M	AR
+68	Hafez al-Assad	SY	Syria	20	M	AR
+69	Amr Diab	EG	Egypt	20	M	AR
+70	Kadim Al Sahir	IQ	Iraq	20	M	AR
+71	Fahd of Saudi Arabia	SA	Saudi_Arabia	20	M	AR
+72	Assala Nasri	SY	Syria	20	F	AR
+73	Thomas Edison	US	United_States	19	M	EN
+74	Ahmed Zaki (actor)	EG	Egypt	20	M	AR
+75	'Amr ibn al-'As	SA	Saudi_Arabia	6	M	AR
+76	Hassan al-Banna	EG	Egypt	20	M	AR
+77	Pope John Paul II	PL	Poland	20	M	PL
+78	Muhammad Naguib	SD	Sudan	20	M	AR
+79	Aisha	SA	Saudi_Arabia	7	F	AR
+80	Isma'il Pasha	EG	Egypt	19	M	AR
+81	Nasir al-Din al-Tusi	IR	Iran	13	M	FA
+82	Ahmed Zewail	EG	Egypt	20	M	AR
+83	Ibn Arabi	ES	Spain	12	M	ES
+84	Al-Nasir Muhammad	EG	Egypt	13	M	AR
+85	Uthman ibn Affan	SA	Saudi_Arabia	6	M	AR
+86	Abd al-Aziz ibn Baz	SA	Saudi_Arabia	20	M	AR
+87	Hamza ibn ‘Abd al-Muttalib	SA	Saudi_Arabia	6	M	AR
+88	Jaber Al-Ahmad Al-Jaber Al-Sabah	KW	Kuwait	20	M	AR
+89	Fairuz	LB	Lebanon	20	F	AR
+90	Abd al-Karim Qasim	IQ	Iraq	20	M	AR
+91	Youssef Chahine	EG	Egypt	20	M	AR
+92	Erwin Rommel	DE	Germany	19	M	DE
+93	Pope Benedict XVI	DE	Germany	20	M	DE
+94	Umm Kulthum	EG	Egypt	19	F	AR
+95	Mohamed Sobhi (actor)	EG	Egypt	20	M	AR
+96	Mubarak Al-Sabah	KW	Kuwait	19	M	AR
+97	Ja'far ibn Abi Talib	SA	Saudi_Arabia	6	M	AR
+98	Kahlil Gibran	LB	Lebanon	19	M	AR
+99	Abdul-Qadir Gilani	IR	Iran	11	M	FA
+100	Farid al-Atrash	SY	Syria	20	M	AR

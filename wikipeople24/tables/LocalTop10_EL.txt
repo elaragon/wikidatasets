@@ -1,0 +1,12 @@
+#EL Greek local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 2237 & Aristotle & 789 & Alexander the Great \\
+2 & 1949 & Plato & 207 & Plato \\
+3 & 1771 & Alexander the Great & 167 & Aristotle \\
+4 & 213 & Socrates & 108 & Pericles \\
+5 & 178 & Plutarch & 100 & Mustafa Kemal Atatürk \\
+6 & 153 & Mustafa Kemal Atatürk & 98 & Eleftherios Venizelos \\
+7 & 123 & Sophocles & 95 & Andreas Papandreou \\
+8 & 93 & Aeschylus & 94 & Muhammad Ali of Egypt \\
+9 & 86 & Euripides & 94 & Ioannis Kapodistrias \\
+10 & 84 & Ioannis Kapodistrias & 93 & Plutarch \\

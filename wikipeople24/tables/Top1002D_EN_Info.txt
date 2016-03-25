@@ -1,0 +1,102 @@
+#List of top 100 English 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Frank Sinatra	US	United_States	20	M	EN
+2	Michael Jackson	US	United_States	20	M	EN
+3	Pope Pius XII	IT	Italy	19	M	IT
+4	Elton John	UK	United_Kingdom	20	M	EN
+5	Elizabeth II	UK	United_Kingdom	20	F	EN
+6	Pope John Paul II	PL	Poland	20	M	PL
+7	Beyoncé Knowles	US	United_States	20	F	EN
+8	Jorge Luis Borges	AR	Argentina	19	M	ES
+9	Mariah Carey	US	United_States	20	F	EN
+10	Vladimir Putin	RU	Russia	20	M	RU
+11	Dolly Parton	US	United_States	20	F	EN
+12	Isaac Asimov	RU	Russia	20	M	RU
+13	Orson Welles	US	United_States	20	M	EN
+14	Robert Brown (botanist)	UK	United_Kingdom	18	M	EN
+15	Lord Byron	UK	United_Kingdom	18	M	EN
+16	Whitney Houston	US	United_States	20	F	EN
+17	Lady Gaga	US	United_States	20	F	EN
+18	Stephen King	US	United_States	20	M	EN
+19	Johnny Cash	US	United_States	20	M	EN
+20	Christina Aguilera	US	United_States	20	F	EN
+21	Muhammad	SA	Saudi_Arabia	6	M	AR
+22	Katy Perry	US	United_States	20	F	EN
+23	Pope Benedict XVI	DE	Germany	20	M	DE
+24	John McCain	PA	Panama	20	M	ES
+25	Prince (musician)	US	United_States	20	M	EN
+26	Zinedine Zidane	FR	France	20	M	FR
+27	Alice Cooper	US	United_States	20	M	EN
+28	Paul McCartney	UK	United_Kingdom	20	M	EN
+29	Roger Federer	CH	Switzerland	20	M	DE
+30	Jacqueline Kennedy Onassis	US	United_States	20	F	EN
+31	Che Guevara	AR	Argentina	20	M	ES
+32	Marilyn Monroe	US	United_States	20	F	EN
+33	John Williams	US	United_States	20	M	EN
+34	David Bowie	UK	United_Kingdom	20	M	EN
+35	Jennifer Lopez	US	United_States	20	F	EN
+36	14th Dalai Lama	CN	China	20	M	ZH
+37	George W. Bush	US	United_States	20	M	EN
+38	Nikolai Chernykh	RU	Russia	20	M	RU
+39	Sting (musician)	UK	United_Kingdom	20	M	EN
+40	Vincent van Gogh	NL	Netherlands	19	M	NL
+41	Harold Pinter	UK	United_Kingdom	20	M	EN
+42	Stephen Fry	UK	United_Kingdom	20	M	EN
+43	Bob Dylan	US	United_States	20	M	EN
+44	Rafael Nadal	ES	Spain	20	M	ES
+45	Charles Darwin	UK	United_Kingdom	19	M	EN
+46	H. P. Lovecraft	US	United_States	19	M	EN
+47	Shakira	CO	Colombia	20	F	ES
+48	W. E. B. Du Bois	US	United_States	19	M	EN
+49	Neil Young	CA	Canada	20	M	EN
+50	Sun Yat-sen	CN	China	19	M	ZH
+51	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+52	Meryl Streep	US	United_States	20	F	EN
+53	Agatha Christie	UK	United_Kingdom	19	F	EN
+54	Zulfikar Ali Bhutto	PK	Pakistan	20	M	HI
+55	Hannah Arendt	DE	Germany	20	F	DE
+56	Michael Phelps	US	United_States	20	M	EN
+57	John Ford	US	United_States	19	M	EN
+58	Alfred Hitchcock	UK	United_Kingdom	19	M	EN
+59	David Beckham	UK	United_Kingdom	20	M	EN
+60	Madonna (entertainer)	US	United_States	20	F	EN
+61	Stan Lee	US	United_States	20	M	EN
+62	Hiroshi Kaneda	JP	Japan	20	M	JA
+63	Seiji Ueda	JP	Japan	20	M	JA
+64	Franklin D. Roosevelt	US	United_States	19	M	EN
+65	Michael Bloomberg	US	United_States	20	M	EN
+66	Michael Schumacher	DE	Germany	20	M	DE
+67	Clement Attlee	UK	United_Kingdom	19	M	EN
+68	Donna Summer	US	United_States	20	F	EN
+69	Sandro Botticelli	IT	Italy	15	M	IT
+70	Björk	IS	Iceland	20	F	WR
+71	Alan Moore	UK	United_Kingdom	20	M	EN
+72	Taylor Swift	US	United_States	20	F	EN
+73	Akon	US	United_States	20	M	EN
+74	Muhammad Zia-ul-Haq	IN	India	20	M	HI
+75	Bill Cosby	US	United_States	20	M	EN
+76	Suharto	ID	Indonesia	20	M	WR
+77	Jesus	PS	State_of_Palestine	-1	M	AR
+78	Barack Obama	US	United_States	20	M	EN
+79	Pervez Musharraf	IN	India	20	M	HI
+80	Alex Ferguson	UK	United_Kingdom	20	M	EN
+81	Arthur Wellesley, 1st Duke of Wellington	IE	Ireland	18	M	EN
+82	Catherine the Great	PL	Poland	18	F	PL
+83	Winston Churchill	UK	United_Kingdom	19	M	EN
+84	Elvis Presley	US	United_States	20	M	EN
+85	Kelly Clarkson	US	United_States	20	F	EN
+86	Pep Guardiola	ES	Spain	20	M	ES
+87	Johann Sebastian Bach	DE	Germany	17	M	DE
+88	Whoopi Goldberg	US	United_States	20	F	EN
+89	Lionel Messi	AR	Argentina	20	M	ES
+90	Hannibal	TN	Tunisia	-3	M	AR
+91	Perry Como	US	United_States	20	M	EN
+92	Benazir Bhutto	PK	Pakistan	20	F	HI
+93	Henry VIII of England	UK	United_Kingdom	15	M	EN
+94	Bernard Montgomery, 1st Viscount Montgomery of Alamein	UK	United_Kingdom	19	M	EN
+95	Joe Biden	US	United_States	20	M	EN
+96	Louis XIV of France	FR	France	17	M	FR
+97	Frank Lloyd Wright	US	United_States	19	M	EN
+98	Robert E. Howard	US	United_States	20	M	EN
+99	Ted Kennedy	US	United_States	20	M	EN
+100	Edward L. G. Bowell	UK	United_Kingdom	20	M	EN

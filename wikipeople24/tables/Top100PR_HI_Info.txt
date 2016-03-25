@@ -1,0 +1,102 @@
+#List of top 100 Hindi PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Jesus	PS	State_of_Palestine	-1	M	AR
+2	Carl Linnaeus	SE	Sweden	18	M	SV
+3	Gautama Buddha	NP	Nepal	-6	M	WR
+4	William Shakespeare	UK	United_Kingdom	16	M	EN
+5	Alexander the Great	GR	Greece	-4	M	EL
+6	Ashoka	IN	India	-4	M	HI
+7	Muhammad	SA	Saudi_Arabia	6	M	AR
+8	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+9	14th Dalai Lama	CN	China	20	M	ZH
+10	Vikramāditya	IN	India	-1	M	HI
+11	Shivaji	IN	India	17	M	HI
+12	Jawaharlal Nehru	IN	India	19	M	HI
+13	Akbar	PK	Pakistan	16	M	HI
+14	Indira Gandhi	IN	India	20	F	HI
+15	Adi Shankara	IN	India	8	M	HI
+16	Vishnu Prabhakar	IN	India	20	M	HI
+17	Mohammad Hamid Ansari	IN	India	20	M	HI
+18	Chanakya	IN	India	-4	M	HI
+19	Tulsidas	IN	India	15	M	HI
+20	Albert Einstein	DE	Germany	19	M	DE
+21	Kabir	IN	India	15	M	HI
+22	Dayananda Saraswati	IN	India	19	M	HI
+23	Mahadevi Varma	IN	India	20	F	HI
+24	Babur	UZ	Uzbekistan	15	M	WR
+25	Aristotle	GR	Greece	-4	M	EL
+26	Martina Navratilova	CZ	Czech_	20	F	WR
+27	Manmohan Singh	PK	Pakistan	20	M	HI
+28	Barack Obama	US	United_States	20	M	EN
+29	Harivansh Rai Bachchan	IN	India	20	M	HI
+30	Sanjeev Kumar	IN	India	20	M	HI
+31	Rabindranath Tagore	IN	India	19	M	HI
+32	Rajendra Prasad	IN	India	19	M	HI
+33	Chris Evert	US	United_States	20	F	EN
+34	Isaac Newton	UK	United_Kingdom	17	M	EN
+35	Adolf Hitler	AT	Austria	19	M	DE
+36	Karl Marx	DE	Germany	19	M	DE
+37	Elizabeth II	UK	United_Kingdom	20	F	EN
+38	Roger Federer	CH	Switzerland	20	M	DE
+39	Sri Aurobindo	IN	India	19	M	HI
+40	Amitabh Bachchan	IN	India	20	M	HI
+41	Plato	GR	Greece	-5	M	EL
+42	Bal Gangadhar Tilak	IN	India	19	M	HI
+43	Tyagaraja	IN	India	18	M	HI
+44	Narendra Kohli	PK	Pakistan	20	M	HI
+45	Pete Sampras	US	United_States	20	M	EN
+46	Premchand	IN	India	19	M	HI
+47	Subhas Chandra Bose	IN	India	19	M	HI
+48	Jaishankar Prasad	IN	India	19	M	HI
+49	Bhagat Singh	PK	Pakistan	20	M	HI
+50	Ivan Lendl	CZ	Czech_	20	M	WR
+51	Shah Jahan	PK	Pakistan	16	M	HI
+52	Rumi	TJ	Tajikistan	13	M	WR
+53	Vallabhbhai Patel	IN	India	19	M	HI
+54	Steffi Graf	DE	Germany	20	F	DE
+55	Napoleon	FR	France	18	M	FR
+56	Om Prakash	IN	India	20	M	HI
+57	Amrish Puri	IN	India	20	M	HI
+58	Anupam Kher	IN	India	20	M	HI
+59	Ramchandra Shukla	IN	India	19	M	HI
+60	Vidyapati	IN	India	14	M	HI
+61	Shakti Kapoor	IN	India	20	M	HI
+62	Vinayak Damodar Savarkar	IN	India	19	M	HI
+63	Rekha	IN	India	20	F	HI
+64	Rafael Nadal	ES	Spain	20	M	ES
+65	Bharatendu Harishchandra	IN	India	19	M	HI
+66	Asrani	IN	India	20	M	HI
+67	Daṇḍin	IN	India	6	M	HI
+68	Bankim Chandra Chattopadhyay	IN	India	19	M	HI
+69	Karan Johar	IN	India	20	M	HI
+70	Vladimir Lenin	RU	Russia	19	M	RU
+71	Chaitanya Mahaprabhu	IN	India	15	M	HI
+72	Socrates	GR	Greece	-5	M	EL
+73	Fredrik Reinfeldt	SE	Sweden	20	M	SV
+74	Prem Chopra	PK	Pakistan	20	M	HI
+75	Chandra Shekhar Azad	IN	India	20	M	HI
+76	Raj Kapoor	PK	Pakistan	20	M	HI
+77	Andre Agassi	US	United_States	20	M	EN
+78	Gulshan Grover	IN	India	20	M	HI
+79	Xuanzang	CN	China	7	M	ZH
+80	Jahangir	IN	India	16	M	HI
+81	Anugrah Narayan Sinha	IN	India	19	M	HI
+82	Meira Kumar	IN	India	20	F	HI
+83	Billie Jean King	US	United_States	20	F	EN
+84	Dilip Kumar	PK	Pakistan	20	M	HI
+85	Paresh Rawal	IN	India	20	M	HI
+86	Guru Gobind Singh	IN	India	17	M	HI
+87	Surdas	IN	India	15	M	HI
+88	Jeetendra	IN	India	20	M	HI
+89	Aruna Irani	IN	India	20	F	HI
+90	Kader Khan	PK	Pakistan	20	M	HI
+91	Hemachandra	IN	India	11	M	HI
+92	Ram Manohar Lohia	IN	India	20	M	HI
+93	Dhyan Chand	IN	India	20	M	HI
+94	Rajiv Gandhi	IN	India	20	M	HI
+95	Mahmud of Ghazni	AF	Afghanistan	10	M	FA
+96	Venus Williams	US	United_States	20	F	EN
+97	Amir Khusrow	IN	India	13	M	HI
+98	Naseeruddin Shah	IN	India	20	M	HI
+99	Stefan Edberg	SE	Sweden	20	M	SV
+100	Aamir Khan	IN	India	20	M	HI

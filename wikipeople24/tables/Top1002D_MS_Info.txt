@@ -1,0 +1,102 @@
+#List of top 100 Malaysian 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Mahathir Mohamad	MY	Malaysia	20	M	MS
+2	Najib Razak	MY	Malaysia	20	M	MS
+3	Anwar Ibrahim	MY	Malaysia	20	M	MS
+4	Muhammad	SA	Saudi_Arabia	6	M	AR
+5	Charlemagne	BE	Belgium	8	M	NL
+6	Jesus	PS	State_of_Palestine	-1	M	AR
+7	Julius Caesar	IT	Italy	-1	M	IT
+8	Mizan Zainal Abidin of Terengganu	MY	Malaysia	20	M	MS
+9	Sudirman Arshad	MY	Malaysia	20	M	MS
+10	Tunku Abdul Rahman	MY	Malaysia	20	M	MS
+11	Siti Nurhaliza	MY	Malaysia	20	F	MS
+12	Abdullah Ahmad Badawi	MY	Malaysia	20	M	MS
+13	Abdul Taib Mahmud	MY	Malaysia	20	M	MS
+14	Genghis Khan	MN	Mongolia	12	M	WR
+15	Suharto	ID	Indonesia	20	M	WR
+16	M. Nasir	SG	Singapore	20	M	ZH
+17	P. Ramlee	MY	Malaysia	20	M	MS
+18	Dayang Nurfaizah	MY	Malaysia	20	F	MS
+19	Walt Disney	US	United_States	20	M	EN
+20	Sheikh Muszaphar Shukor	MY	Malaysia	20	M	MS
+21	Hugh Capet	FR	France	10	M	FR
+22	Mahmud Shah of Malacca	MY	Malaysia	15	M	MS
+23	Cyrus the Great	IR	Iran	-6	M	FA
+24	Azlan Shah of Perak	MY	Malaysia	20	M	MS
+25	Benjamin Franklin	US	United_States	18	M	EN
+26	Giuseppe Verdi	IT	Italy	19	M	IT
+27	George W. Bush	US	United_States	20	M	EN
+28	Natsumi Abe	JP	Japan	20	F	JA
+29	Jamal Abdillah	MY	Malaysia	20	M	MS
+30	Rabindranath Tagore	IN	India	19	M	HI
+31	Ashoka	IN	India	-4	M	HI
+32	Lee Hsien Loong	SG	Singapore	20	M	ZH
+33	Ali	SA	Saudi_Arabia	7	M	AR
+34	Michael Schumacher	DE	Germany	20	M	DE
+35	Tomoyuki Yamashita	JP	Japan	19	M	JA
+36	Mohammad Hatta	ID	Indonesia	20	M	WR
+37	Thomas Edison	US	United_States	19	M	EN
+38	Sukarno	ID	Indonesia	20	M	WR
+39	Koharu Kusumi	JP	Japan	20	F	JA
+40	William the Conqueror	FR	France	11	M	FR
+41	Abdul Razak Hussein	MY	Malaysia	20	M	MS
+42	Beatrix of the Netherlands	NL	Netherlands	20	F	NL
+43	Hirohito	JP	Japan	20	M	JA
+44	Alexander the Great	GR	Greece	-4	M	EL
+45	Avicenna	UZ	Uzbekistan	10	M	WR
+46	Tengku Razaleigh Hamzah	MY	Malaysia	20	M	MS
+47	Tsunku	JP	Japan	20	M	JA
+48	Steve Jobs	US	United_States	20	M	EN
+49	Alhazen	IQ	Iraq	10	M	AR
+50	Hang Tuah	MY	Malaysia	15	M	MS
+51	Misha Omar	MY	Malaysia	20	F	MS
+52	Henry VIII of England	UK	United_Kingdom	15	M	EN
+53	Euclid	EG	Egypt	-3	M	AR
+54	Fernando Alonso	ES	Spain	20	M	ES
+55	Steve Wozniak	US	United_States	20	M	EN
+56	Charles Darwin	UK	United_Kingdom	19	M	EN
+57	Hosni Mubarak	EG	Egypt	20	M	AR
+58	Sebastian Vettel	DE	Germany	20	M	DE
+59	Muammar Gaddafi	LY	Libya	20	M	AR
+60	Hussein Onn	MY	Malaysia	20	M	MS
+61	Erra Fazira	MY	Malaysia	20	F	MS
+62	Rafidah Aziz	MY	Malaysia	20	F	MS
+63	Lim Guan Eng	MY	Malaysia	20	M	MS
+64	Anwar Sadat	EG	Egypt	20	M	AR
+65	Jaafar of Negeri Sembilan	MY	Malaysia	20	M	MS
+66	Saladin	IQ	Iraq	12	M	AR
+67	Ziana Zain	MY	Malaysia	20	F	MS
+68	Lewis Hamilton	UK	United_Kingdom	20	M	EN
+69	Salahuddin of Selangor	MY	Malaysia	20	M	MS
+70	Zheng He	CN	China	14	M	ZH
+71	Lim Kit Siang	MY	Malaysia	20	M	MS
+72	Adolf Hitler	AT	Austria	19	M	DE
+73	Albert Einstein	DE	Germany	19	M	DE
+74	Salamiah Hassan	MY	Malaysia	20	F	MS
+75	Sheila Majid	MY	Malaysia	20	F	MS
+76	Yusof Haslam	MY	Malaysia	20	M	MS
+77	Awie	MY	Malaysia	20	M	MS
+78	Madeline Zima	US	United_States	20	F	EN
+79	Abu Bakar of Johor	SG	Singapore	19	M	ZH
+80	Iskandar of Johor	MY	Malaysia	20	M	MS
+81	Abdul Khalid Ibrahim	MY	Malaysia	20	M	MS
+82	Ken Thompson	US	United_States	20	M	EN
+83	Louis XIV of France	FR	France	17	M	FR
+84	Adnan Abu Hassan	MY	Malaysia	20	M	MS
+85	Ramli Ngah Talib	MY	Malaysia	20	M	MS
+86	Ibrahim of Johor	SG	Singapore	19	M	ZH
+87	Luciano Pavarotti	IT	Italy	20	M	IT
+88	Jaclyn Victor	MY	Malaysia	20	F	MS
+89	Mawi	MY	Malaysia	20	M	MS
+90	Felipe Massa	BR	Brazil	20	M	PT
+91	Vincent van Gogh	NL	Netherlands	19	M	NL
+92	George Orwell	IN	India	20	M	HI
+93	Akbar	PK	Pakistan	16	M	HI
+94	Mari Yaguchi	JP	Japan	20	F	JA
+95	Kimi Räikkönen	FI	Finland	20	M	WR
+96	Abdul Halim of Kedah	MY	Malaysia	20	M	MS
+97	Al-Farabi	AF	Afghanistan	9	M	FA
+98	Afdlin Shauki	MY	Malaysia	20	M	MS
+99	Mark Webber	AU	Australia	20	M	EN
+100	Noraniza Idris	MY	Malaysia	20	F	MS

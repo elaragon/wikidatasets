@@ -1,0 +1,12 @@
+#NL Dutch local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 1476 & Charlemagne & 569 & Charlemagne \\
+2 & 556 & Charles V, Holy Roman Emperor & 297 & Vincent van Gogh \\
+3 & 83 & Maurice Maeterlinck & 294 & Rembrandt \\
+4 & 81 & William I of the Netherlands & 190 & Charles V, Holy Roman Emperor \\
+5 & 78 & Beatrix of the Netherlands & 138 & Beatrix of the Netherlands \\
+6 & 61 & Baruch Spinoza & 98 & Baruch Spinoza \\
+7 & 61 & Rembrandt & 94 & Hugo Claus \\
+8 & 51 & Wilhelmina of the Netherlands & 91 & Johan Cruyff \\
+9 & 47 & Juliana of the Netherlands & 76 & Louis Couperus \\
+10 & 39 & Christiaan Huygens & 75 & Pierre Cuypers \\

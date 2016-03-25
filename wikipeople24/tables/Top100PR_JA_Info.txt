@@ -1,0 +1,102 @@
+#List of top 100 Japanese PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Toyotomi Hideyoshi	JP	Japan	16	M	JA
+2	Tokugawa Ieyasu	JP	Japan	16	M	JA
+3	Napoleon	FR	France	18	M	FR
+4	Oda Nobunaga	JP	Japan	16	M	JA
+5	Jesus	PS	State_of_Palestine	-1	M	AR
+6	Hirohito	JP	Japan	20	M	JA
+7	Aristotle	GR	Greece	-4	M	EL
+8	Ludwig van Beethoven	DE	Germany	18	M	DE
+9	Adolf Hitler	AT	Austria	19	M	DE
+10	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+11	George W. Bush	US	United_States	20	M	EN
+12	Joseph Stalin	GE	Georgia	19	M	WR
+13	Gautama Buddha	NP	Nepal	-6	M	WR
+14	Karl Marx	DE	Germany	19	M	DE
+15	Emperor Meiji	JP	Japan	19	M	JA
+16	Julius Caesar	IT	Italy	-1	M	IT
+17	Johann Sebastian Bach	DE	Germany	17	M	DE
+18	Carl Linnaeus	SE	Sweden	18	M	SV
+19	Barack Obama	US	United_States	20	M	EN
+20	Minamoto no Yoritomo	JP	Japan	12	M	JA
+21	Plato	GR	Greece	-5	M	EL
+22	William Shakespeare	UK	United_Kingdom	16	M	EN
+23	Immanuel Kant	RU	Russia	18	M	RU
+24	Elizabeth II	UK	United_Kingdom	20	F	EN
+25	Albert Einstein	DE	Germany	19	M	DE
+26	Muhammad	SA	Saudi_Arabia	6	M	AR
+27	Mao Zedong	CN	China	19	M	ZH
+28	Emperor Tenmu	JP	Japan	7	M	JA
+29	Augustus	IT	Italy	-1	M	IT
+30	Junichiro Koizumi	JP	Japan	20	M	JA
+31	Natsume Sōseki	JP	Japan	19	M	JA
+32	Akihito	JP	Japan	20	M	JA
+33	Itō Hirobumi	JP	Japan	19	M	JA
+34	Franklin D. Roosevelt	US	United_States	19	M	EN
+35	Takeshi Kitano	JP	Japan	20	M	JA
+36	Alexander the Great	GR	Greece	-4	M	EL
+37	Isaac Newton	UK	United_Kingdom	17	M	EN
+38	Tokugawa Iemitsu	JP	Japan	17	M	JA
+39	Vladimir Lenin	RU	Russia	19	M	RU
+40	René Descartes	FR	France	16	M	FR
+41	Kūkai	JP	Japan	8	M	JA
+42	Osamu Tezuka	JP	Japan	20	M	JA
+43	Bill Clinton	US	United_States	20	M	EN
+44	John F. Kennedy	US	United_States	20	M	EN
+45	Fukuzawa Yukichi	JP	Japan	19	M	JA
+46	Georg Wilhelm Friedrich Hegel	DE	Germany	18	M	DE
+47	Christopher Columbus	IT	Italy	15	M	IT
+48	Tokugawa Yoshimune	JP	Japan	17	M	JA
+49	Pyotr Ilyich Tchaikovsky	RU	Russia	19	M	RU
+50	Shinzō Abe	JP	Japan	20	M	JA
+51	Richard Wagner	DE	Germany	19	M	DE
+52	Yumi Matsutoya	JP	Japan	20	F	JA
+53	Ashikaga Takauji	JP	Japan	14	M	JA
+54	Chiang Kai-shek	CN	China	19	M	ZH
+55	Tokugawa Yoshinobu	JP	Japan	19	M	JA
+56	Emperor Go-Daigo	JP	Japan	13	M	JA
+57	Johannes Brahms	DE	Germany	19	M	DE
+58	Confucius	CN	China	-6	M	ZH
+59	Ronald Reagan	US	United_States	20	M	EN
+60	Shigeru Yoshida	JP	Japan	19	M	JA
+61	Johann Wolfgang von Goethe	DE	Germany	18	M	DE
+62	Max Weber	DE	Germany	19	M	DE
+63	Michael Jackson	US	United_States	20	M	EN
+64	Takeda Shingen	JP	Japan	16	M	JA
+65	Galileo Galilei	IT	Italy	16	M	IT
+66	Charlemagne	BE	Belgium	8	M	NL
+67	Louis XIV of France	FR	France	17	M	FR
+68	Tokugawa Hidetada	JP	Japan	16	M	JA
+69	Richard Nixon	US	United_States	20	M	EN
+70	Sadaharu Oh	JP	Japan	20	M	JA
+71	Kakuei Tanaka	JP	Japan	20	M	JA
+72	Prince Shōtoku	JP	Japan	6	M	JA
+73	Tokugawa Tsunayoshi	JP	Japan	17	M	JA
+74	Seiko Matsuda	JP	Japan	20	F	JA
+75	Charles Darwin	UK	United_Kingdom	19	M	EN
+76	Yukio Mishima	JP	Japan	20	M	JA
+77	Emperor Tenji	JP	Japan	7	M	JA
+78	Tetsuya Komuro	JP	Japan	20	M	JA
+79	Shigeo Nagashima	JP	Japan	20	M	JA
+80	Benito Mussolini	IT	Italy	19	M	IT
+81	Winston Churchill	UK	United_Kingdom	19	M	EN
+82	Thomas Edison	US	United_States	19	M	EN
+83	Queen Victoria	UK	United_Kingdom	19	F	EN
+84	Shintaro Ishihara	JP	Japan	20	M	JA
+85	Kim Il-sung	KP	N._Korea	20	M	KO
+86	Claude Debussy	FR	France	19	M	FR
+87	Abraham Lincoln	US	United_States	19	M	EN
+88	Gustav Mahler	CZ	Czech_	19	M	WR
+89	Mori Ōgai	JP	Japan	19	M	JA
+90	Ryōtarō Shiba	JP	Japan	20	M	JA
+91	Socrates	GR	Greece	-5	M	EL
+92	Adam Smith	UK	United_Kingdom	18	M	EN
+93	Emperor Kanmu	JP	Japan	8	M	JA
+94	Emperor Wu of Han	CN	China	-2	M	ZH
+95	Napoleon III	FR	France	19	M	FR
+96	George Washington	US	United_States	18	M	EN
+97	Emperor Taishō	JP	Japan	19	M	JA
+98	Date Masamune	JP	Japan	16	M	JA
+99	Qin Shi Huang	CN	China	-3	M	ZH
+100	Empress Suiko	JP	Japan	6	F	JA

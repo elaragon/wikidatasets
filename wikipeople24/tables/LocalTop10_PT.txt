@@ -1,0 +1,12 @@
+#PT Portuguese local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 91 & Getúlio Vargas & 109 & Ronaldo \\
+2 & 83 & Cristiano Ronaldo & 100 & Getúlio Vargas \\
+3 & 74 & John VI of Portugal & 92 & Juscelino Kubitschek \\
+4 & 71 & Luiz Inácio Lula da Silva & 91 & Rubens Barrichello \\
+5 & 70 & Pedro I of Brazil & 90 & Joaquim Maria Machado de Assis \\
+6 & 67 & Ferdinand Magellan & 89 & Fernando Henrique Cardoso \\
+7 & 66 & Maria I of Portugal & 82 & Luís de Camões \\
+8 & 64 & John I of Portugal & 80 & José Saramago \\
+9 & 63 & Pedro II of Brazil & 79 & John VI of Portugal \\
+10 & 62 & Juscelino Kubitschek & 77 & Oscar Niemeyer \\

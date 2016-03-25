@@ -1,0 +1,65 @@
+#FemaleList
+#PageRankRanking, ThetaRanking Score, Number of appearances, Name, Birth country, Birth century, Language
+1	1789	24	Elizabeth II	UK	20	EN
+2	1094	17	Mary (mother of Jesus)	IL	-1	HE
+3	404	12	Queen Victoria	UK	19	EN
+4	234	6	Elizabeth I of England	UK	16	EN
+5	128	2	Maria Theresa	AT	18	DE
+6	100	1	Benazir Bhutto	PK	20	HI
+7	94	1	Catherine the Great	PL	18	PL
+8	91	1	Anne Frank	DE	20	DE
+9	87	1	Indira Gandhi	IN	20	HI
+10	86	1	Margrethe II of Denmark	DK	20	DA
+11	82	1	Sirindhorn	TH	20	TH
+12	79	1	Sirikit	TH	20	TH
+13	78	1	Mahadevi Varma	IN	20	HI
+14	78	1	Beatrix of the Netherlands	NL	20	NL
+15	75	1	Wu Zetian	CN	7	ZH
+16	75	1	Martina Navratilova	CZ	20	WR
+17	72	1	Teresa of Ávila	ES	16	ES
+18	68	1	Chris Evert	US	20	EN
+19	66	1	Maria I of Portugal	PT	18	PT
+20	65	1	Astrid Lindgren	SE	20	SV
+21	63	1	Christina, Queen of Sweden	SE	17	SV
+22	61	4	Madonna (entertainer)	US	20	EN
+23	57	1	Lynn Margulis	US	20	EN
+24	55	1	Elizabeth of Russia	RU	18	RU
+25	51	1	Wilhelmina of the Netherlands	NL	19	NL
+26	51	1	Saovabha Phongsri	TH	19	TH
+27	50	1	Ingmar Bergman	SE	20	SV
+28	49	1	Yumi Matsutoya	JP	20	JA
+29	49	1	Yingluck Shinawatra	TH	20	TH
+30	47	1	Steffi Graf	DE	20	DE
+31	47	1	Juliana of the Netherlands	NL	20	NL
+32	46	1	Galyani Vadhana	UK	20	EN
+33	43	1	Isabella II of Spain	ES	19	ES
+34	42	1	Debsirindra	TH	19	TH
+35	40	1	Roni Dalumi	IL	20	HE
+36	39	2	Marie Curie	PL	19	PL
+37	38	1	Rekha	IN	20	HI
+38	38	1	Margaret Thatcher	UK	20	EN
+39	38	1	Bonnie Wright	UK	20	EN
+40	37	1	Srinagarindra	TH	19	TH
+41	37	1	Kati Kovács	HU	20	HU
+42	37	1	Golda Meir	UA	19	WR
+43	32	2	Hillary Rodham Clinton	US	20	EN
+44	32	1	Sri Suriyendra	TH	18	TH
+45	31	1	Selma Lagerlöf	SE	19	SV
+46	29	1	Margaret, Maid of Norway	NO	13	WR
+47	28	1	Diana, Princess of Wales	UK	20	EN
+48	27	1	Seiko Matsuda	JP	20	JA
+49	23	1	Siti Nurhaliza	MY	20	MS
+50	21	1	Farah Pahlavi	IR	20	FA
+51	21	1	Amarindra	TH	18	TH
+52	20	1	Aisha	SA	7	AR
+53	19	1	Meira Kumar	IN	20	HI
+54	19	1	Megawati Sukarnoputri	ID	20	WR
+55	18	1	Sophie Magdalene of Brandenburg-Kulmbach	DE	17	DE
+56	18	1	Billie Jean King	US	20	EN
+57	16	1	Margaret I of Denmark	DK	14	DA
+58	12	1	Aruna Irani	IN	20	HI
+59	9	1	Angela Merkel	DE	20	DE
+60	5	1	Venus Williams	US	20	EN
+61	5	1	Anne, Queen of Great Britain	UK	17	EN
+62	1	1	Empress Suiko	JP	6	JA
+63	1	1	Empress Dowager Cixi	CN	19	ZH

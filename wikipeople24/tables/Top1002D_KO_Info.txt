@@ -1,0 +1,102 @@
+#List of top 100 Korean 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Park Chung-hee	KO	S._Korea	20	M	KO
+2	Kim Dae-jung	KO	S._Korea	20	M	KO
+3	Gojong of the Korean Empire	KO	S._Korea	19	M	KO
+4	Roh Moo-hyun	KO	S._Korea	20	M	KO
+5	Kim Il-sung	KP	N._Korea	20	M	KO
+6	Sejong the Great	KO	S._Korea	14	M	KO
+7	Taejo of Goryeo	KP	N._Korea	9	M	KO
+8	Kim Young-sam	KO	S._Korea	20	M	KO
+9	Jeongjo of Joseon	KO	S._Korea	18	M	KO
+10	Kangxi Emperor	CN	China	17	M	ZH
+11	Syngman Rhee	KP	N._Korea	19	M	KO
+12	Roh Tae-woo	KO	S._Korea	20	M	KO
+13	Julius Caesar	IT	Italy	-1	M	IT
+14	Tokugawa Ieyasu	JP	Japan	16	M	JA
+15	Heungseon Daewongun	KO	S._Korea	19	M	KO
+16	Taejong of Joseon	KP	N._Korea	14	M	KO
+17	Lee Myung-bak	JP	Japan	20	M	JA
+18	Seonjo of Joseon	KO	S._Korea	16	M	KO
+19	Augustus	IT	Italy	-1	M	IT
+20	Liu Bei	CN	China	2	M	ZH
+21	Toyotomi Hideyoshi	JP	Japan	16	M	JA
+22	Qianlong Emperor	CN	China	18	M	ZH
+23	Chang Myon	KO	S._Korea	19	M	KO
+24	Yi Sun-sin	KO	S._Korea	16	M	KO
+25	Injo of Joseon	KO	S._Korea	16	M	KO
+26	Yeonsangun of Joseon	KO	S._Korea	15	M	KO
+27	Pope John Paul II	PL	Poland	20	M	PL
+28	Seongjong of Joseon	KO	S._Korea	15	M	KO
+29	Taejo of Joseon	KP	N._Korea	14	M	KO
+30	Chun Doo-hwan	KO	S._Korea	20	M	KO
+31	Charlemagne	BE	Belgium	8	M	NL
+32	Hirohito	JP	Japan	20	M	JA
+33	Benito Mussolini	IT	Italy	19	M	IT
+34	Nam Gon	KO	S._Korea	15	M	KO
+35	Gongmin of Goryeo	KP	N._Korea	14	M	KO
+36	Charles Darwin	UK	United_Kingdom	19	M	EN
+37	Empress Myeongseong	KO	S._Korea	19	F	KO
+38	Kim Kyu-sik	KO	S._Korea	19	M	KO
+39	Charlie Chaplin	UK	United_Kingdom	19	M	EN
+40	Choi Kyu-hah	KO	S._Korea	20	M	KO
+41	Kim Jong-pil	KO	S._Korea	20	M	KO
+42	Park Geun-hye	KO	S._Korea	20	F	KO
+43	Yeongjo of Joseon	KO	S._Korea	17	M	KO
+44	Michael Jackson	US	United_States	20	M	EN
+45	Gwangjong of Goryeo	KP	N._Korea	10	M	KO
+46	Mao Zedong	CN	China	19	M	ZH
+47	Junichiro Koizumi	JP	Japan	20	M	JA
+48	Yun Chi-ho	KO	S._Korea	19	M	KO
+49	Lee Wan-yong	KO	S._Korea	19	M	KO
+50	Oda Nobunaga	JP	Japan	16	M	JA
+51	Gottfried Wilhelm Leibniz	DE	Germany	17	M	DE
+52	Henry VIII of England	UK	United_Kingdom	15	M	EN
+53	Thomas Jefferson	US	United_States	18	M	EN
+54	Lyuh Woon-hyung	KO	S._Korea	19	M	KO
+55	Zhuge Liang	CN	China	2	M	ZH
+56	Pope Benedict XVI	DE	Germany	20	M	DE
+57	Gwanghaegun of Joseon	KO	S._Korea	16	M	KO
+58	Park Yeong-hyo	KO	S._Korea	19	M	KO
+59	Kim Seong-su	KO	S._Korea	19	M	KO
+60	Jeong Do-jeon	KO	S._Korea	14	M	KO
+61	Adolf Hitler	AT	Austria	19	M	DE
+62	Lee Beom-seok (Prime Minister)	KO	S._Korea	19	M	KO
+63	Shinzō Abe	JP	Japan	20	M	JA
+64	Pak Hon-yong	KO	S._Korea	19	M	KO
+65	Gwanggaeto the Great	CN	China	4	M	ZH
+66	Georg Wilhelm Friedrich Hegel	DE	Germany	18	M	DE
+67	An Chang-ho	KP	N._Korea	19	M	KO
+68	An Jung-geun	KP	N._Korea	19	M	KO
+69	Guan Yu	CN	China	2	M	ZH
+70	Seo Jae-pil	KO	S._Korea	19	M	KO
+71	Lee Seung-Yeop	KO	S._Korea	20	M	KO
+72	Sukjong of Joseon	KO	S._Korea	17	M	KO
+73	Johannes Kepler	DE	Germany	16	M	DE
+74	Jangsu of Goguryeo	CN	China	4	M	ZH
+75	Jeong Mong-ju	KO	S._Korea	14	M	KO
+76	Yi I	KO	S._Korea	16	M	KO
+77	Kim Gu	KP	N._Korea	19	M	KO
+78	U of Goryeo	KP	N._Korea	14	M	KO
+79	Friedrich Nietzsche	DE	Germany	19	M	DE
+80	Archimedes	IT	Italy	-3	M	IT
+81	Munmu of Silla	KO	S._Korea	7	M	KO
+82	Chang Taek-sang	KO	S._Korea	19	M	KO
+83	Yi Si-yeong	KO	S._Korea	19	M	KO
+84	Kim Ok-gyun	KO	S._Korea	19	M	KO
+85	Confucius	CN	China	-6	M	ZH
+86	George Frideric Handel	DE	Germany	17	M	DE
+87	Uija of Baekje	KO	S._Korea	6	M	KO
+88	Antoine Lavoisier	FR	France	18	M	FR
+89	Ludwig van Beethoven	DE	Germany	18	M	DE
+90	Yun Chi-young	KO	S._Korea	19	M	KO
+91	Park Ji-Sung	KO	S._Korea	20	M	KO
+92	Shin Chaeho	KO	S._Korea	19	M	KO
+93	Napoleon	FR	France	18	M	FR
+94	Louis XIV of France	FR	France	17	M	FR
+95	Ludwig Wittgenstein	AT	Austria	19	M	DE
+96	Chiang Kai-shek	CN	China	19	M	ZH
+97	Munjong of Goryeo	KP	N._Korea	11	M	KO
+98	Saddam Hussein	IQ	Iraq	20	M	AR
+99	Yi Un	KO	S._Korea	19	M	KO
+100	Shin Ik-hee	KO	S._Korea	19	M	KO

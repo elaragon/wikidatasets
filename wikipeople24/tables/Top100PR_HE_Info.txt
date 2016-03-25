@@ -1,0 +1,102 @@
+#List of top 100 Hebrew PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Benazir Bhutto	PK	Pakistan	20	F	HI
+2	Yitzhak Rabin	IL	Israel	20	M	HE
+3	Neil Armstrong	US	United_States	20	M	EN
+4	Yuri Gagarin	RU	Russia	20	M	RU
+5	Saddam Hussein	IQ	Iraq	20	M	AR
+6	Yigal Amir	IL	Israel	20	M	HE
+7	Aristotle	GR	Greece	-4	M	EL
+8	Jesus	PS	State_of_Palestine	-1	M	AR
+9	Napoleon	FR	France	18	M	FR
+10	Anne Frank	DE	Germany	20	F	DE
+11	Moses	EG	Egypt	-14	M	AR
+12	Albert Einstein	DE	Germany	19	M	DE
+13	David Ben-Gurion	PL	Poland	19	M	PL
+14	Irakli Okruashvili	GE	Georgia	20	M	WR
+15	Menachem Begin	BY	Belarus	20	M	RU
+16	Plato	GR	Greece	-5	M	EL
+17	Adolf Hitler	AT	Austria	19	M	DE
+18	Alexander the Great	GR	Greece	-4	M	EL
+19	Julius Caesar	IT	Italy	-1	M	IT
+20	Tom Segev	IL	Israel	20	M	HE
+21	Muhammad	SA	Saudi_Arabia	6	M	AR
+22	Joseph Stalin	GE	Georgia	19	M	WR
+23	Isaac Newton	UK	United_Kingdom	17	M	EN
+24	Anwar Sadat	EG	Egypt	20	M	AR
+25	William Shakespeare	UK	United_Kingdom	16	M	EN
+26	Ariel Sharon	IL	Israel	20	M	HE
+27	Shimon Peres	BY	Belarus	20	M	RU
+28	Josephus	IL	Israel	1	M	HE
+29	Nathan Alterman	PL	Poland	20	M	PL
+30	Johann Sebastian Bach	DE	Germany	17	M	DE
+31	Hayim Nahman Bialik	UA	Ukraine	19	M	WR
+32	Karl Marx	DE	Germany	19	M	DE
+33	Augustus	IT	Italy	-1	M	IT
+34	Sigmund Freud	CZ	Czech_	19	M	WR
+35	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+36	Benjamin Netanyahu	IL	Israel	20	M	HE
+37	Abraham Isaac Kook	LV	Latvia	19	M	WR
+38	Immanuel Kant	RU	Russia	18	M	RU
+39	Yasser Arafat	EG	Egypt	20	M	AR
+40	Carl Linnaeus	SE	Sweden	18	M	SV
+41	Ludwig van Beethoven	DE	Germany	18	M	DE
+42	Shmuel Yosef Agnon	UA	Ukraine	19	M	WR
+43	Elizabeth II	UK	United_Kingdom	20	F	EN
+44	Constantine the Great	RS	Serbia	3	M	WR
+45	Theodor Herzl	HU	Hungary	19	M	HU
+46	Bill Clinton	US	United_States	20	M	EN
+47	Herod the Great	IL	Israel	-1	M	HE
+48	Akiva ben Joseph	IL	Israel	1	M	HE
+49	Ehud Barak	IL	Israel	20	M	HE
+50	Vilna Gaon	LT	Lithuania	18	M	WR
+51	Charlemagne	BE	Belgium	8	M	NL
+52	René Descartes	FR	France	16	M	FR
+53	Galileo Galilei	IT	Italy	16	M	IT
+54	Herodotus	TR	Turkey	-5	M	TR
+55	Christopher Columbus	IT	Italy	15	M	IT
+56	Jeremiah	IL	Israel	-7	M	HE
+57	Abraham Lincoln	US	United_States	19	M	EN
+58	Chaim Weizmann	BY	Belarus	19	M	RU
+59	Arthur Honegger	FR	France	19	M	FR
+60	Franklin D. Roosevelt	US	United_States	19	M	EN
+61	Roni Dalumi	IL	Israel	20	F	HE
+62	Aharon Barak	LT	Lithuania	20	M	WR
+63	Bonnie Wright	UK	United_Kingdom	20	F	EN
+64	Golda Meir	UA	Ukraine	19	F	WR
+65	Barack Obama	US	United_States	20	M	EN
+66	Natan Yonatan	UA	Ukraine	20	M	WR
+67	Socrates	GR	Greece	-5	M	EL
+68	Moshe Dayan	IL	Israel	20	M	HE
+69	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+70	Gottfried Wilhelm Leibniz	DE	Germany	17	M	DE
+71	Sophocles	GR	Greece	-5	M	EL
+72	Judah the Prince	IL	Israel	2	M	HE
+73	Joseph ben Ephraim Karo	ES	Spain	15	M	ES
+74	Max Weber	DE	Germany	19	M	DE
+75	Tzvi Pesach Frank	LT	Lithuania	19	M	WR
+76	Yitzhak Shamir	BY	Belarus	20	M	RU
+77	Zac Efron	US	United_States	20	M	EN
+78	Aeschylus	GR	Greece	-6	M	EL
+79	Ehud Olmert	IL	Israel	20	M	HE
+80	Nebuchadnezzar II	IQ	Iraq	-7	M	AR
+81	Levi Eshkol	UA	Ukraine	19	M	WR
+82	Benito Mussolini	IT	Italy	19	M	IT
+83	Franz Schubert	AT	Austria	18	M	DE
+84	Louis XIV of France	FR	France	17	M	FR
+85	Eli Eshed	IL	Israel	20	M	HE
+86	Baal Shem Tov	UA	Ukraine	17	M	WR
+87	Judah Halevi	ES	Spain	11	M	ES
+88	Dante Alighieri	IT	Italy	13	M	IT
+89	Yitzhak Ben-Zvi	UA	Ukraine	19	M	WR
+90	Queen Victoria	UK	United_Kingdom	19	F	EN
+91	Ali	SA	Saudi_Arabia	7	M	AR
+92	Baruch Spinoza	NL	Netherlands	17	M	NL
+93	Ronald Reagan	US	United_States	20	M	EN
+94	Harry S. Truman	US	United_States	19	M	EN
+95	Saladin	IQ	Iraq	12	M	AR
+96	Eliezer Ben-Yehuda	BY	Belarus	19	M	RU
+97	Henry VIII of England	UK	United_Kingdom	15	M	EN
+98	Saadia Gaon	EG	Egypt	9	M	AR
+99	Ptolemy	EG	Egypt	1	M	AR
+100	Johanan bar Nappaha	IL	Israel	3	M	HE

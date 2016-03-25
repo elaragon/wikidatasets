@@ -1,0 +1,102 @@
+#List of top 100 Hindi 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Akbar	PK	Pakistan	16	M	HI
+2	Indira Gandhi	IN	India	20	F	HI
+3	Mahadevi Varma	IN	India	20	F	HI
+4	Martina Navratilova	CZ	Czech_	20	F	WR
+5	Sanjeev Kumar	IN	India	20	M	HI
+6	Chris Evert	US	United_States	20	F	EN
+7	Roger Federer	CH	Switzerland	20	M	DE
+8	Amitabh Bachchan	IN	India	20	M	HI
+9	Pete Sampras	US	United_States	20	M	EN
+10	Premchand	IN	India	19	M	HI
+11	Dayananda Saraswati	IN	India	19	M	HI
+12	Jaishankar Prasad	IN	India	19	M	HI
+13	Ivan Lendl	CZ	Czech_	20	M	WR
+14	Steffi Graf	DE	Germany	20	F	DE
+15	Adi Shankara	IN	India	8	M	HI
+16	Amrish Puri	IN	India	20	M	HI
+17	Anupam Kher	IN	India	20	M	HI
+18	Ramchandra Shukla	IN	India	19	M	HI
+19	Tulsidas	IN	India	15	M	HI
+20	Shakti Kapoor	IN	India	20	M	HI
+21	Vinayak Damodar Savarkar	IN	India	19	M	HI
+22	Rekha	IN	India	20	F	HI
+23	Rafael Nadal	ES	Spain	20	M	ES
+24	Asrani	IN	India	20	M	HI
+25	Chaitanya Mahaprabhu	IN	India	15	M	HI
+26	Prem Chopra	PK	Pakistan	20	M	HI
+27	Chandra Shekhar Azad	IN	India	20	M	HI
+28	Raj Kapoor	PK	Pakistan	20	M	HI
+29	Gulshan Grover	IN	India	20	M	HI
+30	Xuanzang	CN	China	7	M	ZH
+31	Billie Jean King	US	United_States	20	F	EN
+32	Dilip Kumar	PK	Pakistan	20	M	HI
+33	Paresh Rawal	IN	India	20	M	HI
+34	Jeetendra	IN	India	20	M	HI
+35	Aruna Irani	IN	India	20	F	HI
+36	Shivaji	IN	India	17	M	HI
+37	Hemachandra	IN	India	11	M	HI
+38	Ram Manohar Lohia	IN	India	20	M	HI
+39	Venus Williams	US	United_States	20	F	EN
+40	Naseeruddin Shah	IN	India	20	M	HI
+41	Stefan Edberg	SE	Sweden	20	M	SV
+42	Aamir Khan	IN	India	20	M	HI
+43	Babur	UZ	Uzbekistan	15	M	WR
+44	Helen Wills	US	United_States	20	F	EN
+45	Mahmud of Ghazni	AF	Afghanistan	10	M	FA
+46	Madhubala	IN	India	20	F	HI
+47	Dharmendra	IN	India	20	M	HI
+48	B. R. Ambedkar	IN	India	19	M	HI
+49	Yunus Parvez	IN	India	20	M	HI
+50	Mithun Chakraborty	IN	India	20	M	HI
+51	Margaret Court	AU	Australia	20	F	EN
+52	Shahrukh Khan	IN	India	20	M	HI
+53	Bhagat Singh	PK	Pakistan	20	M	HI
+54	Satyajit Ray	IN	India	20	M	HI
+55	Monica Seles	RS	Serbia	20	F	WR
+56	Meena Kumari	IN	India	20	F	HI
+57	Sanjay Dutt	IN	India	20	M	HI
+58	Nirupa Roy	IN	India	20	F	HI
+59	Manoj Kumar	PK	Pakistan	20	M	HI
+60	Sri Aurobindo	IN	India	19	M	HI
+61	Lindsay Davenport	US	United_States	20	F	EN
+62	Om Puri	IN	India	20	M	HI
+63	Aryabhata	IN	India	5	M	HI
+64	Pran	IN	India	20	M	HI
+65	Anil Kapoor	IN	India	20	M	HI
+66	Kamleshwar	IN	India	20	M	HI
+67	Dev Anand	PK	Pakistan	20	M	HI
+68	Carl Linnaeus	SE	Sweden	18	M	SV
+69	Subhas Chandra Bose	IN	India	19	M	HI
+70	Subhash Kak	IN	India	20	M	HI
+71	Akshay Kumar	IN	India	20	M	HI
+72	Johnny Walker (actor)	IN	India	20	M	HI
+73	Bharatendu Harishchandra	IN	India	19	M	HI
+74	Raaj Kumar	PK	Pakistan	20	M	HI
+75	Vinod Khanna	PK	Pakistan	20	M	HI
+76	Leela Mishra	IN	India	20	F	HI
+77	Sunil Dutt	PK	Pakistan	20	M	HI
+78	Manmohan Singh	PK	Pakistan	20	M	HI
+79	Kishore Kumar	IN	India	20	M	HI
+80	Satyen Kappu	IN	India	20	M	HI
+81	Salman Khan	IN	India	20	M	HI
+82	Martina Hingis	SK	Slovakia	20	F	WR
+83	Satish Shah	IN	India	20	M	HI
+84	Rajendra Prasad	IN	India	19	M	HI
+85	Marat Safin	RU	Russia	20	M	RU
+86	Isaac Newton	UK	United_Kingdom	17	M	EN
+87	Serena Williams	US	United_States	20	F	EN
+88	Govinda (actor)	IN	India	20	M	HI
+89	Shashi Kapoor	IN	India	20	M	HI
+90	Rishi Kapoor	IN	India	20	M	HI
+91	Juhi Chawla	IN	India	20	F	HI
+92	Mark Knowles	BS	Bahamas	20	M	EN
+93	Raj Babbar	IN	India	20	M	HI
+94	Shabana Azmi	IN	India	20	F	HI
+95	Daṇḍin	IN	India	6	M	HI
+96	Iftekhar	PK	Pakistan	20	M	HI
+97	Bob Bryan	US	United_States	20	M	EN
+98	Jagdeep	IN	India	20	M	HI
+99	Pratibha Patil	IN	India	20	F	HI
+100	Kunwar Narayan	IN	India	20	M	HI

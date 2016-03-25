@@ -1,0 +1,102 @@
+#List of top 100 French 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	François Mitterrand	FR	France	20	M	FR
+2	Nicolas Sarkozy	FR	France	20	M	FR
+3	Jacques Chirac	FR	France	20	M	FR
+4	Honoré de Balzac	FR	France	18	M	FR
+5	Ludwig van Beethoven	DE	Germany	18	M	DE
+6	Napoleon III	FR	France	19	M	FR
+7	Otto von Bismarck	DE	Germany	19	M	DE
+8	Adolf Hitler	AT	Austria	19	M	DE
+9	Johnny Hallyday	FR	France	20	M	FR
+10	Jules Verne	FR	France	19	M	FR
+11	Leonardo da Vinci	IT	Italy	15	M	IT
+12	Napoleon	FR	France	18	M	FR
+13	Henry IV of France	FR	France	16	M	FR
+14	14th Dalai Lama	CN	China	20	M	ZH
+15	Serge Gainsbourg	FR	France	20	M	FR
+16	Georges Clemenceau	FR	France	19	M	FR
+17	Madonna (entertainer)	US	United_States	20	F	EN
+18	Thomas Jefferson	US	United_States	18	M	EN
+19	Jacques-Louis David	FR	France	18	M	FR
+20	Michael Jackson	US	United_States	20	M	EN
+21	Alfred Hitchcock	UK	United_Kingdom	19	M	EN
+22	Sigmund Freud	CZ	Czech_	19	M	WR
+23	Maximilien de Robespierre	FR	France	18	M	FR
+24	Charles de Gaulle	FR	France	19	M	FR
+25	Arthur Rimbaud	FR	France	19	M	FR
+26	Steven Spielberg	US	United_States	20	M	EN
+27	J. R. R. Tolkien	ZA	South_Africa	19	M	WR
+28	Winston Churchill	UK	United_Kingdom	19	M	EN
+29	Charles Darwin	UK	United_Kingdom	19	M	EN
+30	Giuseppe Verdi	IT	Italy	19	M	IT
+31	Salvador Dalí	ES	Spain	20	M	ES
+32	Nelson Mandela	ZA	South_Africa	20	M	WR
+33	Carl Linnaeus	SE	Sweden	18	M	SV
+34	Louis Feuillade	FR	France	19	M	FR
+35	Carl Jung	CH	Switzerland	19	M	DE
+36	Celine Dion	CA	Canada	20	F	EN
+37	Benito Mussolini	IT	Italy	19	M	IT
+38	Frédéric Chopin	PL	Poland	19	M	PL
+39	Edgar Allan Poe	US	United_States	19	M	EN
+40	Gérard Depardieu	FR	France	20	M	FR
+41	Giuseppe Garibaldi	FR	France	19	M	FR
+42	Johann Sebastian Bach	DE	Germany	17	M	DE
+43	Michael Schumacher	DE	Germany	20	M	DE
+44	Martin Scorsese	US	United_States	20	M	EN
+45	Denis Diderot	FR	France	18	M	FR
+46	John Lennon	UK	United_Kingdom	20	M	EN
+47	Paul McCartney	UK	United_Kingdom	20	M	EN
+48	Alexander the Great	GR	Greece	-4	M	EL
+49	Pope Benedict XVI	DE	Germany	20	M	DE
+50	Elizabeth II	UK	United_Kingdom	20	F	EN
+51	Clint Eastwood	US	United_States	20	M	EN
+52	Charles Maurice de Talleyrand-Périgord	FR	France	18	M	FR
+53	John Ford	US	United_States	19	M	EN
+54	Orson Welles	US	United_States	20	M	EN
+55	Albert Camus	DZ	Algeria	20	M	AR
+56	François Hollande	FR	France	20	M	FR
+57	Le Corbusier	CH	Switzerland	19	M	DE
+58	George W. Bush	US	United_States	20	M	EN
+59	Brigitte Bardot	FR	France	20	F	FR
+60	Renaud	FR	France	20	M	FR
+61	Gilbert du Motier, Marquis de Lafayette	FR	France	18	M	FR
+62	Georges Simenon	BE	Belgium	20	M	NL
+63	Jean-Marie Le Pen	FR	France	20	M	FR
+64	Sacha Guitry	RU	Russia	19	M	RU
+65	Isaac Asimov	RU	Russia	20	M	RU
+66	Miles Davis	US	United_States	20	M	EN
+67	Barack Obama	US	United_States	20	M	EN
+68	André Malraux	FR	France	20	M	FR
+69	George Frideric Handel	DE	Germany	17	M	DE
+70	René Goscinny	FR	France	20	M	FR
+71	Anton Chekhov	RU	Russia	19	M	RU
+72	Charlemagne	BE	Belgium	8	M	NL
+73	Walter Scott	UK	United_Kingdom	18	M	EN
+74	Luc Besson	FR	France	20	M	FR
+75	Walt Disney	US	United_States	20	M	EN
+76	Michael Jordan	US	United_States	20	M	EN
+77	Joan Miró	ES	Spain	19	M	ES
+78	Jacques Brel	BE	Belgium	20	M	NL
+79	Roman Polanski	FR	France	20	M	FR
+80	Philippe Noiret	FR	France	20	M	FR
+81	Che Guevara	AR	Argentina	20	M	ES
+82	Franz Liszt	AT	Austria	19	M	DE
+83	Queen Victoria	UK	United_Kingdom	19	F	EN
+84	George Harrison	UK	United_Kingdom	20	M	EN
+85	Claude François	EG	Egypt	20	M	AR
+86	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+87	Pope John Paul II	PL	Poland	20	M	PL
+88	Gerald Ford	US	United_States	20	M	EN
+89	Attila	XX	Unknown	5	M	WR
+90	Prince (musician)	US	United_States	20	M	EN
+91	Britney Spears	US	United_States	20	F	EN
+92	Ingmar Bergman	SE	Sweden	20	F	SV
+93	Camillo Benso, Count of Cavour	IT	Italy	19	M	IT
+94	Caravaggio	IT	Italy	16	M	IT
+95	Marguerite Duras	VN	Vietnam	20	F	VI
+96	Quentin Tarantino	US	United_States	20	M	EN
+97	Jean Gabin	FR	France	20	M	FR
+98	Louis XIV of France	FR	France	17	M	FR
+99	Agatha Christie	UK	United_Kingdom	19	F	EN
+100	Joseph Haydn	AT	Austria	18	M	DE

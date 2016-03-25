@@ -1,0 +1,102 @@
+#List of top 100 German PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Napoleon	FR	France	18	M	FR
+2	Carl Linnaeus	SE	Sweden	18	M	SV
+3	Adolf Hitler	AT	Austria	19	M	DE
+4	Aristotle	GR	Greece	-4	M	EL
+5	Johann Wolfgang von Goethe	DE	Germany	18	M	DE
+6	Martin Luther	DE	Germany	15	M	DE
+7	Jesus	PS	State_of_Palestine	-1	M	AR
+8	Pope John Paul II	PL	Poland	20	M	PL
+9	Immanuel Kant	RU	Russia	18	M	RU
+10	Charlemagne	BE	Belgium	8	M	NL
+11	Plato	GR	Greece	-5	M	EL
+12	Karl Marx	DE	Germany	19	M	DE
+13	Pope Benedict XVI	DE	Germany	20	M	DE
+14	Julius Caesar	IT	Italy	-1	M	IT
+15	Augustus	IT	Italy	-1	M	IT
+16	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+17	William Shakespeare	UK	United_Kingdom	16	M	EN
+18	Friedrich Schiller	DE	Germany	18	M	DE
+19	Joseph Stalin	GE	Georgia	19	M	WR
+20	Louis XIV of France	FR	France	17	M	FR
+21	Otto von Bismarck	DE	Germany	19	M	DE
+22	Wilhelm II, German Emperor	DE	Germany	19	M	DE
+23	Cicero	IT	Italy	-2	M	IT
+24	Max Weber	DE	Germany	19	M	DE
+25	Charles V, Holy Roman Emperor	BE	Belgium	15	M	NL
+26	Frederick the Great	DE	Germany	18	M	DE
+27	Johann Sebastian Bach	DE	Germany	17	M	DE
+28	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+29	Albert Einstein	DE	Germany	19	M	DE
+30	Georg Wilhelm Friedrich Hegel	DE	Germany	18	M	DE
+31	Augustine of Hippo	DZ	Algeria	4	M	AR
+32	Paul the Apostle	TR	Turkey	1	M	TR
+33	Elizabeth II	UK	United_Kingdom	20	F	EN
+34	Ludwig van Beethoven	DE	Germany	18	M	DE
+35	Richard Wagner	DE	Germany	19	M	DE
+36	Alexander the Great	GR	Greece	-4	M	EL
+37	George W. Bush	US	United_States	20	M	EN
+38	Konrad Adenauer	DE	Germany	19	M	DE
+39	Sigmund Freud	CZ	Czech_	19	M	WR
+40	Isaac Newton	UK	United_Kingdom	17	M	EN
+41	Friedrich Nietzsche	DE	Germany	19	M	DE
+42	Benito Mussolini	IT	Italy	19	M	IT
+43	Justinian I	MK	Macedonia	5	M	WR
+44	Gottfried Wilhelm Leibniz	DE	Germany	17	M	DE
+45	Franz Joseph I of Austria	AT	Austria	19	M	DE
+46	Saint Peter	IL	Israel	1	M	HE
+47	Bertolt Brecht	DE	Germany	19	M	DE
+48	Frederick I, Holy Roman Emperor	DE	Germany	12	M	DE
+49	Christopher Columbus	IT	Italy	15	M	IT
+50	Pliny the Elder	IT	Italy	1	M	IT
+51	Constantine the Great	RS	Serbia	3	M	WR
+52	Muhammad	SA	Saudi_Arabia	6	M	AR
+53	Maximilian I, Holy Roman Emperor	AT	Austria	15	M	DE
+54	Pope Paul VI	IT	Italy	19	M	IT
+55	Franklin D. Roosevelt	US	United_States	19	M	EN
+56	Maria Theresa	AT	Austria	18	F	DE
+57	Herodotus	TR	Turkey	-5	M	TR
+58	Frederick II, Holy Roman Emperor	IT	Italy	12	M	IT
+59	Vladimir Lenin	RU	Russia	19	M	RU
+60	Joseph II, Holy Roman Emperor	AT	Austria	18	M	DE
+61	Jean-Jacques Rousseau	CH	Switzerland	18	M	DE
+62	Thomas Mann	DE	Germany	19	M	DE
+63	Thomas Aquinas	IT	Italy	13	M	IT
+64	René Descartes	FR	France	16	M	FR
+65	Barack Obama	US	United_States	20	M	EN
+66	Charles Darwin	UK	United_Kingdom	19	M	EN
+67	Bill Clinton	US	United_States	20	M	EN
+68	Tacitus	FR	France	1	M	FR
+69	Winston Churchill	UK	United_Kingdom	19	M	EN
+70	William I, German Emperor	DE	Germany	18	M	DE
+71	Diocletian	HR	Croatia	3	M	WR
+72	John F. Kennedy	US	United_States	20	M	EN
+73	Helmut Kohl	DE	Germany	20	M	DE
+74	John the Baptist	IL	Israel	-1	M	HE
+75	Charles IV, Holy Roman Emperor	CZ	Czech_	14	M	WR
+76	Willy Brandt	DE	Germany	20	M	DE
+77	Ptolemy	EG	Egypt	1	M	AR
+78	Otto I, Holy Roman Emperor	DE	Germany	10	M	DE
+79	Thomas Jefferson	US	United_States	18	M	EN
+80	Abraham Lincoln	US	United_States	19	M	EN
+81	Virgil	IT	Italy	-1	M	IT
+82	Ronald Reagan	US	United_States	20	M	EN
+83	Pope Pius XII	IT	Italy	19	M	IT
+84	Galileo Galilei	IT	Italy	16	M	IT
+85	Friedrich Engels	DE	Germany	19	M	DE
+86	Wilhelm von Humboldt	DE	Germany	18	M	DE
+87	Gotthold Ephraim Lessing	DE	Germany	18	M	DE
+88	Richard Nixon	US	United_States	20	M	EN
+89	Jürgen Habermas	DE	Germany	20	M	DE
+90	Charles de Gaulle	FR	France	19	M	FR
+91	Helmut Schmidt	DE	Germany	20	M	DE
+92	Angela Merkel	DE	Germany	20	F	DE
+93	George Frideric Handel	DE	Germany	17	M	DE
+94	Karl Popper	AT	Austria	20	M	DE
+95	Leonardo da Vinci	IT	Italy	15	M	IT
+96	Joseph Goebbels	DE	Germany	19	M	DE
+97	Desiderius Erasmus	NL	Netherlands	15	M	NL
+98	Queen Victoria	UK	United_Kingdom	19	F	EN
+99	George Washington	US	United_States	18	M	EN
+100	Alexander von Humboldt	DE	Germany	18	M	DE

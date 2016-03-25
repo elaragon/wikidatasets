@@ -1,0 +1,100 @@
+1	Muhammad
+2	Isaac Newton
+3	Jesus
+4	Gautama Buddha
+5	Confucius
+6	Paul the Apostle
+7	Cai Lun
+8	Johannes Gutenberg
+9	Christopher Columbus
+10	Albert Einstein
+11	Louis Pasteur
+12	Galileo Galilei
+13	Aristotle
+14	Euclid
+15	Moses
+16	Charles Darwin
+17	Qin Shi Huang
+18	Augustus
+19	Nicolaus Copernicus
+20	Antoine Lavoisier
+21	Constantine the Great
+22	James Watt
+23	Michael Faraday
+24	James Clerk Maxwell
+25	Martin Luther
+26	George Washington
+27	Karl Marx
+28	Wright Brothers
+29	Genghis Khan
+30	Adam Smith
+31	William Shakespeare
+32	John Dalton
+33	Alexander the Great
+34	Napoleon
+35	Thomas Edison
+36	Antonie van Leeuwenhoek
+37	William T. G. Morton
+38	Guglielmo Marconi
+39	Adolf Hitler
+40	Plato
+41	Oliver Cromwell
+42	Alexander Graham Bell
+43	Alexander Fleming
+44	John Locke
+45	Ludwig van Beethoven
+46	Werner Heisenberg
+47	Louis Daguerre
+48	Simón Bolívar
+49	René Descartes
+50	Michelangelo
+51	Pope Urban II
+52	Umar
+53	Ashoka
+54	Augustine of Hippo
+55	William Harvey
+56	Ernest Rutherford
+57	John Calvin
+58	Gregor Mendel
+59	Max Planck
+60	Joseph Lister, 1st Baron Lister
+61	Nicolaus Otto
+62	Francisco Pizarro
+63	Hernán Cortés
+64	Thomas Jefferson
+65	Isabella I of Castile
+66	Joseph Stalin
+67	Julius Caesar
+68	William the Conqueror
+69	Sigmund Freud
+70	Edward Jenner
+71	Wilhelm Röntgen
+72	Johann Sebastian Bach
+73	Laozi
+74	Voltaire
+75	Johannes Kepler
+76	Enrico Fermi
+77	Leonhard Euler
+78	Jean-Jacques Rousseau
+79	Niccolò Machiavelli
+80	Thomas Robert Malthus
+81	John F. Kennedy
+82	Gregory Goodwin Pincus
+83	Mani (prophet)
+84	Vladimir Lenin
+85	Emperor Yang of Sui
+86	Vasco da Gama
+87	Cyrus the Great
+88	Peter the Great
+89	Mao Zedong
+90	Francis Bacon
+91	Henry Ford
+92	Mencius
+93	Zoroaster
+94	Elizabeth I of England
+95	Mikhail Gorbachev
+96	Menes
+97	Charlemagne
+98	Homer
+99	Justinian I
+100	Mahavira

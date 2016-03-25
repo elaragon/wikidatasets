@@ -1,0 +1,12 @@
+#JA Japanese local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 154 & Toyotomi Hideyoshi & 346 & Tokugawa Ieyasu \\
+2 & 153 & Tokugawa Ieyasu & 266 & Toyotomi Hideyoshi \\
+3 & 108 & Hirohito & 252 & Hirohito \\
+4 & 97 & Oda Nobunaga & 233 & Oda Nobunaga \\
+5 & 86 & Emperor Meiji & 140 & Junichiro Koizumi \\
+6 & 81 & Minamoto no Yoritomo & 131 & Shinzō Abe \\
+7 & 76 & Junichiro Koizumi & 112 & Tsunku \\
+8 & 73 & Emperor Tenmu & 106 & Emperor Meiji \\
+9 & 70 & Natsume Sōseki & 100 & Koxinga \\
+10 & 69 & Akihito & 97 & Osamu Tezuka \\

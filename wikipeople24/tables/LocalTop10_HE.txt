@@ -1,0 +1,12 @@
+#HE Hebrew local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 1094 & Mary (mother of Jesus) & 580 & Mary (mother of Jesus) \\
+2 & 724 & Saint Peter & 240 & Saint Peter \\
+3 & 138 & John the Baptist & 171 & John the Baptist \\
+4 & 99 & Yitzhak Rabin & 99 & Saint George \\
+5 & 95 & Yigal Amir & 99 & Yitzhak Rabin \\
+6 & 84 & Josephus & 96 & Ariel Sharon \\
+7 & 81 & Tom Segev & 92 & Benjamin Netanyahu \\
+8 & 75 & Ariel Sharon & 85 & Ehud Barak \\
+9 & 65 & Benjamin Netanyahu & 82 & Roni Dalumi \\
+10 & 54 & Herod the Great & 79 & Moshe Dayan \\

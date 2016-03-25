@@ -1,0 +1,12 @@
+#FA Persian local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 110 & Zoroaster & 229 & Cyrus the Great \\
+2 & 101 & Darius I & 99 & Zoroaster \\
+3 & 100 & Mahmoud Ahmadinejad & 98 & Mohammad Reza Pahlavi \\
+4 & 97 & Mohammad Reza Pahlavi & 97 & Mohammad Khatami \\
+5 & 96 & Rezā Shāh & 96 & Mir-Hossein Mousavi \\
+6 & 94 & Cyrus the Great & 95 & Ruhollah Khomeini \\
+7 & 92 & Ferdowsi & 94 & Naser al-Din Shah Qajar \\
+8 & 90 & Ruhollah Khomeini & 93 & Ali Khamenei \\
+9 & 89 & Naser al-Din Shah Qajar & 92 & Mohammad Mosaddegh \\
+10 & 86 & Mohammad Khatami & 91 & Ardashir I \\

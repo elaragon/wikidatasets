@@ -1,0 +1,102 @@
+#List of top 100 Polish PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Jesus	PS	State_of_Palestine	-1	M	AR
+2	Pope John Paul II	PL	Poland	20	M	PL
+3	Carl Linnaeus	SE	Sweden	18	M	SV
+4	Napoleon	FR	France	18	M	FR
+5	Aristotle	GR	Greece	-4	M	EL
+6	Adolf Hitler	AT	Austria	19	M	DE
+7	Julius Caesar	IT	Italy	-1	M	IT
+8	Augustus	IT	Italy	-1	M	IT
+9	Joseph Stalin	GE	Georgia	19	M	WR
+10	Pope Benedict XVI	DE	Germany	20	M	DE
+11	Józef Piłsudski	LT	Lithuania	19	M	WR
+12	Elizabeth II	UK	United_Kingdom	20	F	EN
+13	Charlemagne	BE	Belgium	8	M	NL
+14	Paul the Apostle	TR	Turkey	1	M	TR
+15	Adam Mickiewicz	BY	Belarus	18	M	RU
+16	Martin Luther	DE	Germany	15	M	DE
+17	William Herschel	DE	Germany	18	M	DE
+18	Jogaila	LT	Lithuania	14	M	WR
+19	Augustine of Hippo	DZ	Algeria	4	M	AR
+20	Plato	GR	Greece	-5	M	EL
+21	Casimir III the Great	PL	Poland	14	M	PL
+22	William Shakespeare	UK	United_Kingdom	16	M	EN
+23	Stanisław August Poniatowski	BY	Belarus	18	M	RU
+24	Alexander the Great	GR	Greece	-4	M	EL
+25	Muhammad	SA	Saudi_Arabia	6	M	AR
+26	Louis XIV of France	FR	France	17	M	FR
+27	Saint Peter	IL	Israel	1	M	HE
+28	Constantine the Great	RS	Serbia	3	M	WR
+29	Isaac Newton	UK	United_Kingdom	17	M	EN
+30	Karl Marx	DE	Germany	19	M	DE
+31	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+32	Lech Wałęsa	PL	Poland	20	M	PL
+33	Albert Einstein	DE	Germany	19	M	DE
+34	Christopher Columbus	IT	Italy	15	M	IT
+35	Lech Kaczyński	PL	Poland	20	M	PL
+36	John Herschel	UK	United_Kingdom	18	M	EN
+37	Pope Paul VI	IT	Italy	19	M	IT
+38	Frédéric Chopin	PL	Poland	19	M	PL
+39	Vladimir Lenin	RU	Russia	19	M	RU
+40	Immanuel Kant	RU	Russia	18	M	RU
+41	Henryk Sienkiewicz	PL	Poland	19	M	PL
+42	Thomas Aquinas	IT	Italy	13	M	IT
+43	Sigismund I the Old	PL	Poland	15	M	PL
+44	Aleksander Kwaśniewski	PL	Poland	20	M	PL
+45	Jan Kochanowski	PL	Poland	16	M	PL
+46	Nicolaus Copernicus	PL	Poland	15	M	PL
+47	Cicero	IT	Italy	-2	M	IT
+48	John III Sobieski	UA	Ukraine	17	M	WR
+49	Sigismund III Vasa	SE	Sweden	16	M	SV
+50	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+51	Galileo Galilei	IT	Italy	16	M	IT
+52	Juliusz Słowacki	UA	Ukraine	19	M	WR
+53	Ludwig van Beethoven	DE	Germany	18	M	DE
+54	René Descartes	FR	France	16	M	FR
+55	Johann Wolfgang von Goethe	DE	Germany	18	M	DE
+56	Casimir IV Jagiellon	PL	Poland	15	M	PL
+57	Henry VIII of England	UK	United_Kingdom	15	M	EN
+58	Sigismund II Augustus	PL	Poland	16	M	PL
+59	Queen Victoria	UK	United_Kingdom	19	F	EN
+60	Charles V, Holy Roman Emperor	BE	Belgium	15	M	NL
+61	Tacitus	FR	France	1	M	FR
+62	Leonardo da Vinci	IT	Italy	15	M	IT
+63	Peter the Great	RU	Russia	17	M	RU
+64	Richard Wagner	DE	Germany	19	M	DE
+65	Moses	EG	Egypt	-14	M	AR
+66	Johann Sebastian Bach	DE	Germany	17	M	DE
+67	Pope Pius XII	IT	Italy	19	M	IT
+68	George W. Bush	US	United_States	20	M	EN
+69	Friedrich Nietzsche	DE	Germany	19	M	DE
+70	Charles Darwin	UK	United_Kingdom	19	M	EN
+71	Jan Długosz	PL	Poland	15	M	PL
+72	Gottfried Wilhelm Leibniz	DE	Germany	17	M	DE
+73	J. R. R. Tolkien	ZA	South_Africa	19	M	WR
+74	Augustus II the Strong	DE	Germany	17	M	DE
+75	Franklin D. Roosevelt	US	United_States	19	M	EN
+76	Giuseppe Verdi	IT	Italy	19	M	IT
+77	Frederick the Great	DE	Germany	18	M	DE
+78	Winston Churchill	UK	United_Kingdom	19	M	EN
+79	Ptolemy	EG	Egypt	1	M	AR
+80	Władysław I the Elbow-high	PL	Poland	13	M	PL
+81	Bolesław I Chrobry	PL	Poland	10	M	PL
+82	Napoleon III	FR	France	19	M	FR
+83	Aleksander Brückner	UA	Ukraine	19	M	WR
+84	Dante Alighieri	IT	Italy	13	M	IT
+85	John II Casimir Vasa	PL	Poland	17	M	PL
+86	Franz Joseph I of Austria	AT	Austria	19	M	DE
+87	Nero	IT	Italy	1	M	IT
+88	Jerome	SI	Slovenia	4	M	WR
+89	Ronald Reagan	US	United_States	20	M	EN
+90	Stephen Báthory	RO	Romania	16	M	WR
+91	Nikita Khrushchev	RU	Russia	19	M	RU
+92	Bronisław Komorowski	PL	Poland	20	M	PL
+93	John the Baptist	IL	Israel	-1	M	HE
+94	Pope Leo XIII	IT	Italy	19	M	IT
+95	Stefan Wyszyński	PL	Poland	20	M	PL
+96	Jimi Hendrix	US	United_States	20	M	EN
+97	Sigmund Freud	CZ	Czech_	19	M	WR
+98	Andrzej Wajda	PL	Poland	20	M	PL
+99	Nicholas II of Russia	RU	Russia	19	M	RU
+100	Bolesław III Wrymouth	PL	Poland	11	M	PL

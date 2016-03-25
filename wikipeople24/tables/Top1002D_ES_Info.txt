@@ -1,0 +1,102 @@
+#List of top 100 Spanish 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Francisco Goya	ES	Spain	18	M	ES
+2	Barack Obama	US	United_States	20	M	EN
+3	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+4	Madonna (entertainer)	US	United_States	20	F	EN
+5	Bob Dylan	US	United_States	20	M	EN
+6	Juan Perón	AR	Argentina	19	M	ES
+7	Augusto Pinochet	CL	Chile	20	M	ES
+8	Julius Caesar	IT	Italy	-1	M	IT
+9	Juan Carlos I of Spain	IT	Italy	20	M	IT
+10	Michael Jackson	US	United_States	20	M	EN
+11	J. R. R. Tolkien	ZA	South_Africa	19	M	WR
+12	Fidel Castro	CU	Cuba	20	M	ES
+13	Pablo Picasso	ES	Spain	19	M	ES
+14	Christopher Columbus	IT	Italy	15	M	IT
+15	Lope de Vega	ES	Spain	16	M	ES
+16	Jorge Luis Borges	AR	Argentina	19	M	ES
+17	Porfirio Díaz	MX	Mexico	19	M	ES
+18	Richard Wagner	DE	Germany	19	M	DE
+19	Frédéric Chopin	PL	Poland	19	M	PL
+20	Paul McCartney	UK	United_Kingdom	20	M	EN
+21	Adolf Hitler	AT	Austria	19	M	DE
+22	Diego Velázquez	ES	Spain	16	M	ES
+23	John Lennon	UK	United_Kingdom	20	M	EN
+24	Michelangelo	IT	Italy	15	M	IT
+25	Elizabeth II	UK	United_Kingdom	20	F	EN
+26	Hugo Chávez	VE	Venezuela	20	M	ES
+27	Edgar Allan Poe	US	United_States	19	M	EN
+28	Simón Bolívar	VE	Venezuela	18	M	ES
+29	David Bowie	UK	United_Kingdom	20	M	EN
+30	Friedrich Nietzsche	DE	Germany	19	M	DE
+31	Trajan	ES	Spain	1	M	ES
+32	Charlemagne	BE	Belgium	8	M	NL
+33	Francisco Franco	ES	Spain	19	M	ES
+34	Salvador Dalí	ES	Spain	20	M	ES
+35	José Luis Rodríguez Zapatero	ES	Spain	20	M	ES
+36	Salvador Allende	CL	Chile	20	M	ES
+37	George Frideric Handel	DE	Germany	17	M	DE
+38	Pope Benedict XVI	DE	Germany	20	M	DE
+39	Carl Jung	CH	Switzerland	19	M	DE
+40	Augustus	IT	Italy	-1	M	IT
+41	James Joyce	IE	Ireland	19	M	EN
+42	Franz Liszt	AT	Austria	19	M	DE
+43	Che Guevara	AR	Argentina	20	M	ES
+44	Charles Darwin	UK	United_Kingdom	19	M	EN
+45	Hannibal	TN	Tunisia	-3	M	AR
+46	Mario Vargas Llosa	PE	Peru	20	M	ES
+47	Fyodor Dostoyevsky	RU	Russia	19	M	RU
+48	Cristina Fernández de Kirchner	AR	Argentina	20	F	ES
+49	Miguel de Cervantes	ES	Spain	16	M	ES
+50	Antonio Vivaldi	IT	Italy	17	M	IT
+51	Peter of Castile	ES	Spain	14	M	ES
+52	Luis Buñuel	ES	Spain	19	M	ES
+53	Sandro Botticelli	IT	Italy	15	M	IT
+54	Jesus	PS	State_of_Palestine	-1	M	AR
+55	Johann Sebastian Bach	DE	Germany	17	M	DE
+56	Caravaggio	IT	Italy	16	M	IT
+57	Britney Spears	US	United_States	20	F	EN
+58	Philip II of Spain	ES	Spain	16	M	ES
+59	John F. Kennedy	US	United_States	20	M	EN
+60	Charles V, Holy Roman Emperor	BE	Belgium	15	M	NL
+61	Gabriel García Márquez	CO	Colombia	20	M	ES
+62	Raúl Alfonsín	AR	Argentina	20	M	ES
+63	Stephen King	US	United_States	20	M	EN
+64	George Harrison	UK	United_Kingdom	20	M	EN
+65	Roger Federer	CH	Switzerland	20	M	DE
+66	Elvis Presley	US	United_States	20	M	EN
+67	Ludwig van Beethoven	DE	Germany	18	M	DE
+68	Shakira	CO	Colombia	20	F	ES
+69	Joan of Arc	FR	France	15	F	FR
+70	Juan Manuel de Rosas	AR	Argentina	18	M	ES
+71	Leonardo da Vinci	IT	Italy	15	M	IT
+72	Domitian	IT	Italy	1	M	IT
+73	Alfred Hitchcock	UK	United_Kingdom	19	M	EN
+74	Pope Pius XII	IT	Italy	19	M	IT
+75	Agustín de Iturbide	MX	Mexico	18	M	ES
+76	Richard Dawkins	KE	Kenya	20	M	EN
+77	Sigmund Freud	CZ	Czech_	19	M	WR
+78	Joseph Stalin	GE	Georgia	19	M	WR
+79	Ramón del Valle-Inclán	ES	Spain	19	M	ES
+80	Mariah Carey	US	United_States	20	F	EN
+81	Joaquín Sabina	ES	Spain	20	M	ES
+82	Franz Schubert	AT	Austria	18	M	DE
+83	Ringo Starr	UK	United_Kingdom	20	M	EN
+84	Diego Maradona	AR	Argentina	20	M	ES
+85	Louis XVI of France	FR	France	18	M	FR
+86	Eva Perón	AR	Argentina	20	F	ES
+87	Raphael	IT	Italy	15	M	IT
+88	Alfonso the Battler	ES	Spain	11	M	ES
+89	Cher	US	United_States	20	F	EN
+90	Fito Páez	AR	Argentina	20	M	ES
+91	H. P. Lovecraft	US	United_States	19	M	EN
+92	Gustav Mahler	CZ	Czech_	19	M	WR
+93	José de San Martín	AR	Argentina	18	M	ES
+94	Miguel Bosé	PA	Panama	20	M	ES
+95	Lady Gaga	US	United_States	20	F	EN
+96	Saint George	IL	Israel	3	M	HE
+97	Michelle Bachelet	CL	Chile	20	F	ES
+98	Julio Argentino Roca	AR	Argentina	19	M	ES
+99	Philip IV of Spain	ES	Spain	17	M	ES
+100	Peter Paul Rubens	DE	Germany	16	M	DE

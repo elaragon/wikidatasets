@@ -1,0 +1,12 @@
+#SV Swedish local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 2284 & Carl Linnaeus & 326 & Carl Linnaeus \\
+2 & 125 & August Strindberg & 151 & Ingmar Bergman \\
+3 & 98 & Alfred Nobel & 146 & Charles XII of Sweden \\
+4 & 94 & Gustav I of Sweden & 116 & Astrid Lindgren \\
+5 & 93 & Gustav III of Sweden & 100 & August Strindberg \\
+6 & 86 & Charles XII of Sweden & 98 & Carl XVI Gustaf of Sweden \\
+7 & 82 & Gustavus Adolphus of Sweden & 92 & Evert Taube \\
+8 & 72 & Carl XVI Gustaf of Sweden & 89 & Jan Myrdal \\
+9 & 71 & Charles XI of Sweden & 88 & Carl Jonas Love Almqvist \\
+10 & 67 & Charles IX of Sweden & 83 & Gustav I of Sweden \\

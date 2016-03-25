@@ -1,0 +1,108 @@
+taken from
+http://pantheon.media.mit.edu/rankings/people/all/all/-3000/1950/25
+(1st + is comparison with global top 100 PageRank)
+(2nd + is comparison with Hart)
+
++1  +	Aristotle
++2  +	Plato
++3  +	Jesus Christ	
++4  -	Socrates	
++5  +	Alexander the Great
++6  -	Leonardo da Vinci	
++7  +	Confucius
++8  +	Julius Caesar	
+-9  +	Homer	
+-10 -	Pythagoras
+-11 -   Archimedes
++12 +	Moses	
+-13 +	Muhammad
+-14 -	Abraham	
++15 +	Adolf Hitler	
++16 -	Wolfgang Amadeus Mozart	
++17 +	Charlemagne
++18 +	William Shakespeare
+-19 +	Michelangelo	
++20 +	Augustus	
++21 +	Napoleon Bonaparte
++22 +	Isaac Newton
++23 +	Albert Einstein	
++24 +	Christopher Columbus
++25 +	Johann Sebastian Bach
++26 -	Dante Alighieri	
++27 +	Ludwig van Beethoven
++28 +	Gautama Buddha	
+-29 -	Cleopatra VII of Egypt	
++30 +	Martin Luther	
++31 +	Galileo Galilei	
++32 -	Herodotus	
++33 +	Paul of Tarsus	(Paul the Apostle)
++34 +	Augustine of Hippo
+-35 +	Euclid	
+-36 -	Virgil	
+-37 -	Nero
+-38 -	Thales	
++39 +	Karl Marx
+-40 -	Marco Polo
++41 -	Cicero	
+-42 -	Sophocles
+-43 -	Vincent van Gogh
++44 +	Genghis Khan
+-45 +	Zoroaster
+-46 -	Hannibal Barca
++47 -	Immanuel Kant
+-48 -	Hippocrates
++49 +	Sigmund Freud
+-50 -	Pablo Picasso	
+-51 -	Nefertiti
+-52 -	Solomon	
+-53 -	Jeanne d'Arc
++54 +	Qin Shi Huang	
+-55 -	Aesop
+-56 -	Epicurus
+-57 -	Caligula
++58 +	René Descartes	
+-59 -	Thomas Aquinas
+-60 -	Tutankhamun	
++61 -	Mary
++62 -	Johann Wolfgang von Goethe
+-63 -	Marcus Aurelius	
+-64 +	Voltaire	
+-65 -	Ovid	
+-66 +	Niccolò Machiavelli	
+-67 -	Blaise Pascal
+-68 -	Attila the Hun	
+-69 -	David	
+-70 -	Raphael	
++71 +	Charles Darwin	
+-72 -	Che Guevara
++73 +	Jean-Jacques Rousseau
+-74 +	Laozi
+-75 -	Mahatma Gandhi	
+-76 -	Saladin		
++77 -	Saint Peter
+-78 -	Sappho	
+-79 -	Aeschylus
++80 -	Ptolemy	
+-81 -	John the Baptist
+-82 -	Trajan	
+-83 -	Mary Magdalene
+-84 -	Heraclitus
+-85 +	Vasco da Gama
+-86 +	Adam Smith
++87 +	Elizabeth I of England	
+-88 -	Horace	
++89 -	Louis XIV of France
+-90 -	Anne Boleyn
+-91 -	Ferdinand Magellan
++92 +	Joseph Stalin	
+-93 -	Ramesses II
++94 +	Vladimir Lenin
+-95 -	Leonidas I
+-96 -	Avicenna
+-97 -	Akhenaten
+-98 +	Johannes Gutenberg
+-99 -	Euripides
+-100 -	Seneca the Younger
+
+overlap with global top100pagerank is : 44 (+)
+overlap with Hart's top 100 is :        43 (+)

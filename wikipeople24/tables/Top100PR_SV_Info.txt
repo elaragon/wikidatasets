@@ -1,0 +1,102 @@
+#List of top 100 Swedish PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Carl Linnaeus	SE	Sweden	18	M	SV
+2	Napoleon	FR	France	18	M	FR
+3	Aristotle	GR	Greece	-4	M	EL
+4	Jesus	PS	State_of_Palestine	-1	M	AR
+5	Pierre André Latreille	FR	France	18	M	FR
+6	Charles Darwin	UK	United_Kingdom	19	M	EN
+7	Gustav I of Sweden	SE	Sweden	15	M	SV
+8	Gustav III of Sweden	SE	Sweden	18	M	SV
+9	Adolf Hitler	AT	Austria	19	M	DE
+10	Julius Caesar	IT	Italy	-1	M	IT
+11	August Strindberg	SE	Sweden	19	M	SV
+12	Ernst Haeckel	DE	Germany	19	M	DE
+13	Plato	GR	Greece	-5	M	EL
+14	William Shakespeare	UK	United_Kingdom	16	M	EN
+15	Charles XII of Sweden	SE	Sweden	17	M	SV
+16	Albert Einstein	DE	Germany	19	M	DE
+17	Alexander the Great	GR	Greece	-4	M	EL
+18	Augustus	IT	Italy	-1	M	IT
+19	Gustavus Adolphus of Sweden	SE	Sweden	16	M	SV
+20	Charlemagne	BE	Belgium	8	M	NL
+21	Isaac Newton	UK	United_Kingdom	17	M	EN
+22	Ernst Mayr	DE	Germany	20	M	DE
+23	Karl Marx	DE	Germany	19	M	DE
+24	Elizabeth II	UK	United_Kingdom	20	F	EN
+25	Augustin Pyramus de Candolle	CH	Switzerland	18	M	DE
+26	Jean-Baptiste Lamarck	FR	France	18	M	FR
+27	Snorri Sturluson	IS	Iceland	12	M	WR
+28	Philip Miller	UK	United_Kingdom	17	M	EN
+29	Carl XVI Gustaf of Sweden	SE	Sweden	20	M	SV
+30	Charles XI of Sweden	SE	Sweden	17	M	SV
+31	George W. Bush	US	United_States	20	M	EN
+32	Joseph Stalin	GE	Georgia	19	M	WR
+33	John Lindley	UK	United_Kingdom	18	M	EN
+34	Charles IX of Sweden	SE	Sweden	16	M	SV
+35	Christopher Columbus	IT	Italy	15	M	IT
+36	Astrid Lindgren	SE	Sweden	20	F	SV
+37	Martin Luther	DE	Germany	15	M	DE
+38	Christina, Queen of Sweden	SE	Sweden	17	F	SV
+39	Julian Huxley	UK	United_Kingdom	19	M	EN
+40	Franklin D. Roosevelt	US	United_States	19	M	EN
+41	John F. Kennedy	US	United_States	20	M	EN
+42	Leonardo da Vinci	IT	Italy	15	M	IT
+43	Carl Alexander Clerck	SE	Sweden	18	M	SV
+44	Lynn Margulis	US	United_States	20	F	EN
+45	Cicero	IT	Italy	-2	M	IT
+46	Immanuel Kant	RU	Russia	18	M	RU
+47	Barack Obama	US	United_States	20	M	EN
+48	Paul the Apostle	TR	Turkey	1	M	TR
+49	Muhammad	SA	Saudi_Arabia	6	M	AR
+50	John III of Sweden	SE	Sweden	16	M	SV
+51	Ingmar Bergman	SE	Sweden	20	F	SV
+52	James Cook	UK	United_Kingdom	18	M	EN
+53	Oscar II of Sweden	SE	Sweden	19	M	SV
+54	Charles XIV John of Sweden	FR	France	18	M	FR
+55	Joseph Pitton de Tournefort	FR	France	17	M	FR
+56	John Ray	UK	United_Kingdom	17	M	EN
+57	Louis XIV of France	FR	France	17	M	FR
+58	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+59	Ronald Reagan	US	United_States	20	M	EN
+60	Gustaf V of Sweden	SE	Sweden	19	M	SV
+61	Olof Palme	SE	Sweden	20	M	SV
+62	Galileo Galilei	IT	Italy	16	M	IT
+63	Andrea Cesalpino	IT	Italy	16	M	IT
+64	Conrad Moench	DE	Germany	18	M	DE
+65	Bill Clinton	US	United_States	20	M	EN
+66	Elias Magnus Fries	SE	Sweden	18	M	SV
+67	Benito Mussolini	IT	Italy	19	M	IT
+68	Saint Peter	IL	Israel	1	M	HE
+69	Elvis Presley	US	United_States	20	M	EN
+70	Selma Lagerlöf	SE	Sweden	19	F	SV
+71	Charles X Gustav of Sweden	SE	Sweden	17	M	SV
+72	Winston Churchill	UK	United_Kingdom	19	M	EN
+73	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+74	René Descartes	FR	France	16	M	FR
+75	Herodotus	TR	Turkey	-5	M	TR
+76	Eric XIV of Sweden	SE	Sweden	16	M	SV
+77	Constantine the Great	RS	Serbia	3	M	WR
+78	Gregor Mendel	CZ	Czech_	19	M	WR
+79	Magnus IV of Sweden	NO	Norway	14	M	WR
+80	Sigmund Freud	CZ	Czech_	19	M	WR
+81	Willi Hennig	DE	Germany	20	M	DE
+82	Johann Wolfgang von Goethe	DE	Germany	18	M	DE
+83	Gustav Heinrich von Bongard	DE	Germany	18	M	DE
+84	Jean-Jacques Rousseau	CH	Switzerland	18	M	DE
+85	Georges Cuvier	FR	France	18	M	FR
+86	Vladimir Lenin	RU	Russia	19	M	RU
+87	Bob Dylan	US	United_States	20	M	EN
+88	Socrates	GR	Greece	-5	M	EL
+89	Tage Erlander	SE	Sweden	20	M	SV
+90	Abraham Lincoln	US	United_States	19	M	EN
+91	Gustaf VI Adolf of Sweden	SE	Sweden	19	M	SV
+92	Joseph Dalton Hooker	UK	United_Kingdom	19	M	EN
+93	Charles de Gaulle	FR	France	19	M	FR
+94	Napoleon III	FR	France	19	M	FR
+95	Richard Nixon	US	United_States	20	M	EN
+96	Tamerlan Thorell	SE	Sweden	19	M	SV
+97	John Locke	UK	United_Kingdom	17	M	EN
+98	Carl Michael Bellman	SE	Sweden	18	M	SV
+99	Karl Rudolphi	SE	Sweden	18	M	SV
+100	Elizabeth I of England	UK	United_Kingdom	16	F	EN

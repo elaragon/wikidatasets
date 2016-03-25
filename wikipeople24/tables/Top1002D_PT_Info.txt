@@ -1,0 +1,102 @@
+#List of top 100 Portuguese 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Getúlio Vargas	BR	Brazil	19	M	PT
+2	Pope John Paul II	PL	Poland	20	M	PL
+3	Adolf Hitler	AT	Austria	19	M	DE
+4	Pope Benedict XVI	DE	Germany	20	M	DE
+5	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+6	Michael Jackson	US	United_States	20	M	EN
+7	Jesus	PS	State_of_Palestine	-1	M	AR
+8	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+9	Juscelino Kubitschek	BR	Brazil	20	M	PT
+10	Albert Einstein	DE	Germany	19	M	DE
+11	Joaquim Maria Machado de Assis	BR	Brazil	19	M	PT
+12	Fernando Henrique Cardoso	BR	Brazil	20	M	PT
+13	Johann Sebastian Bach	DE	Germany	17	M	DE
+14	Leonardo da Vinci	IT	Italy	15	M	IT
+15	Queen Victoria	UK	United_Kingdom	19	F	EN
+16	Karl Marx	DE	Germany	19	M	DE
+17	Elvis Presley	US	United_States	20	M	EN
+18	Vladimir Lenin	RU	Russia	19	M	RU
+19	Luís de Camões	PT	Portugal	16	M	PT
+20	Michelangelo	IT	Italy	15	M	IT
+21	José Saramago	PT	Portugal	20	M	PT
+22	John VI of Portugal	PT	Portugal	18	M	PT
+23	Paul the Apostle	TR	Turkey	1	M	TR
+24	Madonna (entertainer)	US	United_States	20	F	EN
+25	Ayrton Senna	BR	Brazil	20	M	PT
+26	Joseph Stalin	GE	Georgia	19	M	WR
+27	Caetano Veloso	BR	Brazil	20	M	PT
+28	António de Oliveira Salazar	PT	Portugal	19	M	PT
+29	Dilma Rousseff	BR	Brazil	20	F	PT
+30	Henry VIII of England	UK	United_Kingdom	15	M	EN
+31	Napoleon	FR	France	18	M	FR
+32	Charlie Chaplin	UK	United_Kingdom	19	M	EN
+33	Diana, Princess of Wales	UK	United_Kingdom	20	F	EN
+34	Archimedes	IT	Italy	-3	M	IT
+35	Richard Wagner	DE	Germany	19	M	DE
+36	Vincent van Gogh	NL	Netherlands	19	M	NL
+37	Chico Buarque	BR	Brazil	20	M	PT
+38	Oscar Niemeyer	BR	Brazil	20	M	PT
+39	Martin Luther	DE	Germany	15	M	DE
+40	J. R. R. Tolkien	ZA	South_Africa	19	M	WR
+41	Britney Spears	US	United_States	20	F	EN
+42	Pope Pius XII	IT	Italy	19	M	IT
+43	Ronald Reagan	US	United_States	20	M	EN
+44	Charles Darwin	UK	United_Kingdom	19	M	EN
+45	Paul McCartney	UK	United_Kingdom	20	M	EN
+46	Denis Mandarino	BR	Brazil	20	M	PT
+47	Elizabeth II	UK	United_Kingdom	20	F	EN
+48	Pedro I of Brazil	PT	Portugal	18	M	PT
+49	George V	UK	United_Kingdom	19	M	EN
+50	Vladimir Putin	RU	Russia	20	M	RU
+51	Christopher Columbus	IT	Italy	15	M	IT
+52	Alberto Santos-Dumont	BR	Brazil	19	M	PT
+53	Luiz Inácio Lula da Silva	BR	Brazil	20	M	PT
+54	Nelson Mandela	ZA	South_Africa	20	M	WR
+55	Tancredo Neves	BR	Brazil	20	M	PT
+56	Isaac Asimov	RU	Russia	20	M	RU
+57	Roberto Carlos (singer)	BR	Brazil	20	M	PT
+58	Benito Mussolini	IT	Italy	19	M	IT
+59	Philip II of Spain	ES	Spain	16	M	ES
+60	Pope Paul VI	IT	Italy	19	M	IT
+61	Monteiro Lobato	BR	Brazil	19	M	PT
+62	Saddam Hussein	IQ	Iraq	20	M	AR
+63	Frédéric Chopin	PL	Poland	19	M	PL
+64	Charlemagne	BE	Belgium	8	M	NL
+65	Jimi Hendrix	US	United_States	20	M	EN
+66	Cher	US	United_States	20	F	EN
+67	Gilberto Gil	BR	Brazil	20	M	PT
+68	Ludwig van Beethoven	DE	Germany	18	M	DE
+69	Raul Seixas	BR	Brazil	20	M	PT
+70	Deodoro da Fonseca	BR	Brazil	19	M	PT
+71	Jorge Amado	BR	Brazil	20	M	PT
+72	Karl Weierstrass	DE	Germany	19	M	DE
+73	David Bowie	UK	United_Kingdom	20	M	EN
+74	Elton John	UK	United_Kingdom	20	M	EN
+75	José Sócrates	PT	Portugal	20	M	PT
+76	Elis Regina	BR	Brazil	20	F	PT
+77	Mikhail Bakunin	RU	Russia	19	M	RU
+78	George Frideric Handel	DE	Germany	17	M	DE
+79	Cristiano Ronaldo	PT	Portugal	20	M	PT
+80	Mark Antony	IT	Italy	-1	M	IT
+81	Nicholas II of Russia	RU	Russia	19	M	RU
+82	Catherine the Great	PL	Poland	18	F	PL
+83	Fernando Pessoa	PT	Portugal	19	M	PT
+84	Linus Pauling	US	United_States	20	M	EN
+85	João Goulart	BR	Brazil	20	M	PT
+86	Leonid Brezhnev	UA	Ukraine	20	M	WR
+87	Nelson Piquet	BR	Brazil	20	M	PT
+88	J. K. Rowling	UK	United_Kingdom	20	F	EN
+89	Pope John XXIII	IT	Italy	19	M	IT
+90	Giuseppe Garibaldi	FR	France	19	M	FR
+91	John von Neumann	HU	Hungary	20	M	HU
+92	Honoré de Balzac	FR	France	18	M	FR
+93	Emerson Fittipaldi	BR	Brazil	20	M	PT
+94	Itamar Franco	BR	Brazil	20	M	PT
+95	Che Guevara	AR	Argentina	20	M	ES
+96	Henrik Ibsen	NO	Norway	19	M	WR
+97	Leonel Brizola	BR	Brazil	20	M	PT
+98	Milton Nascimento	BR	Brazil	20	M	PT
+99	Pelé	BR	Brazil	20	M	PT
+100	Barack Obama	US	United_States	20	M	EN

@@ -1,0 +1,102 @@
+#List of top 100 Italian 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Pope Benedict XVI	DE	Germany	20	M	DE
+2	Pope John Paul II	PL	Poland	20	M	PL
+3	Raphael	IT	Italy	15	M	IT
+4	Giuseppe Garibaldi	FR	France	19	M	FR
+5	John Lennon	UK	United_Kingdom	20	M	EN
+6	John the Baptist	IL	Israel	-1	M	HE
+7	Martina Navratilova	CZ	Czech_	20	F	WR
+8	Jesus	PS	State_of_Palestine	-1	M	AR
+9	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+10	Benito Mussolini	IT	Italy	19	M	IT
+11	Michelangelo	IT	Italy	15	M	IT
+12	Leonardo da Vinci	IT	Italy	15	M	IT
+13	Pier Paolo Pasolini	IT	Italy	20	M	IT
+14	Mina (singer)	IT	Italy	20	F	IT
+15	Saint Peter	IL	Israel	1	M	HE
+16	Michael Jackson	US	United_States	20	M	EN
+17	Bob Dylan	US	United_States	20	M	EN
+18	Titian	IT	Italy	15	M	IT
+19	Napoleon	FR	France	18	M	FR
+20	Paul McCartney	UK	United_Kingdom	20	M	EN
+21	Madonna (entertainer)	US	United_States	20	F	EN
+22	Silvio Berlusconi	IT	Italy	20	M	IT
+23	Michael Schumacher	DE	Germany	20	M	DE
+24	Johann Sebastian Bach	DE	Germany	17	M	DE
+25	Julius Caesar	IT	Italy	-1	M	IT
+26	Fabrizio De André	IT	Italy	20	M	IT
+27	William Shakespeare	UK	United_Kingdom	16	M	EN
+28	Pablo Picasso	ES	Spain	19	M	ES
+29	Antonio Vivaldi	IT	Italy	17	M	IT
+30	Rafael Nadal	ES	Spain	20	M	ES
+31	Paul the Apostle	TR	Turkey	1	M	TR
+32	Sandro Pertini	IT	Italy	19	M	IT
+33	Ludwig van Beethoven	DE	Germany	18	M	DE
+34	Pope Paul VI	IT	Italy	19	M	IT
+35	Pope Pius XII	IT	Italy	19	M	IT
+36	Alexander the Great	GR	Greece	-4	M	EL
+37	Elton John	UK	United_Kingdom	20	M	EN
+38	Saint George	IL	Israel	3	M	HE
+39	Frank Sinatra	US	United_States	20	M	EN
+40	Galileo Galilei	IT	Italy	16	M	IT
+41	Saint Nicholas	TR	Turkey	3	M	TR
+42	Pope Julius II	IT	Italy	15	M	IT
+43	Julian (emperor)	TR	Turkey	4	M	TR
+44	Saint Joseph	PS	State_of_Palestine	-1	M	AR
+45	Vittorio De Sica	IT	Italy	20	M	IT
+46	Pope Pius IX	IT	Italy	18	M	IT
+47	Roger Federer	CH	Switzerland	20	M	DE
+48	Ernest Hemingway	US	United_States	19	M	EN
+49	Barack Obama	US	United_States	20	M	EN
+50	Sandro Botticelli	IT	Italy	15	M	IT
+51	Pope Clement VII	IT	Italy	15	M	IT
+52	Augustus	IT	Italy	-1	M	IT
+53	Gianni Morandi	IT	Italy	20	M	IT
+54	Albrecht Dürer	DE	Germany	15	M	DE
+55	Martina Hingis	SK	Slovakia	20	F	WR
+56	Oscar Wilde	IE	Ireland	19	M	EN
+57	Diego Maradona	AR	Argentina	20	M	ES
+58	Dante Alighieri	IT	Italy	13	M	IT
+59	Valentino Rossi	IT	Italy	20	M	IT
+60	David Bowie	UK	United_Kingdom	20	M	EN
+61	Steven Spielberg	US	United_States	20	M	EN
+62	Giosuè Carducci	IT	Italy	19	M	IT
+63	Marilyn Monroe	US	United_States	20	F	EN
+64	Pope Paul III	IT	Italy	15	M	IT
+65	Edgar Allan Poe	US	United_States	19	M	EN
+66	Lawrence of Rome	ES	Spain	3	M	ES
+67	Andy Roddick	US	United_States	20	M	EN
+68	Donatello	IT	Italy	14	M	IT
+69	Totò	IT	Italy	19	M	IT
+70	Nikola Tesla	HR	Croatia	19	M	WR
+71	Ilie Năstase	RO	Romania	20	M	WR
+72	Saint Stephen	IL	Israel	1	M	HE
+73	Johann Wolfgang von Goethe	DE	Germany	18	M	DE
+74	Camillo Benso, Count of Cavour	IT	Italy	19	M	IT
+75	Alberto Sordi	IT	Italy	20	M	IT
+76	Pope Pius XI	IT	Italy	19	M	IT
+77	Pope John XXIII	IT	Italy	19	M	IT
+78	Pope Alexander VI	ES	Spain	15	M	ES
+79	Martin Scorsese	US	United_States	20	M	EN
+80	Christopher Columbus	IT	Italy	15	M	IT
+81	Mario Monicelli	IT	Italy	20	M	IT
+82	Andrea Mantegna	IT	Italy	15	M	IT
+83	Charles III of Spain	ES	Spain	18	M	ES
+84	Clint Eastwood	US	United_States	20	M	EN
+85	Umberto Eco	IT	Italy	20	M	IT
+86	Sophia Loren	IT	Italy	20	F	IT
+87	Freddie Mercury	TZ	Tanzania	20	M	WR
+88	Woody Allen	US	United_States	20	M	EN
+89	Cicero	IT	Italy	-2	M	IT
+90	Caravaggio	IT	Italy	16	M	IT
+91	Jules Verne	FR	France	19	M	FR
+92	Domenico Modugno	IT	Italy	20	M	IT
+93	Anthony the Great	EG	Egypt	3	M	AR
+94	Claude Monet	FR	France	19	M	FR
+95	Vittorio Alfieri	IT	Italy	18	M	IT
+96	Giulio Andreotti	IT	Italy	20	M	IT
+97	Leo Tolstoy	RU	Russia	19	M	RU
+98	Isaac Asimov	RU	Russia	20	M	RU
+99	Chris Evert	US	United_States	20	F	EN
+100	Vasco Rossi	IT	Italy	20	M	IT

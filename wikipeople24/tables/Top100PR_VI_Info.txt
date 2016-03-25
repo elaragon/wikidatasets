@@ -1,0 +1,102 @@
+#List of top 100 Vietnamese PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Carl Linnaeus	SE	Sweden	18	M	SV
+2	Ernst Haeckel	DE	Germany	19	M	DE
+3	Pope Gregory XIII	IT	Italy	16	M	IT
+4	Albert Einstein	DE	Germany	19	M	DE
+5	Jesus	PS	State_of_Palestine	-1	M	AR
+6	Aristotle	GR	Greece	-4	M	EL
+7	Julius Caesar	IT	Italy	-1	M	IT
+8	Napoleon	FR	France	18	M	FR
+9	Isaac Newton	UK	United_Kingdom	17	M	EN
+10	Ho Chi Minh	VN	Vietnam	19	M	VI
+11	Frederick the Great	DE	Germany	18	M	DE
+12	Karl Marx	DE	Germany	19	M	DE
+13	Adolf Hitler	AT	Austria	19	M	DE
+14	Plato	GR	Greece	-5	M	EL
+15	Charles Darwin	UK	United_Kingdom	19	M	EN
+16	Herodotus	TR	Turkey	-5	M	TR
+17	Elizabeth II	UK	United_Kingdom	20	F	EN
+18	Maurice Maeterlinck	BE	Belgium	19	M	NL
+19	Augustus	IT	Italy	-1	M	IT
+20	Christopher Columbus	IT	Italy	15	M	IT
+21	Charlemagne	BE	Belgium	8	M	NL
+22	William Shakespeare	UK	United_Kingdom	16	M	EN
+23	Galileo Galilei	IT	Italy	16	M	IT
+24	Vladimir Lenin	RU	Russia	19	M	RU
+25	Alexander the Great	GR	Greece	-4	M	EL
+26	Gautama Buddha	NP	Nepal	-6	M	WR
+27	Ptolemy	EG	Egypt	1	M	AR
+28	Confucius	CN	China	-6	M	ZH
+29	Teresa of Ávila	ES	Spain	16	F	ES
+30	Ngo Dinh Diem	VN	Vietnam	20	M	VI
+31	Immanuel Kant	RU	Russia	18	M	RU
+32	Joseph Stalin	GE	Georgia	19	M	WR
+33	Jean-Jacques Rousseau	CH	Switzerland	18	M	DE
+34	Johannes Kepler	DE	Germany	16	M	DE
+35	Abraham Lincoln	US	United_States	19	M	EN
+36	Justinian I	MK	Macedonia	5	M	WR
+37	Johann Wolfgang von Goethe	DE	Germany	18	M	DE
+38	George Washington	US	United_States	18	M	EN
+39	Minh Mạng	VN	Vietnam	18	M	VI
+40	Diocletian	HR	Croatia	3	M	WR
+41	Bill Clinton	US	United_States	20	M	EN
+42	Franklin D. Roosevelt	US	United_States	19	M	EN
+43	Carl Friedrich Gauss	DE	Germany	18	M	DE
+44	Thomas Jefferson	US	United_States	18	M	EN
+45	Leonardo da Vinci	IT	Italy	15	M	IT
+46	Bertrand Russell	UK	United_Kingdom	19	M	EN
+47	Nero	IT	Italy	1	M	IT
+48	Mahatma Gandhi	IN	India	19	M	HI
+49	Baruch Spinoza	NL	Netherlands	17	M	NL
+50	Winston Churchill	UK	United_Kingdom	19	M	EN
+51	Max Planck	DE	Germany	19	M	DE
+52	James Clerk Maxwell	UK	United_Kingdom	19	M	EN
+53	Richard Nixon	US	United_States	20	M	EN
+54	Louis XIV of France	FR	France	17	M	FR
+55	Gia Long	VN	Vietnam	18	M	VI
+56	Muhammad	SA	Saudi_Arabia	6	M	AR
+57	Bảo Đại	VN	Vietnam	20	M	VI
+58	Euclid	EG	Egypt	-3	M	AR
+59	Moses	EG	Egypt	-14	M	AR
+60	Barack Obama	US	United_States	20	M	EN
+61	Mao Zedong	CN	China	19	M	ZH
+62	Eric Hobsbawm	EG	Egypt	20	M	AR
+63	Francis Fukuyama	US	United_States	20	M	EN
+64	Ronald Reagan	US	United_States	20	M	EN
+65	Qin Shi Huang	CN	China	-3	M	ZH
+66	August Strindberg	SE	Sweden	19	M	SV
+67	Antoninus Pius	IT	Italy	1	M	IT
+68	Benito Mussolini	IT	Italy	19	M	IT
+69	René Descartes	FR	France	16	M	FR
+70	Pythagoras	GR	Greece	-6	M	EL
+71	Caligula	IT	Italy	1	M	IT
+72	Woodrow Wilson	US	United_States	19	M	EN
+73	Archimedes	IT	Italy	-3	M	IT
+74	Commodus	IT	Italy	2	M	IT
+75	Antoine Lavoisier	FR	France	18	M	FR
+76	Marie Curie	PL	Poland	19	F	PL
+77	Gregor Mendel	CZ	Czech_	19	M	WR
+78	Theodore Roosevelt	US	United_States	19	M	EN
+79	Lê Lợi	VN	Vietnam	14	M	VI
+80	Elizabeth I of England	UK	United_Kingdom	16	F	EN
+81	Louis Pasteur	FR	France	19	M	FR
+82	Ernest Rutherford	NZ	New_Zealand	19	M	EN
+83	Charles de Gaulle	FR	France	19	M	FR
+84	Alexander von Humboldt	DE	Germany	18	M	DE
+85	Niels Bohr	DK	Denmark	19	M	DA
+86	Nhất Linh	VN	Vietnam	20	M	VI
+87	Antonie van Leeuwenhoek	NL	Netherlands	17	M	NL
+88	Blaise Pascal	FR	France	17	M	FR
+89	John F. Kennedy	US	United_States	20	M	EN
+90	Alfred Nobel	SE	Sweden	19	M	SV
+91	Mustafa Kemal Atatürk	GR	Greece	19	M	EL
+92	Gerald Ford	US	United_States	20	M	EN
+93	Erwin Schrödinger	AT	Austria	19	M	DE
+94	Richard Feynman	US	United_States	20	M	EN
+95	Lyndon B. Johnson	US	United_States	20	M	EN
+96	Anne, Queen of Great Britain	UK	United_Kingdom	17	F	EN
+97	Georg Wilhelm Friedrich Hegel	DE	Germany	18	M	DE
+98	Paul the Apostle	TR	Turkey	1	M	TR
+99	Leonhard Euler	CH	Switzerland	18	M	DE
+100	Francis Crick	UK	United_Kingdom	20	M	EN

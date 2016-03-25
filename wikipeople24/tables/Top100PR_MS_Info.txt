@@ -1,0 +1,102 @@
+#List of top 100 Malaysian PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Muhammad	SA	Saudi_Arabia	6	M	AR
+2	Elizabeth II	UK	United_Kingdom	20	F	EN
+3	Jesus	PS	State_of_Palestine	-1	M	AR
+4	Napoleon	FR	France	18	M	FR
+5	Mahathir Mohamad	MY	Malaysia	20	M	MS
+6	Karl Marx	DE	Germany	19	M	DE
+7	Julius Caesar	IT	Italy	-1	M	IT
+8	Albert Einstein	DE	Germany	19	M	DE
+9	Carl Linnaeus	SE	Sweden	18	M	SV
+10	Adolf Hitler	AT	Austria	19	M	DE
+11	Isaac Newton	UK	United_Kingdom	17	M	EN
+12	Adam Smith	UK	United_Kingdom	18	M	EN
+13	Winston Churchill	UK	United_Kingdom	19	M	EN
+14	Aristotle	GR	Greece	-4	M	EL
+15	Charlemagne	BE	Belgium	8	M	NL
+16	Najib Razak	MY	Malaysia	20	M	MS
+17	P. Ramlee	MY	Malaysia	20	M	MS
+18	Charles de Gaulle	FR	France	19	M	FR
+19	Louis XIV of France	FR	France	17	M	FR
+20	Tunku Abdul Rahman	MY	Malaysia	20	M	MS
+21	Sukarno	ID	Indonesia	20	M	WR
+22	Abdullah Ahmad Badawi	MY	Malaysia	20	M	MS
+23	Napoleon III	FR	France	19	M	FR
+24	Muhyiddin Yassin	MY	Malaysia	20	M	MS
+25	Christopher Columbus	IT	Italy	15	M	IT
+26	Alexander the Great	GR	Greece	-4	M	EL
+27	Abdul Razak Hussein	MY	Malaysia	20	M	MS
+28	Wright brothers	US	United_States	19	M	EN
+29	Augustus	IT	Italy	-1	M	IT
+30	Hugh Capet	FR	France	10	M	FR
+31	Herodotus	TR	Turkey	-5	M	TR
+32	Suharto	ID	Indonesia	20	M	WR
+33	Joseph Stalin	GE	Georgia	19	M	WR
+34	Louis XVII of France	FR	France	18	M	FR
+35	William Shakespeare	UK	United_Kingdom	16	M	EN
+36	François Hollande	FR	France	20	M	FR
+37	George Washington	US	United_States	18	M	EN
+38	Plato	GR	Greece	-5	M	EL
+39	Anwar Ibrahim	MY	Malaysia	20	M	MS
+40	Gordon Brown	UK	United_Kingdom	20	M	EN
+41	Martin Luther	DE	Germany	15	M	DE
+42	Ptolemy	EG	Egypt	1	M	AR
+43	Hussein Onn	MY	Malaysia	20	M	MS
+44	Charles Dickens	UK	United_Kingdom	19	M	EN
+45	Noam Chomsky	US	United_States	20	M	EN
+46	Vladimir Lenin	RU	Russia	19	M	RU
+47	George W. Bush	US	United_States	20	M	EN
+48	Immanuel Kant	RU	Russia	18	M	RU
+49	Ali	SA	Saudi_Arabia	7	M	AR
+50	Charles Babbage	UK	United_Kingdom	18	M	EN
+51	Queen Victoria	UK	United_Kingdom	19	F	EN
+52	Francisco Franco	ES	Spain	19	M	ES
+53	John Maynard Keynes	UK	United_Kingdom	19	M	EN
+54	Elizabeth I of England	UK	United_Kingdom	16	F	EN
+55	John Locke	UK	United_Kingdom	17	M	EN
+56	Thomas Edison	US	United_States	19	M	EN
+57	Barack Obama	US	United_States	20	M	EN
+58	Franklin D. Roosevelt	US	United_States	19	M	EN
+59	Gottfried Wilhelm Leibniz	DE	Germany	17	M	DE
+60	Saddam Hussein	IQ	Iraq	20	M	AR
+61	Constantine the Great	RS	Serbia	3	M	WR
+62	Mahatma Gandhi	IN	India	19	M	HI
+63	Antoine Lavoisier	FR	France	18	M	FR
+64	Mizan Zainal Abidin of Terengganu	MY	Malaysia	20	M	MS
+65	Chiang Kai-shek	CN	China	19	M	ZH
+66	Sudirman Arshad	MY	Malaysia	20	M	MS
+67	Ferdinand Magellan	PT	Portugal	15	M	PT
+68	Benito Mussolini	IT	Italy	19	M	IT
+69	Pope Benedict XVI	DE	Germany	20	M	DE
+70	Susilo Bambang Yudhoyono	ID	Indonesia	20	M	WR
+71	Abdurrahman Wahid	ID	Indonesia	20	M	WR
+72	John F. Kennedy	US	United_States	20	M	EN
+73	Tsunku	JP	Japan	20	M	JA
+74	Ernest Rutherford	NZ	New_Zealand	19	M	EN
+75	Abdul Halim of Kedah	MY	Malaysia	20	M	MS
+76	James Brooke	IN	India	19	M	HI
+77	Nicolas Sarkozy	FR	France	20	M	FR
+78	Siti Nurhaliza	MY	Malaysia	20	F	MS
+79	Bill Gates	US	United_States	20	M	EN
+80	Hillary Rodham Clinton	US	United_States	20	F	EN
+81	Umar	SA	Saudi_Arabia	6	M	AR
+82	Megawati Sukarnoputri	ID	Indonesia	20	F	WR
+83	Wilhelm II, German Emperor	DE	Germany	19	M	DE
+84	Abdul Taib Mahmud	MY	Malaysia	20	M	MS
+85	Heinrich Hertz	DE	Germany	19	M	DE
+86	B. J. Habibie	ID	Indonesia	20	M	WR
+87	Confucius	CN	China	-6	M	ZH
+88	Osama bin Laden	SA	Saudi_Arabia	20	M	AR
+89	Tim Berners-Lee	UK	United_Kingdom	20	M	EN
+90	Mark Twain	US	United_States	19	M	EN
+91	Charles Darwin	UK	United_Kingdom	19	M	EN
+92	Mao Zedong	CN	China	19	M	ZH
+93	Onn Jaafar	MY	Malaysia	19	M	MS
+94	Cicero	IT	Italy	-2	M	IT
+95	James Cook	UK	United_Kingdom	18	M	EN
+96	Elio Di Rupo	BE	Belgium	20	M	NL
+97	Charles II of England	UK	United_Kingdom	17	M	EN
+98	Alan Turing	UK	United_Kingdom	20	M	EN
+99	Abraham Lincoln	US	United_States	19	M	EN
+100	Dwight D. Eisenhower	US	United_States	19	M	EN

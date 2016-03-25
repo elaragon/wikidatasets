@@ -1,0 +1,12 @@
+#TH Thai local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 100 & Chulalongkorn & 100 & Sirindhorn \\
+2 & 97 & Vajiravudh & 98 & Sirikit \\
+3 & 96 & Mongkut & 97 & Thaksin Shinawatra \\
+4 & 94 & Buddha Yodfa Chulaloke & 94 & Taksin \\
+5 & 92 & Nangklao & 91 & Pridi Banomyong \\
+6 & 91 & Thaksin Shinawatra & 90 & Yingluck Shinawatra \\
+7 & 90 & Damrong Rajanubhab & 88 & Srinagarindra \\
+8 & 89 & Taksin & 86 & Samak Sundaravej \\
+9 & 88 & Plaek Phibunsongkhram & 82 & Vajiralongkorn \\
+10 & 87 & Prajadhipok & 80 & Chao Keo Naovarat \\

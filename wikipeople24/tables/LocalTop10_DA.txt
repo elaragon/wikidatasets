@@ -1,0 +1,12 @@
+#DA Danish local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 99 & Tycho Brahe & 210 & Hans Christian Andersen \\
+2 & 94 & Ole Rømer & 98 & Margrethe II of Denmark \\
+3 & 93 & Christian IV of Denmark & 95 & N. F. S. Grundtvig \\
+4 & 86 & Margrethe II of Denmark & 92 & Søren Kierkegaard \\
+5 & 85 & Hans Christian Andersen & 89 & Christian IV of Denmark \\
+6 & 84 & Frederick IV of Denmark & 88 & Hans Christian Ørsted \\
+7 & 80 & Frederick II of Denmark & 86 & Anders Fogh Rasmussen \\
+8 & 78 & John Louis Emil Dreyer & 84 & Carl Nielsen \\
+9 & 77 & Christian VII of Denmark & 83 & Christian X of Denmark \\
+10 & 76 & Frederick III of Denmark & 82 & Niels Bohr \\

@@ -1,0 +1,12 @@
+#WR local top 10 persons (persons not belonging to considered 24 languages) 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 1686 & Joseph Stalin & 529 & J. R. R. Tolkien \\
+2 & 842 & Constantine the Great & 477 & Joseph Stalin \\
+3 & 564 & Gautama Buddha & 276 & Nelson Mandela \\
+4 & 506 & Sigmund Freud & 241 & Genghis Khan \\
+5 & 405 & Diocletian & 195 & Sigmund Freud \\
+6 & 351 & Justinian I & 191 & Martina Navratilova \\
+7 & 219 & J. R. R. Tolkien & 186 & Constantine the Great \\
+8 & 203 & Genghis Khan & 173 & Justinian I \\
+9 & 138 & Avicenna & 127 & Nikola Tesla \\
+10 & 129 & Rumi & 123 & Kublai Khan \\

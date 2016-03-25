@@ -1,0 +1,12 @@
+#RU Russian local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 1123 & Immanuel Kant & 334 & Vladimir Putin \\
+2 & 1022 & Vladimir Lenin & 274 & Isaac Asimov \\
+3 & 156 & Peter the Great & 198 & Peter the Great \\
+4 & 130 & Mikhail Gorbachev & 171 & Vladimir Lenin \\
+5 & 101 & Pyotr Ilyich Tchaikovsky & 127 & Yuri Gagarin \\
+6 & 97 & Yuri Gagarin & 109 & Igor Stravinsky \\
+7 & 97 & Alexander Pushkin & 100 & Menachem Begin \\
+8 & 91 & Vladimir Putin & 99 & Dmitri Mendeleev \\
+9 & 89 & Nikita Khrushchev & 96 & Aleksander Griboyedov \\
+10 & 88 & Alexander II of Russia & 95 & Shimon Peres \\

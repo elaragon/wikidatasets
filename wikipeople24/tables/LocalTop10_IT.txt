@@ -1,0 +1,12 @@
+#IT Italian local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 1952 & Julius Caesar & 689 & Julius Caesar \\
+2 & 1662 & Augustus & 647 & Augustus \\
+3 & 1476 & Christopher Columbus & 616 & Leonardo da Vinci \\
+4 & 893 & Galileo Galilei & 464 & Benito Mussolini \\
+5 & 758 & Benito Mussolini & 339 & Pope Pius XII \\
+6 & 753 & Cicero & 330 & Christopher Columbus \\
+7 & 594 & Leonardo da Vinci & 326 & Michelangelo \\
+8 & 292 & Pliny the Elder & 322 & Raphael \\
+9 & 288 & Pope Gregory XIII & 197 & Giuseppe Verdi \\
+10 & 250 & Pope Paul VI & 172 & Galileo Galilei \\

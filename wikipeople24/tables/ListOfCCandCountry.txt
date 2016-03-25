@@ -1,0 +1,94 @@
+UK & United Kingdom &
+GR & Greece &
+FR & France &
+SA & Saudi Arabia  &
+PS & State of Palestine &
+SE & Sweden &
+DE & Germany &
+AT & Austria &
+IT & Italy &
+GE & Georgia &
+US & United States &
+RU & Russia &
+BE & Belgium &
+TR & Turkey &
+RS & Serbia &
+IL & Israel &
+CZ & Czech & 
+EG & Egypt &
+CN & China &
+PL & Poland &
+IQ & Iraq &
+MK & Macedonia &
+NP & Nepal &
+HR & Croatia &
+CH & Switzerland &
+ES & Spain &
+ZA & South Africa &
+DZ & Algeria &
+MN & Mongolia &
+JP & Japan &
+IN & India &
+CU & Cuba &
+IR & Iran &
+UZ & Uzbekistan &
+IS & Iceland &
+TJ & Tajikistan &
+DK & Denmark &
+AF & Afghanistan &
+KP & N. Korea &
+PT & Portugal &
+NZ & New Zealand &
+NL & Netherlands &
+HU & Hungary &
+BY & Belarus &
+UA & Ukraine &
+KO & S. Korea &
+TH & Thailand &
+SY & Syria &
+LT & Lithuania &
+MY & Malaysia &
+ID & Indonesia &
+RO & Romania &
+SK & Slovakia &
+VE & Venezuela &
+PK & Pakistan &
+BR & Brazil &
+AZ & Azerbaijan &
+VN & Vietnam &
+LY & Libya &
+HK & Hong Kong &
+NO & Norway &
+AR & Argentina &
+TW & Taiwan &
+KH & Cambodia &
+LB & Lebanon &
+SI & Slovenia &
+TN & Tunisia &
+MM & Myanmar &
+OM & Oman &
+AL & Albania &
+LV & Latvia &
+CO & Colombia &
+PA & Panama &
+IE & Ireland &
+CA & Canada &
+FI & Finland &
+AE & United Arab Emirates &
+MX & Mexico &
+KZ & Kazakhstan &
+KW & Kuwait &
+CL & Chile &
+KE & Kenya &
+SD & Sudan &
+SG & Singapore &
+KG & Kyrgyzstan &
+AU & Australia &
+BS & Bahamas &
+PE & Peru &
+TZ & Tanzania &
+SR & Suriname &
+BG & Bulgaria &
+XX & Unknown &
+CY & Cyprus &
+YE & Yemen &

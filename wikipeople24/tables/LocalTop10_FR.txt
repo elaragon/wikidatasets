@@ -1,0 +1,12 @@
+#FR French local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 2208 & Napoleon & 720 & Napoleon \\
+2 & 1207 & Louis XIV of France & 268 & Jules Verne \\
+3 & 724 & René Descartes & 221 & Louis XIV of France \\
+4 & 397 & Napoleon III & 168 & Giuseppe Garibaldi \\
+5 & 385 & Charles de Gaulle & 146 & Denis Diderot \\
+6 & 260 & Pierre André Latreille & 144 & François Mitterrand \\
+7 & 167 & Tacitus & 127 & Napoleon III \\
+8 & 165 & Jean-Baptiste Lamarck & 121 & Nicolas Sarkozy \\
+9 & 157 & Molière & 113 & Claudius \\
+10 & 112 & Francis I of France & 112 & Henry IV of France \\

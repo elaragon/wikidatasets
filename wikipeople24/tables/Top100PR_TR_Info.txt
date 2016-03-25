@@ -1,0 +1,102 @@
+#List of top 100 Turkish PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Mustafa Kemal Atatürk	GR	Greece	19	M	EL
+2	William Herschel	DE	Germany	18	M	DE
+3	Carl Linnaeus	SE	Sweden	18	M	SV
+4	Muhammad	SA	Saudi_Arabia	6	M	AR
+5	Jesus	PS	State_of_Palestine	-1	M	AR
+6	Aristotle	GR	Greece	-4	M	EL
+7	Napoleon	FR	France	18	M	FR
+8	Adolf Hitler	AT	Austria	19	M	DE
+9	Mehmed the Conqueror	TR	Turkey	15	M	TR
+10	Alexander the Great	GR	Greece	-4	M	EL
+11	John Herschel	UK	United_Kingdom	18	M	EN
+12	Abdul Hamid II	TR	Turkey	19	M	TR
+13	Julius Caesar	IT	Italy	-1	M	IT
+14	Albert Einstein	DE	Germany	19	M	DE
+15	Saint Peter	IL	Israel	1	M	HE
+16	Elizabeth II	UK	United_Kingdom	20	F	EN
+17	Plato	GR	Greece	-5	M	EL
+18	İsmet İnönü	TR	Turkey	19	M	TR
+19	Suleiman the Magnificent	TR	Turkey	15	M	TR
+20	Isaac Newton	UK	United_Kingdom	17	M	EN
+21	Christopher Columbus	IT	Italy	15	M	IT
+22	Selim I	TR	Turkey	15	M	TR
+23	John Louis Emil Dreyer	DK	Denmark	19	M	DA
+24	Galileo Galilei	IT	Italy	16	M	IT
+25	Augustus	IT	Italy	-1	M	IT
+26	Joseph Stalin	GE	Georgia	19	M	WR
+27	Ali	SA	Saudi_Arabia	7	M	AR
+28	Karl Marx	DE	Germany	19	M	DE
+29	William Shakespeare	UK	United_Kingdom	16	M	EN
+30	Midhat Pasha	TR	Turkey	19	M	TR
+31	Moses	EG	Egypt	-14	M	AR
+32	William the Conqueror	FR	France	11	M	FR
+33	Süleyman Demirel	TR	Turkey	20	M	TR
+34	Elizabeth I of England	UK	United_Kingdom	16	F	EN
+35	Barack Obama	US	United_States	20	M	EN
+36	Turgut Özal	TR	Turkey	20	M	TR
+37	Vladimir Lenin	RU	Russia	19	M	RU
+38	Timur	UZ	Uzbekistan	14	M	WR
+39	Benito Mussolini	IT	Italy	19	M	IT
+40	Bülent Ecevit	TR	Turkey	20	M	TR
+41	George W. Bush	US	United_States	20	M	EN
+42	Immanuel Kant	RU	Russia	18	M	RU
+43	Abdülaziz	TR	Turkey	19	M	TR
+44	George Washington	US	United_States	18	M	EN
+45	Mahmud II	TR	Turkey	18	M	TR
+46	Genghis Khan	MN	Mongolia	12	M	WR
+47	Blaise Pascal	FR	France	17	M	FR
+48	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+49	Martin Luther	DE	Germany	15	M	DE
+50	Bayezid I	TR	Turkey	14	M	TR
+51	René Descartes	FR	France	16	M	FR
+52	Richard Nixon	US	United_States	20	M	EN
+53	Edwin Hubble	US	United_States	19	M	EN
+54	Thomas Edison	US	United_States	19	M	EN
+55	Abdülmecid I	TR	Turkey	19	M	TR
+56	Francis Galton	UK	United_Kingdom	19	M	EN
+57	J. R. R. Tolkien	ZA	South_Africa	19	M	WR
+58	Mimar Sinan	TR	Turkey	15	M	TR
+59	Charles de Gaulle	FR	France	19	M	FR
+60	Socrates	GR	Greece	-5	M	EL
+61	Adnan Menderes	TR	Turkey	19	M	TR
+62	Leonardo da Vinci	IT	Italy	15	M	IT
+63	Sigmund Freud	CZ	Czech_	19	M	WR
+64	Namık Kemal	TR	Turkey	19	M	TR
+65	Charlemagne	BE	Belgium	8	M	NL
+66	Michael Jackson	US	United_States	20	M	EN
+67	Herodotus	TR	Turkey	-5	M	TR
+68	Ferdinand Magellan	PT	Portugal	15	M	PT
+69	Jean-Jacques Rousseau	CH	Switzerland	18	M	DE
+70	Friedrich Engels	DE	Germany	19	M	DE
+71	Murad II	TR	Turkey	15	M	TR
+72	Celâl Bayar	TR	Turkey	19	M	TR
+73	Bayezid II	GR	Greece	15	M	EL
+74	Recep Tayyip Erdoğan	TR	Turkey	20	M	TR
+75	Georg Wilhelm Friedrich Hegel	DE	Germany	18	M	DE
+76	Ptolemy	EG	Egypt	1	M	AR
+77	Saddam Hussein	IQ	Iraq	20	M	AR
+78	Zoroaster	IR	Iran	-10	M	FA
+79	Ahmet Necdet Sezer	TR	Turkey	20	M	TR
+80	Johann Sebastian Bach	DE	Germany	17	M	DE
+81	Thomas Jefferson	US	United_States	18	M	EN
+82	Evliya Çelebi	TR	Turkey	17	M	TR
+83	Louis XIV of France	FR	France	17	M	FR
+84	Constantine the Great	RS	Serbia	3	M	WR
+85	Murad I	TR	Turkey	14	M	TR
+86	Dante Alighieri	IT	Italy	13	M	IT
+87	Fyodor Dostoyevsky	RU	Russia	19	M	RU
+88	Charles Dickens	UK	United_Kingdom	19	M	EN
+89	Ernst Haeckel	DE	Germany	19	M	DE
+90	John Locke	UK	United_Kingdom	17	M	EN
+91	Albert Marth	PL	Poland	19	M	PL
+92	Abdullah Gül	TR	Turkey	20	M	TR
+93	Euclid	EG	Egypt	-3	M	AR
+94	Victor Hugo	FR	France	19	M	FR
+95	Paul the Apostle	TR	Turkey	1	M	TR
+96	Orhan	TR	Turkey	13	M	TR
+97	Strabo	TR	Turkey	-1	M	TR
+98	Mao Zedong	CN	China	19	M	ZH
+99	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+100	Charles Darwin	UK	United_Kingdom	19	M	EN

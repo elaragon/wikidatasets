@@ -1,0 +1,12 @@
+#ES Spanish local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 276 & Francisco Franco & 285 & Che Guevara \\
+2 & 195 & Philip II of Spain & 216 & Pablo Picasso \\
+3 & 119 & Pablo Picasso & 206 & Rafael Nadal \\
+4 & 82 & Lionel Messi & 199 & Jorge Luis Borges \\
+5 & 74 & Charles III of Spain & 198 & Salvador Dalí \\
+6 & 72 & Teresa of Ávila & 178 & Hadrian \\
+7 & 71 & Miguel de Cervantes & 105 & Shakira \\
+8 & 70 & Ferdinand VII of Spain & 100 & Francisco Goya \\
+9 & 66 & Alfonso X of Castile & 95 & Juan Perón \\
+10 & 65 & Ferdinand I, Holy Roman Emperor & 94 & Augusto Pinochet \\

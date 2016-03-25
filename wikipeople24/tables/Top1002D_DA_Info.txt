@@ -1,0 +1,102 @@
+#List of top 100 Danish 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Adolf Hitler	AT	Austria	19	M	DE
+2	Hans Christian Andersen	DK	Denmark	19	M	DA
+3	Margrethe II of Denmark	DK	Denmark	20	F	DA
+4	Saint Peter	IL	Israel	1	M	HE
+5	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+6	N. F. S. Grundtvig	DK	Denmark	18	M	DA
+7	Michael Jackson	US	United_States	20	M	EN
+8	Elvis Presley	US	United_States	20	M	EN
+9	Søren Kierkegaard	DK	Denmark	19	M	DA
+10	Jesus	PS	State_of_Palestine	-1	M	AR
+11	Franklin D. Roosevelt	US	United_States	19	M	EN
+12	Christian IV of Denmark	DK	Denmark	16	M	DA
+13	Hans Christian Ørsted	DK	Denmark	18	M	DA
+14	Winston Churchill	UK	United_Kingdom	19	M	EN
+15	Anders Fogh Rasmussen	DK	Denmark	20	M	DA
+16	Richard Wagner	DE	Germany	19	M	DE
+17	Carl Nielsen	DK	Denmark	19	M	DA
+18	Christian X of Denmark	DK	Denmark	19	M	DA
+19	Martin Luther	DE	Germany	15	M	DE
+20	Kim Larsen	DK	Denmark	20	M	DA
+21	Louis XIV of France	FR	France	17	M	FR
+22	Christian IX of Denmark	DE	Germany	19	M	DE
+23	George Frideric Handel	DE	Germany	17	M	DE
+24	Johann Friedrich Struensee	DE	Germany	18	M	DE
+25	Lars von Trier	DK	Denmark	20	M	DA
+26	Frederik, Crown Prince of Denmark	DK	Denmark	20	M	DA
+27	Ove Sprogøe	DK	Denmark	20	M	DA
+28	Absalon	DK	Denmark	12	M	DA
+29	Harry S. Truman	US	United_States	19	M	EN
+30	Barack Obama	US	United_States	20	M	EN
+31	Cicero	IT	Italy	-2	M	IT
+32	Harald Bluetooth	DK	Denmark	10	M	DA
+33	Poul Reichhardt	DK	Denmark	20	M	DA
+34	John Lennon	UK	United_Kingdom	20	M	EN
+35	Leonardo da Vinci	IT	Italy	15	M	IT
+36	Benito Mussolini	IT	Italy	19	M	IT
+37	Frederick VI of Denmark	DK	Denmark	18	M	DA
+38	Ib Schønberg	DK	Denmark	20	M	DA
+39	Ludvig Holberg	NO	Norway	17	M	WR
+40	Karen Blixen	DK	Denmark	19	F	DA
+41	Lars Løkke Rasmussen	DK	Denmark	20	M	DA
+42	Johannes Kepler	DE	Germany	16	M	DE
+43	Jens Immanuel Baggesen	DK	Denmark	18	M	DA
+44	Elton John	UK	United_Kingdom	20	M	EN
+45	Helle Thorning-Schmidt	DK	Denmark	20	F	DA
+46	Immanuel Kant	RU	Russia	18	M	RU
+47	Mary, Crown Princess of Denmark	AU	Australia	20	F	EN
+48	Dirch Passer	DK	Denmark	20	M	DA
+49	Robert De Niro	US	United_States	20	M	EN
+50	Giuseppe Verdi	IT	Italy	19	M	IT
+51	Johannes Meyer	DK	Denmark	19	M	DA
+52	Christoffer Wilhelm Eckersberg	DK	Denmark	18	M	DA
+53	Christian VIII of Denmark	DK	Denmark	18	M	DA
+54	Eminem	US	United_States	20	M	EN
+55	Johan Ludvig Heiberg (poet)	DK	Denmark	18	M	DA
+56	Frederik Magle	DK	Denmark	20	M	DA
+57	Karl Stegger	DK	Denmark	20	M	DA
+58	Al Pacino	US	United_States	20	M	EN
+59	Eric V of Denmark	DK	Denmark	13	M	DA
+60	Poul Henningsen	DK	Denmark	19	M	DA
+61	Valdemar II of Denmark	DK	Denmark	12	M	DA
+62	Frédéric Chopin	PL	Poland	19	M	PL
+63	Carl Linnaeus	SE	Sweden	18	M	SV
+64	Felix Mendelssohn	DE	Germany	19	M	DE
+65	Jørn Utzon	DK	Denmark	20	M	DA
+66	George Orwell	IN	India	20	M	HI
+67	Martin Heidegger	DE	Germany	19	M	DE
+68	David Bowie	UK	United_Kingdom	20	M	EN
+69	Bertel Thorvaldsen	DK	Denmark	18	M	DA
+70	Sandra Bullock	US	United_States	20	F	EN
+71	Paul Hagen	DK	Denmark	20	M	DA
+72	Prince Joachim of Denmark	DK	Denmark	20	M	DA
+73	Michael Laudrup	DK	Denmark	20	M	DA
+74	Steen Steensen Blicher	DK	Denmark	18	M	DA
+75	Julius Caesar	IT	Italy	-1	M	IT
+76	Arne Jacobsen	DK	Denmark	20	M	DA
+77	Anker Jørgensen	DK	Denmark	20	M	DA
+78	Arthur Jensen (actor)	DK	Denmark	19	M	DA
+79	Friedrich Nietzsche	DE	Germany	19	M	DE
+80	Heinrich Himmler	DE	Germany	19	M	DE
+81	Henry Nielsen	DK	Denmark	19	M	DA
+82	Cleopatra	EG	Egypt	-1	F	AR
+83	Morrissey	UK	United_Kingdom	20	M	EN
+84	Astrid Lindgren	SE	Sweden	20	F	SV
+85	Eric Clapton	UK	United_Kingdom	20	M	EN
+86	Steven Spielberg	US	United_States	20	M	EN
+87	Susanne Bier	DK	Denmark	20	F	DA
+88	Oscar Wilde	IE	Ireland	19	M	EN
+89	Caroline Wozniacki	DK	Denmark	20	F	DA
+90	Valdemar Poulsen	DK	Denmark	19	M	DA
+91	Olof Palme	SE	Sweden	20	M	SV
+92	Charles Martel	BE	Belgium	7	M	NL
+93	J. R. R. Tolkien	ZA	South_Africa	19	M	WR
+94	John F. Kennedy	US	United_States	20	M	EN
+95	Ove Høegh-Guldberg	DK	Denmark	18	M	DA
+96	Valdemar I of Denmark	DK	Denmark	12	M	DA
+97	Christoph Ernst Friedrich Weyse	DE	Germany	18	M	DE
+98	Ghita Nørby	DK	Denmark	20	F	DA
+99	Bob Dylan	US	United_States	20	M	EN
+100	Arnold Schwarzenegger	AT	Austria	20	M	DE

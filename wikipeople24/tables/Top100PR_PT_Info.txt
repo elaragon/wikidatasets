@@ -1,0 +1,102 @@
+#List of top 100 Portuguese PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Carl Linnaeus	SE	Sweden	18	M	SV
+2	Aristotle	GR	Greece	-4	M	EL
+3	Jesus	PS	State_of_Palestine	-1	M	AR
+4	Napoleon	FR	France	18	M	FR
+5	Isaac Newton	UK	United_Kingdom	17	M	EN
+6	Plato	GR	Greece	-5	M	EL
+7	Albert Einstein	DE	Germany	19	M	DE
+8	Karl Marx	DE	Germany	19	M	DE
+9	Adolf Hitler	AT	Austria	19	M	DE
+10	Getúlio Vargas	BR	Brazil	19	M	PT
+11	Pope John Paul II	PL	Poland	20	M	PL
+12	Elizabeth II	UK	United_Kingdom	20	F	EN
+13	William Shakespeare	UK	United_Kingdom	16	M	EN
+14	René Descartes	FR	France	16	M	FR
+15	Galileo Galilei	IT	Italy	16	M	IT
+16	Julius Caesar	IT	Italy	-1	M	IT
+17	George W. Bush	US	United_States	20	M	EN
+18	Augustus	IT	Italy	-1	M	IT
+19	Johannes Kepler	DE	Germany	16	M	DE
+20	Charlemagne	BE	Belgium	8	M	NL
+21	Charles Darwin	UK	United_Kingdom	19	M	EN
+22	Ptolemy	EG	Egypt	1	M	AR
+23	Christopher Columbus	IT	Italy	15	M	IT
+24	Immanuel Kant	RU	Russia	18	M	RU
+25	Alexander the Great	GR	Greece	-4	M	EL
+26	Pope Benedict XVI	DE	Germany	20	M	DE
+27	John VI of Portugal	PT	Portugal	18	M	PT
+28	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+29	Sigmund Freud	CZ	Czech_	19	M	WR
+30	Luiz Inácio Lula da Silva	BR	Brazil	20	M	PT
+31	Pedro I of Brazil	PT	Portugal	18	M	PT
+32	William Herschel	DE	Germany	18	M	DE
+33	Muhammad	SA	Saudi_Arabia	6	M	AR
+34	Bill Clinton	US	United_States	20	M	EN
+35	Maria I of Portugal	PT	Portugal	18	F	PT
+36	Michael Jackson	US	United_States	20	M	EN
+37	John I of Portugal	PT	Portugal	14	M	PT
+38	Pedro II of Brazil	BR	Brazil	19	M	PT
+39	Juscelino Kubitschek	BR	Brazil	20	M	PT
+40	Franklin D. Roosevelt	US	United_States	19	M	EN
+41	Fernando Henrique Cardoso	BR	Brazil	20	M	PT
+42	Ernst Haeckel	DE	Germany	19	M	DE
+43	Georg Wilhelm Friedrich Hegel	DE	Germany	18	M	DE
+44	John F. Kennedy	US	United_States	20	M	EN
+45	Joseph Stalin	GE	Georgia	19	M	WR
+46	John III of Portugal	PT	Portugal	16	M	PT
+47	Leonardo da Vinci	IT	Italy	15	M	IT
+48	Manuel I of Portugal	PT	Portugal	15	M	PT
+49	Saint Peter	IL	Israel	1	M	HE
+50	Louis XIV of France	FR	France	17	M	FR
+51	Saddam Hussein	IQ	Iraq	20	M	AR
+52	Euclid	EG	Egypt	-3	M	AR
+53	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+54	Augustine of Hippo	DZ	Algeria	4	M	AR
+55	Barack Obama	US	United_States	20	M	EN
+56	John V of Portugal	PT	Portugal	17	M	PT
+57	Moses	EG	Egypt	-14	M	AR
+58	Fernando Collor de Mello	BR	Brazil	20	M	PT
+59	John Herschel	UK	United_Kingdom	18	M	EN
+60	George Washington	US	United_States	18	M	EN
+61	Richard Nixon	US	United_States	20	M	EN
+62	Benito Mussolini	IT	Italy	19	M	IT
+63	Archimedes	IT	Italy	-3	M	IT
+64	Francisco Franco	ES	Spain	19	M	ES
+65	Jean-Jacques Rousseau	CH	Switzerland	18	M	DE
+66	Adam Smith	UK	United_Kingdom	18	M	EN
+67	Ronald Reagan	US	United_States	20	M	EN
+68	António de Oliveira Salazar	PT	Portugal	19	M	PT
+69	Fernando Pessoa	PT	Portugal	19	M	PT
+70	Martin Luther	DE	Germany	15	M	DE
+71	Joaquim Maria Machado de Assis	BR	Brazil	19	M	PT
+72	Max Weber	DE	Germany	19	M	DE
+73	Johann Sebastian Bach	DE	Germany	17	M	DE
+74	Fidel Castro	CU	Cuba	20	M	ES
+75	Henry VIII of England	UK	United_Kingdom	15	M	EN
+76	Herodotus	TR	Turkey	-5	M	TR
+77	Afonso III of Portugal	PT	Portugal	13	M	PT
+78	Winston Churchill	UK	United_Kingdom	19	M	EN
+79	J. R. R. Tolkien	ZA	South_Africa	19	M	WR
+80	Carl Friedrich Gauss	DE	Germany	18	M	DE
+81	Mikhail Gorbachev	RU	Russia	20	M	RU
+82	Philip II of Spain	ES	Spain	16	M	ES
+83	John Locke	UK	United_Kingdom	17	M	EN
+84	Queen Victoria	UK	United_Kingdom	19	F	EN
+85	Sebastião José de Carvalho e Melo, 1st Marquis of Pombal	PT	Portugal	17	M	PT
+86	Paul the Apostle	TR	Turkey	1	M	TR
+87	Friedrich Nietzsche	DE	Germany	19	M	DE
+88	Socrates	GR	Greece	-5	M	EL
+89	Martin Luther King, Jr.	US	United_States	20	M	EN
+90	Jimmy Carter	US	United_States	20	M	EN
+91	Cicero	IT	Italy	-2	M	IT
+92	Norberto Bobbio	IT	Italy	20	M	IT
+93	Elvis Presley	US	United_States	20	M	EN
+94	Constantine the Great	RS	Serbia	3	M	WR
+95	Max Planck	DE	Germany	19	M	DE
+96	Philip IV of Spain	ES	Spain	17	M	ES
+97	Eric Walter Elst	BE	Belgium	20	M	NL
+98	João Goulart	BR	Brazil	20	M	PT
+99	Thomas Jefferson	US	United_States	18	M	EN
+100	Ludwig van Beethoven	DE	Germany	18	M	DE

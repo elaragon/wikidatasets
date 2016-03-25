@@ -1,0 +1,12 @@
+#DE German local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 2112 & Adolf Hitler & 1557 & Adolf Hitler \\
+2 & 1847 & Albert Einstein & 872 & Ludwig van Beethoven \\
+3 & 1730 & Karl Marx & 853 & Wolfgang Amadeus Mozart \\
+4 & 996 & Wolfgang Amadeus Mozart & 840 & Pope Benedict XVI \\
+5 & 925 & Martin Luther & 733 & Johann Sebastian Bach \\
+6 & 700 & Ludwig van Beethoven & 651 & Albert Einstein \\
+7 & 610 & Johann Sebastian Bach & 540 & George Frideric Handel \\
+8 & 570 & Johann Wolfgang von Goethe & 465 & Karl Marx \\
+9 & 528 & Pope Benedict XVI & 446 & Michael Schumacher \\
+10 & 417 & Richard Wagner & 344 & Martin Luther \\

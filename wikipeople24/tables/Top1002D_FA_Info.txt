@@ -1,0 +1,102 @@
+#List of top 100 Persian 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Cyrus the Great	IR	Iran	-6	M	FA
+2	Zoroaster	IR	Iran	-10	M	FA
+3	Mohammad Reza Pahlavi	IR	Iran	20	M	FA
+4	Mohammad Khatami	IR	Iran	20	M	FA
+5	Mir-Hossein Mousavi	IR	Iran	20	M	FA
+6	Ruhollah Khomeini	IR	Iran	20	M	FA
+7	Naser al-Din Shah Qajar	IR	Iran	19	M	FA
+8	Ali Khamenei	IR	Iran	20	M	FA
+9	Mohammad Mosaddegh	IR	Iran	19	M	FA
+10	Ardashir I	IR	Iran	2	M	FA
+11	Ahmad Shamloo	IR	Iran	20	M	FA
+12	Omar Khayyám	IR	Iran	11	M	FA
+13	Adolf Hitler	AT	Austria	19	M	DE
+14	Husayn ibn Ali	SA	Saudi_Arabia	7	M	AR
+15	Ferdowsi	IR	Iran	10	M	FA
+16	Sadegh Hedayat	IR	Iran	20	M	FA
+17	Akbar Hashemi Rafsanjani	IR	Iran	20	M	FA
+18	Rezā Shāh	IR	Iran	19	M	FA
+19	Farah Pahlavi	IR	Iran	20	F	FA
+20	Muhammad	SA	Saudi_Arabia	6	M	AR
+21	Esfandiar Rahim Mashaei	IR	Iran	20	M	FA
+22	Abbas I of Persia	AF	Afghanistan	16	M	FA
+23	Muhammad al-Mahdi	IQ	Iraq	9	M	AR
+24	Mohammad-Reza Mahdavi Kani	IR	Iran	20	M	FA
+25	Bertrand Russell	UK	United_Kingdom	19	M	EN
+26	Albert Einstein	DE	Germany	19	M	DE
+27	Karl Marx	DE	Germany	19	M	DE
+28	Fatimah	SA	Saudi_Arabia	7	F	AR
+29	Michael Jackson	US	United_States	20	M	EN
+30	Abbas Mirza	IR	Iran	18	M	FA
+31	Mahmoud Ahmadinejad	IR	Iran	20	M	FA
+32	Ali Shariati	IR	Iran	20	M	FA
+33	Abolhassan Banisadr	IR	Iran	20	M	FA
+34	Ahmad Kasravi	IR	Iran	19	M	FA
+35	Saddam Hussein	IQ	Iraq	20	M	AR
+36	Barack Obama	US	United_States	20	M	EN
+37	Jesus	PS	State_of_Palestine	-1	M	AR
+38	Muhammad Husayn Tabatabaei	IR	Iran	20	M	FA
+39	Mehdi Karroubi	IR	Iran	20	M	FA
+40	Ismail I	IR	Iran	15	M	FA
+41	Fath-Ali Shah Qajar	IR	Iran	18	M	FA
+42	Morteza Motahhari	IR	Iran	20	M	FA
+43	Ali	SA	Saudi_Arabia	7	M	AR
+44	Saadi Shirazi	IR	Iran	12	M	FA
+45	Abu Bakr	SA	Saudi_Arabia	6	M	AR
+46	Nero	IT	Italy	1	M	IT
+47	Muhammad ibn Zakariya al-Razi	IR	Iran	9	M	FA
+48	Rudaki	TJ	Tajikistan	9	M	WR
+49	Seyyed Hossein Borujerdi	IR	Iran	19	M	FA
+50	Masoud Kimiai	IR	Iran	20	M	FA
+51	Abdolhossein Zarrinkoob	IR	Iran	20	M	FA
+52	Yazdegerd III	IR	Iran	7	M	FA
+53	Mani (prophet)	IQ	Iraq	3	M	AR
+54	Al-Farabi	AF	Afghanistan	9	M	FA
+55	Jalal Al-e-Ahmad	IR	Iran	20	M	FA
+56	Mohammad Ali Foroughi	IR	Iran	19	M	FA
+57	Shapur I	IR	Iran	3	M	FA
+58	Neil Armstrong	US	United_States	20	M	EN
+59	Nader Shah	IR	Iran	17	M	FA
+60	Shapour Bakhtiar	IR	Iran	20	M	FA
+61	Ali-Akbar Dehkhoda	IR	Iran	19	M	FA
+62	Hussein-Ali Montazeri	IR	Iran	20	M	FA
+63	Babak Khorramdin	IR	Iran	8	M	FA
+64	Amir Kabir	IR	Iran	19	M	FA
+65	Bahāʾ al-dīn al-ʿĀmilī	LB	Lebanon	16	M	AR
+66	Georg Wilhelm Friedrich Hegel	DE	Germany	18	M	DE
+67	Mohammad Khan Qajar	IR	Iran	18	M	FA
+68	Ebrahim Pourdavoud	IR	Iran	19	M	FA
+69	Yuri Gagarin	RU	Russia	20	M	RU
+70	Avicenna	UZ	Uzbekistan	10	M	WR
+71	Dariush Mehrjui	IR	Iran	20	M	FA
+72	Suleiman the Magnificent	TR	Turkey	15	M	TR
+73	Johann Sebastian Bach	DE	Germany	17	M	DE
+74	Marco Polo	IT	Italy	13	M	IT
+75	Carl Jung	CH	Switzerland	19	M	DE
+76	Mehdi Bazargan	IR	Iran	20	M	FA
+77	Khosrau II	IQ	Iraq	6	M	AR
+78	J. D. Salinger	US	United_States	20	M	EN
+79	Mohammad Moin	IR	Iran	20	M	FA
+80	Marlon Brando	US	United_States	20	M	EN
+81	Mohammad Ali Shah Qajar	IR	Iran	19	M	FA
+82	Gholam-Ali Haddad-Adel	IR	Iran	20	M	FA
+83	Seyeed Ali Haghshenas	IR	Iran	20	M	FA
+84	Abu al-Qasim al-Khoei	IR	Iran	19	M	FA
+85	Sohrab Sepehri	IR	Iran	20	M	FA
+86	Ali Hatami	IR	Iran	20	M	FA
+87	Mohammad Shah Qajar	IR	Iran	19	M	FA
+88	Abdolhossein Teymourtash	IR	Iran	19	M	FA
+89	Darius I	IR	Iran	-6	M	FA
+90	Abolhassan Najafi	IR	Iran	20	M	FA
+91	Hafez	IR	Iran	14	M	FA
+92	Muammar Gaddafi	LY	Libya	20	M	AR
+93	Mohammad Beheshti	IR	Iran	20	M	FA
+94	Charlemagne	BE	Belgium	8	M	NL
+95	Shahrukh Mirza	UZ	Uzbekistan	14	M	WR
+96	Rumi	TJ	Tajikistan	13	M	WR
+97	Joseph Stalin	GE	Georgia	19	M	WR
+98	Edgar Allan Poe	US	United_States	19	M	EN
+99	Mohammad-Reza Shajarian	IR	Iran	20	M	FA
+100	Anton Chekhov	RU	Russia	19	M	RU

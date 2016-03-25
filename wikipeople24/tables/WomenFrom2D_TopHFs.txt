@@ -1,0 +1,167 @@
+#FemaleList
+#2DRanking, ThetaRanking Score, Number of appearances, Name, Birth country, Birth century, Language
+1	991	14	Madonna (entertainer)	US	20	EN
+2	664	9	Elizabeth II	UK	20	EN
+3	580	8	Mary (mother of Jesus)	IL	-1	HE
+4	550	9	Queen Victoria	UK	19	EN
+5	225	5	Agatha Christie	UK	19	EN
+6	211	4	Mariah Carey	US	20	EN
+7	206	7	Britney Spears	US	20	EN
+8	200	3	Margaret Thatcher	UK	20	EN
+9	191	2	Martina Navratilova	CZ	20	WR
+10	175	2	Elizabeth I of England	UK	16	EN
+11	174	2	Whitney Houston	US	20	EN
+12	154	3	Beyoncé Knowles	US	20	EN
+13	151	3	Ingmar Bergman	SE	20	SV
+14	141	2	Hannah Arendt	DE	20	DE
+15	138	2	Beatrix of the Netherlands	NL	20	NL
+16	135	3	Catherine the Great	PL	18	PL
+17	128	3	Diana, Princess of Wales	UK	20	EN
+18	116	2	Astrid Lindgren	SE	20	SV
+19	107	2	Marilyn Monroe	US	20	EN
+20	105	3	Shakira	CO	20	ES
+21	100	3	Lady Gaga	US	20	EN
+22	100	1	Sirindhorn	TH	20	TH
+23	99	1	Indira Gandhi	IN	20	HI
+24	98	1	Sirikit	TH	20	TH
+25	98	1	Margrethe II of Denmark	DK	20	DA
+26	98	1	Mahadevi Varma	IN	20	HI
+27	97	2	Chris Evert	US	20	EN
+28	97	1	Anne Frank	DE	20	DE
+29	94	2	Celine Dion	CA	20	EN
+30	94	1	Yumi Matsutoya	JP	20	JA
+31	94	1	Kati Kovács	HU	20	HU
+32	90	1	Yingluck Shinawatra	TH	20	TH
+33	90	1	Siti Nurhaliza	MY	20	MS
+34	90	1	Dolly Parton	US	20	EN
+35	90	1	Alla Pugacheva	RU	20	RU
+36	89	1	Seiko Matsuda	JP	20	JA
+37	89	1	Galyani Vadhana	UK	20	EN
+38	88	1	Srinagarindra	TH	19	TH
+39	87	1	Steffi Graf	DE	20	DE
+40	87	1	Mina (singer)	IT	20	IT
+41	86	2	Cleopatra	EG	-1	AR
+42	86	1	Thalía	MX	20	ES
+43	83	1	Dayang Nurfaizah	MY	20	MS
+44	82	1	Roni Dalumi	IL	20	HE
+45	82	1	Farah Pahlavi	IR	20	FA
+46	81	1	Golda Meir	UA	19	WR
+47	81	1	Christina Aguilera	US	20	EN
+48	80	2	Brigitte Bardot	FR	20	FR
+49	80	1	Trưng Sisters	VN	1	VI
+50	80	1	Miyuki Nakajima	JP	20	JA
+51	80	1	Bonnie Tyler	UK	20	EN
+52	79	1	Rekha	IN	20	HI
+53	79	1	Katy Perry	US	20	EN
+54	78	1	Wu Zetian	CN	7	ZH
+55	77	1	Sezen Aksu	TR	20	TR
+56	73	1	Savang Vadhana	TH	19	TH
+57	73	1	Natsumi Abe	JP	20	JA
+58	73	1	Fatimah	SA	7	AR
+59	72	1	Zsuzsa Koncz	HU	20	HU
+60	72	1	Ubolratana Rajakanya	CH	20	DE
+61	72	1	Dilma Rousseff	BR	20	PT
+62	72	1	Ajda Pekkan	TR	20	TR
+63	71	1	Jacqueline Kennedy Onassis	US	20	EN
+64	70	1	Billie Jean King	US	20	EN
+65	68	1	Rambai Barni	TH	20	TH
+66	66	1	Jennifer Lopez	US	20	EN
+67	66	1	Aruna Irani	IN	20	HI
+68	65	2	Martina Hingis	SK	20	WR
+69	65	1	Sertab Erener	TR	20	TR
+70	65	1	Chulabhorn Walailak	TH	20	TH
+71	64	1	Juliana of the Netherlands	NL	20	NL
+72	64	1	Empress Myeongseong	KO	19	KO
+73	63	1	Bejaratana Rajasuda	TH	20	TH
+74	62	1	Venus Williams	US	20	EN
+75	62	1	Koharu Kusumi	JP	20	JA
+76	61	1	Karen Blixen	DK	19	DA
+77	60	1	Akina Nakamori	JP	20	JA
+78	59	1	Park Geun-hye	KO	20	KO
+79	59	1	Anouk (singer)	NL	20	NL
+80	58	1	Angela Merkel	DE	20	DE
+81	57	1	Leah Goldberg	RU	20	RU
+82	57	1	Helen Wills	US	20	EN
+83	57	1	Carola Häggkvist	SE	20	SV
+84	57	1	Aliki Vougiouklaki	GR	20	EL
+85	56	1	Naomi Shemer	IL	20	HE
+86	56	1	Melina Mercouri	GR	20	EL
+87	56	1	Helle Thorning-Schmidt	DK	20	DA
+88	55	1	Madhubala	IN	20	HI
+89	55	1	Halide Edip Adıvar	TR	19	TR
+90	54	1	Mary, Crown Princess of Denmark	AU	20	EN
+91	53	1	Toni Braxton	US	20	EN
+92	53	1	Cristina Fernández de Kirchner	AR	20	ES
+93	51	2	Joan of Arc	FR	15	FR
+94	50	1	Misha Omar	MY	20	MS
+95	50	1	Margaret Court	AU	20	EN
+96	49	1	Türkan Şoray	TR	20	TR
+97	49	1	Meryl Streep	US	20	EN
+98	49	1	Kyōko Koizumi	JP	20	JA
+99	47	2	Cher	US	20	EN
+100	47	1	Empress Dowager Cixi	CN	19	ZH
+101	46	1	Monica Seles	RS	20	WR
+102	45	1	Meena Kumari	IN	20	HI
+103	43	1	Nirupa Roy	IN	20	HI
+104	40	1	Lindsay Davenport	US	20	EN
+105	40	1	Erra Fazira	MY	20	MS
+106	40	1	Ayumi Hamasaki	JP	20	JA
+107	39	1	Victoria, Crown Princess of Sweden	SE	20	SV
+108	39	1	Rafidah Aziz	MY	20	MS
+109	39	1	Eleanor F. Helin	US	20	EN
+110	37	1	Cecilia Cheung	HK	20	ZH
+111	35	1	Tove Jansson	FI	20	WR
+112	35	1	Annie M. G. Schmidt	NL	20	NL
+113	34	1	Ziana Zain	MY	20	MS
+114	33	1	Donna Summer	US	20	EN
+115	31	1	Sandra Bullock	US	20	EN
+116	31	1	Björk	IS	20	WR
+117	30	1	Justine Henin	BE	20	NL
+118	29	1	Taylor Swift	US	20	EN
+119	29	1	Assala Nasri	SY	20	AR
+120	27	1	Salamiah Hassan	MY	20	MS
+121	27	1	Marie Antoinette	AT	18	DE
+122	26	1	Sheila Majid	MY	20	MS
+123	26	1	Akiko Wada	JP	20	JA
+124	25	1	Leela Mishra	IN	20	HI
+125	25	1	Elis Regina	BR	20	PT
+126	24	1	Maria Konopnicka	PL	19	PL
+127	24	1	Janet Jackson	US	20	EN
+128	24	1	Empress Elisabeth of Austria	DE	19	DE
+129	23	1	Madeline Zima	US	20	EN
+130	22	1	Marie Curie	PL	19	PL
+131	22	1	Aisha	SA	7	AR
+132	20	1	Monica Zetterlund	SE	20	SV
+133	19	1	Hülya Koçyiğit	TR	20	TR
+134	16	1	Kelly Clarkson	US	20	EN
+135	15	1	Sophia Loren	IT	20	IT
+136	15	1	Eva Perón	AR	20	ES
+137	14	1	Susanne Bier	DK	20	DA
+138	14	1	Serena Williams	US	20	EN
+139	14	1	Rita Verdonk	NL	20	NL
+140	13	1	Whoopi Goldberg	US	20	EN
+141	13	1	J. K. Rowling	UK	20	EN
+142	13	1	Jaclyn Victor	MY	20	MS
+143	13	1	Anna Vissi	CY	20	EL
+144	12	1	Lina Sandell	SE	19	SV
+145	12	1	Fairuz	LB	20	AR
+146	12	1	Caroline Wozniacki	DK	20	DA
+147	10	1	Juhi Chawla	IN	20	HI
+148	9	1	Miho Nakayama	JP	20	JA
+149	9	1	Benazir Bhutto	PK	20	HI
+150	7	1	Umm Kulthum	EG	19	AR
+151	7	1	Shabana Azmi	IN	20	HI
+152	7	1	Namthip Jongrachatawiboon	TH	20	TH
+153	7	1	Mari Yaguchi	JP	20	JA
+154	6	1	Namie Amuro	JP	20	JA
+155	6	1	Marguerite Duras	VN	20	VI
+156	5	1	Yuki Saito (actress)	JP	20	JA
+157	4	1	Michelle Bachelet	CL	20	ES
+158	4	1	Kim Clijsters	BE	20	NL
+159	4	1	Dara Rasmi	TH	19	TH
+160	4	1	Anastacia	US	20	EN
+161	3	1	Ghita Nørby	DK	20	DA
+162	2	1	Pratibha Patil	IN	20	HI
+163	2	1	Chintara Sukapatana	TH	20	TH
+164	1	1	Noraniza Idris	MY	20	MS
+165	1	1	Nadezhda Krupskaya	RU	19	RU

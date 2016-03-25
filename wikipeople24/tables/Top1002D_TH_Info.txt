@@ -1,0 +1,102 @@
+#List of top 100 Thai 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Sirindhorn	TH	Thailand	20	F	TH
+2	Bhumibol Adulyadej	US	United_States	20	M	EN
+3	Sirikit	TH	Thailand	20	F	TH
+4	Thaksin Shinawatra	TH	Thailand	20	M	TH
+5	Gautama Buddha	NP	Nepal	-6	M	WR
+6	Adolf Hitler	AT	Austria	19	M	DE
+7	Taksin	TH	Thailand	18	M	TH
+8	Queen Victoria	UK	United_Kingdom	19	F	EN
+9	Abhisit Vejjajiva	UK	United_Kingdom	20	M	EN
+10	Pridi Banomyong	TH	Thailand	19	M	TH
+11	Yingluck Shinawatra	TH	Thailand	20	F	TH
+12	Galyani Vadhana	UK	United_Kingdom	20	F	EN
+13	Srinagarindra	TH	Thailand	19	F	TH
+14	J. R. R. Tolkien	ZA	South_Africa	19	M	WR
+15	Samak Sundaravej	TH	Thailand	20	M	TH
+16	George III of the United Kingdom	UK	United_Kingdom	18	M	EN
+17	Galileo Galilei	IT	Italy	16	M	IT
+18	Charles II of England	UK	United_Kingdom	17	M	EN
+19	Vajiralongkorn	TH	Thailand	20	M	TH
+20	Napoleon	FR	France	18	M	FR
+21	Chao Keo Naovarat	TH	Thailand	19	M	TH
+22	Cao Cao	CN	China	2	M	ZH
+23	Elizabeth II	UK	United_Kingdom	20	F	EN
+24	Leonardo da Vinci	IT	Italy	15	M	IT
+25	Narisara Nuvadtivongs	TH	Thailand	19	M	TH
+26	Buddha Yodfa Chulaloke	TH	Thailand	18	M	TH
+27	Mongkut	TH	Thailand	19	M	TH
+28	Savang Vadhana	TH	Thailand	19	F	TH
+29	Ubolratana Rajakanya	CH	Switzerland	20	F	DE
+30	Michael Jackson	US	United_States	20	M	EN
+31	Isaac Newton	UK	United_Kingdom	17	M	EN
+32	Narai	TH	Thailand	17	M	TH
+33	Rambai Barni	TH	Thailand	20	F	TH
+34	Plaek Phibunsongkhram	TH	Thailand	19	M	TH
+35	Chatichai Choonhavan	TH	Thailand	20	M	TH
+36	Chulabhorn Walailak	TH	Thailand	20	F	TH
+37	Thongchai McIntyre	TH	Thailand	20	M	TH
+38	Bejaratana Rajasuda	TH	Thailand	20	F	TH
+39	Norodom Sihanouk	KH	Cambodia	20	M	WR
+40	Bhanurangsi Savangwongse	TH	Thailand	19	M	TH
+41	Raphael	IT	Italy	15	M	IT
+42	Elvis Presley	US	United_States	20	M	EN
+43	Prajadhipok	TH	Thailand	19	M	TH
+44	Louis XVI of France	FR	France	18	M	FR
+45	Ashoka	IN	India	-4	M	HI
+46	Khaosai Galaxy	TH	Thailand	20	M	TH
+47	Naresuan	TH	Thailand	16	M	TH
+48	Kukrit Pramoj	TH	Thailand	20	M	TH
+49	Gu Long	HK	Hong_Kong	20	M	ZH
+50	William Shakespeare	UK	United_Kingdom	16	M	EN
+51	Prem Tinsulanonda	TH	Thailand	20	M	TH
+52	Liu Bei	CN	China	2	M	ZH
+53	Paribatra Sukhumbhand	TH	Thailand	19	M	TH
+54	Abhakara Kiartivongse	TH	Thailand	19	M	TH
+55	George W. Bush	US	United_States	20	M	EN
+56	Tokugawa Ieyasu	JP	Japan	16	M	JA
+57	Ananda Mahidol	DE	Germany	20	M	DE
+58	Diana, Princess of Wales	UK	United_Kingdom	20	F	EN
+59	Hirohito	JP	Japan	20	M	JA
+60	Bhanubandhu Yugala	TH	Thailand	20	M	TH
+61	Chavalit Yongchaiyudh	TH	Thailand	20	M	TH
+62	Nelson Mandela	ZA	South_Africa	20	M	WR
+63	Buddhadasa	TH	Thailand	20	M	TH
+64	Chulalongkorn	TH	Thailand	19	M	TH
+65	Purachatra Jayakara	TH	Thailand	19	M	TH
+66	Charles, Prince of Wales	UK	United_Kingdom	20	M	EN
+67	Puyi	CN	China	20	M	ZH
+68	Chakrabongse Bhuvanadh	TH	Thailand	19	M	TH
+69	Vajiravudh	TH	Thailand	19	M	TH
+70	Khuang Aphaiwong	KH	Cambodia	20	M	WR
+71	Patiparn Pataweekarn	TH	Thailand	20	M	TH
+72	Celine Dion	CA	Canada	20	F	EN
+73	Damrong Rajanubhab	TH	Thailand	19	M	TH
+74	Zhuge Liang	CN	China	2	M	ZH
+75	Chatrichalerm Yukol	TH	Thailand	20	M	TH
+76	Carl Friedrich Gauss	DE	Germany	18	M	DE
+77	Max Planck	DE	Germany	19	M	DE
+78	Isaac Asimov	RU	Russia	20	M	RU
+79	Nangklao	TH	Thailand	18	M	TH
+80	Buddha Loetla Nabhalai	TH	Thailand	18	M	TH
+81	Sorapong Chatree	TH	Thailand	20	M	TH
+82	Somluck Kamsing	TH	Thailand	20	M	TH
+83	Pone Kingpetch	TH	Thailand	20	M	TH
+84	Charles I of England	UK	United_Kingdom	16	M	EN
+85	Chamlong Srimuang	TH	Thailand	20	M	TH
+86	Surayud Chulanont	TH	Thailand	20	M	TH
+87	Beyoncé Knowles	US	United_States	20	F	EN
+88	Emperor Meiji	JP	Japan	19	M	JA
+89	Barack Obama	US	United_States	20	M	EN
+90	Mariah Carey	US	United_States	20	F	EN
+91	Pongsaklek Wonjongkam	TH	Thailand	20	M	TH
+92	Pieter Bruegel the Elder	BE	Belgium	16	M	NL
+93	Chuan Leekpai	TH	Thailand	20	M	TH
+94	Saensak Muangsurin	TH	Thailand	20	M	TH
+95	Jackie Chan	HK	Hong_Kong	20	M	ZH
+96	Louis XIV of France	FR	France	17	M	FR
+97	Dara Rasmi	TH	Thailand	19	F	TH
+98	Chit Phumisak	TH	Thailand	20	M	TH
+99	Chintara Sukapatana	TH	Thailand	20	F	TH
+100	Si Suriyawongse	TH	Thailand	19	M	TH

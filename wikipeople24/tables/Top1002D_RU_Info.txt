@@ -1,0 +1,102 @@
+#List of top 100 Russian 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Pope John Paul II	PL	Poland	20	M	PL
+2	Dmitri Mendeleev	RU	Russia	19	M	RU
+3	Peter the Great	RU	Russia	17	M	RU
+4	Catherine the Great	PL	Poland	18	F	PL
+5	Aleksander Griboyedov	RU	Russia	18	M	RU
+6	Yuri Gagarin	RU	Russia	20	M	RU
+7	Justinian I	MK	Macedonia	5	M	WR
+8	Elvis Presley	US	United_States	20	M	EN
+9	Yaroslav the Wise	UA	Ukraine	10	M	WR
+10	Vladimir Vysotsky	RU	Russia	20	M	RU
+11	Alla Pugacheva	RU	Russia	20	F	RU
+12	Pope Benedict XVI	DE	Germany	20	M	DE
+13	Anton Denikin	PL	Poland	19	M	PL
+14	Raphael	IT	Italy	15	M	IT
+15	Max Planck	DE	Germany	19	M	DE
+16	Madonna (entertainer)	US	United_States	20	F	EN
+17	Joseph Stalin	GE	Georgia	19	M	WR
+18	George Harrison	UK	United_Kingdom	20	M	EN
+19	Niels Bohr	DK	Denmark	19	M	DA
+20	Bob Dylan	US	United_States	20	M	EN
+21	Christopher Columbus	IT	Italy	15	M	IT
+22	Louis de Funès	FR	France	20	M	FR
+23	William Shakespeare	UK	United_Kingdom	16	M	EN
+24	Nikolai Gogol	UA	Ukraine	19	M	WR
+25	Hannibal	TN	Tunisia	-3	M	AR
+26	Joseph Brodsky	RU	Russia	20	M	RU
+27	Nicholas Roerich	RU	Russia	19	M	RU
+28	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+29	Adolf Hitler	AT	Austria	19	M	DE
+30	Maxim Gorky	RU	Russia	19	M	RU
+31	J. R. R. Tolkien	ZA	South_Africa	19	M	WR
+32	Che Guevara	AR	Argentina	20	M	ES
+33	Konstantin Tsiolkovsky	RU	Russia	19	M	RU
+34	Alexander I of Russia	RU	Russia	18	M	RU
+35	David Bowie	UK	United_Kingdom	20	M	EN
+36	Arthur Conan Doyle	UK	United_Kingdom	19	M	EN
+37	Edgar Allan Poe	US	United_States	19	M	EN
+38	Louis XIV of France	FR	France	17	M	FR
+39	Benito Mussolini	IT	Italy	19	M	IT
+40	Salvador Dalí	ES	Spain	20	M	ES
+41	Viktor Yushchenko	UA	Ukraine	20	M	WR
+42	Albrecht Dürer	DE	Germany	15	M	DE
+43	Julius Caesar	IT	Italy	-1	M	IT
+44	Lavrentiy Beria	GE	Georgia	19	M	WR
+45	Nikita Khrushchev	RU	Russia	19	M	RU
+46	Viktor Yanukovych	UA	Ukraine	20	M	WR
+47	Henri Poincaré	FR	France	19	M	FR
+48	Pyotr Stolypin	DE	Germany	19	M	DE
+49	Ivan III of Russia	RU	Russia	15	M	RU
+50	Leonardo da Vinci	IT	Italy	15	M	IT
+51	Grigory Potemkin	RU	Russia	18	M	RU
+52	Sergey Kirov	RU	Russia	19	M	RU
+53	Mikhail Lomonosov	RU	Russia	18	M	RU
+54	Albert Einstein	DE	Germany	19	M	DE
+55	Michael Schumacher	DE	Germany	20	M	DE
+56	Muammar Gaddafi	LY	Libya	20	M	AR
+57	Louis the Pious	FR	France	8	M	FR
+58	Aleksandr Solzhenitsyn	RU	Russia	20	M	RU
+59	Sergei Korolev	UA	Ukraine	20	M	WR
+60	Ivan Paskevich	UA	Ukraine	18	M	WR
+61	Garry Kasparov	AZ	Azerbaijan	20	M	TR
+62	Viktor Tsoi	RU	Russia	20	M	RU
+63	Heydar Aliyev	AZ	Azerbaijan	20	M	TR
+64	Mikhail Frunze	KG	Kyrgyzstan	19	M	WR
+65	Quentin Tarantino	US	United_States	20	M	EN
+66	Napoleon	FR	France	18	M	FR
+67	Friedrich Wilhelm Joseph Schelling	DE	Germany	18	M	DE
+68	Timur	UZ	Uzbekistan	14	M	WR
+69	Georgy Zhukov	RU	Russia	19	M	RU
+70	Fridtjof Nansen	NO	Norway	19	M	WR
+71	Leonid Brezhnev	UA	Ukraine	20	M	WR
+72	Boris Grebenshchikov	RU	Russia	20	M	RU
+73	Andrey Kolmogorov	RU	Russia	20	M	RU
+74	Ivan Mazepa	UA	Ukraine	17	M	WR
+75	Carl Linnaeus	SE	Sweden	18	M	SV
+76	John Lennon	UK	United_Kingdom	20	M	EN
+77	Heinrich Himmler	DE	Germany	19	M	DE
+78	John the Baptist	IL	Israel	-1	M	HE
+79	Vytautas	LT	Lithuania	14	M	WR
+80	Georgy Vitsin	RU	Russia	20	M	RU
+81	Stephen King	US	United_States	20	M	EN
+82	Werner Heisenberg	DE	Germany	20	M	DE
+83	Rolan Bykov	UA	Ukraine	20	M	WR
+84	Ludwig van Beethoven	DE	Germany	18	M	DE
+85	Ozzy Osbourne	UK	United_Kingdom	20	M	EN
+86	Mikhail Lermontov	RU	Russia	19	M	RU
+87	Yakov Sverdlov	RU	Russia	19	M	RU
+88	Galileo Galilei	IT	Italy	16	M	IT
+89	Andrei Tarkovsky	RU	Russia	20	M	RU
+90	Erwin Schrödinger	AT	Austria	19	M	DE
+91	Trajan	ES	Spain	1	M	ES
+92	Nikita Mikhalkov	RU	Russia	20	M	RU
+93	Genghis Khan	MN	Mongolia	12	M	WR
+94	Leonid Utyosov	UA	Ukraine	19	M	WR
+95	H. P. Lovecraft	US	United_States	19	M	EN
+96	Wright brothers	US	United_States	19	M	EN
+97	Rembrandt	NL	Netherlands	17	M	NL
+98	Sergei Lukyanenko	KZ	Kazakhstan	20	M	WR
+99	Pope John XXIII	IT	Italy	19	M	IT
+100	Nadezhda Krupskaya	RU	Russia	19	F	RU

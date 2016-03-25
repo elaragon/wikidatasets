@@ -1,0 +1,102 @@
+#List of top 100 Russian PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Peter the Great	RU	Russia	17	M	RU
+2	Carl Linnaeus	SE	Sweden	18	M	SV
+3	Napoleon	FR	France	18	M	FR
+4	Alexander Pushkin	RU	Russia	18	M	RU
+5	Joseph Stalin	GE	Georgia	19	M	WR
+6	Vladimir Lenin	RU	Russia	19	M	RU
+7	Catherine the Great	PL	Poland	18	F	PL
+8	Jesus	PS	State_of_Palestine	-1	M	AR
+9	Aristotle	GR	Greece	-4	M	EL
+10	Vladimir Putin	RU	Russia	20	M	RU
+11	Julius Caesar	IT	Italy	-1	M	IT
+12	Adolf Hitler	AT	Austria	19	M	DE
+13	Alexander II of Russia	RU	Russia	19	M	RU
+14	Boris Yeltsin	RU	Russia	20	M	RU
+15	Karl Marx	DE	Germany	19	M	DE
+16	William Shakespeare	UK	United_Kingdom	16	M	EN
+17	Ivan the Terrible	RU	Russia	16	M	RU
+18	Alexander I of Russia	RU	Russia	18	M	RU
+19	Nicholas II of Russia	RU	Russia	19	M	RU
+20	Nicholas I of Russia	RU	Russia	18	M	RU
+21	Plato	GR	Greece	-5	M	EL
+22	Louis XIV of France	FR	France	17	M	FR
+23	Muhammad	SA	Saudi_Arabia	6	M	AR
+24	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+25	Augustus	IT	Italy	-1	M	IT
+26	Paul I of Russia	RU	Russia	18	M	RU
+27	Dmitry Medvedev	RU	Russia	20	M	RU
+28	Alexander the Great	GR	Greece	-4	M	EL
+29	Charlemagne	BE	Belgium	8	M	NL
+30	Leo Tolstoy	RU	Russia	19	M	RU
+31	Mikhail Gorbachev	RU	Russia	20	M	RU
+32	Nikolai Gogol	UA	Ukraine	19	M	WR
+33	Maxim Gorky	RU	Russia	19	M	RU
+34	Elizabeth II	UK	United_Kingdom	20	F	EN
+35	Anton Chekhov	RU	Russia	19	M	RU
+36	William Herschel	DE	Germany	18	M	DE
+37	Paul the Apostle	TR	Turkey	1	M	TR
+38	Herodotus	TR	Turkey	-5	M	TR
+39	Mikhail Lomonosov	RU	Russia	18	M	RU
+40	Isaac Newton	UK	United_Kingdom	17	M	EN
+41	Dmitri Mendeleev	RU	Russia	19	M	RU
+42	Albert Einstein	DE	Germany	19	M	DE
+43	Nikita Khrushchev	RU	Russia	19	M	RU
+44	Fyodor Dostoyevsky	RU	Russia	19	M	RU
+45	Charles V, Holy Roman Emperor	BE	Belgium	15	M	NL
+46	Elizabeth of Russia	RU	Russia	18	F	RU
+47	Christopher Columbus	IT	Italy	15	M	IT
+48	Johann Wolfgang von Goethe	DE	Germany	18	M	DE
+49	Immanuel Kant	RU	Russia	18	M	RU
+50	Constantine the Great	RS	Serbia	3	M	WR
+51	Richard Wagner	DE	Germany	19	M	DE
+52	Pyotr Ilyich Tchaikovsky	RU	Russia	19	M	RU
+53	Friedrich Nietzsche	DE	Germany	19	M	DE
+54	Pope John Paul II	PL	Poland	20	M	PL
+55	Winston Churchill	UK	United_Kingdom	19	M	EN
+56	Alexander III of Russia	RU	Russia	19	M	RU
+57	Alexis of Russia	RU	Russia	17	M	RU
+58	Leonid Brezhnev	UA	Ukraine	20	M	WR
+59	Martin Luther	DE	Germany	15	M	DE
+60	Benito Mussolini	IT	Italy	19	M	IT
+61	George W. Bush	US	United_States	20	M	EN
+62	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+63	Franklin D. Roosevelt	US	United_States	19	M	EN
+64	Leon Trotsky	UA	Ukraine	19	M	WR
+65	Cicero	IT	Italy	-2	M	IT
+66	Ptolemy	EG	Egypt	1	M	AR
+67	Ivan III of Russia	RU	Russia	15	M	RU
+68	Saint Peter	IL	Israel	1	M	HE
+69	Napoleon III	FR	France	19	M	FR
+70	Galileo Galilei	IT	Italy	16	M	IT
+71	Voltaire	FR	France	17	M	FR
+72	Ludwig van Beethoven	DE	Germany	18	M	DE
+73	John Herschel	UK	United_Kingdom	18	M	EN
+74	Ronald Reagan	US	United_States	20	M	EN
+75	Diocletian	HR	Croatia	3	M	WR
+76	John F. Kennedy	US	United_States	20	M	EN
+77	Giuseppe Verdi	IT	Italy	19	M	IT
+78	Vladimir the Great	RU	Russia	10	M	RU
+79	Timur	UZ	Uzbekistan	14	M	WR
+80	Genghis Khan	MN	Mongolia	12	M	WR
+81	Ivan Turgenev	RU	Russia	19	M	RU
+82	Queen Victoria	UK	United_Kingdom	19	F	EN
+83	Johann Sebastian Bach	DE	Germany	17	M	DE
+84	Leonardo da Vinci	IT	Italy	15	M	IT
+85	Mikhail Lermontov	RU	Russia	19	M	RU
+86	Sigmund Freud	CZ	Czech_	19	M	WR
+87	Barack Obama	US	United_States	20	M	EN
+88	Plutarch	GR	Greece	1	M	EL
+89	Mikhail Bulgakov	UA	Ukraine	19	M	WR
+90	Justinian I	MK	Macedonia	5	M	WR
+91	Friedrich Engels	DE	Germany	19	M	DE
+92	Mao Zedong	CN	China	19	M	ZH
+93	Gottfried Wilhelm Leibniz	DE	Germany	17	M	DE
+94	Charlie Chaplin	UK	United_Kingdom	19	M	EN
+95	Richard Nixon	US	United_States	20	M	EN
+96	Charles de Gaulle	FR	France	19	M	FR
+97	Tacitus	FR	France	1	M	FR
+98	Georg Wilhelm Friedrich Hegel	DE	Germany	18	M	DE
+99	Nero	IT	Italy	1	M	IT
+100	Vladimir Mayakovsky	GE	Georgia	19	M	WR

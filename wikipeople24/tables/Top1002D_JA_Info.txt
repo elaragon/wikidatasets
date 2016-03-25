@@ -1,0 +1,102 @@
+#List of top 100 Japanese 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Oda Nobunaga	JP	Japan	16	M	JA
+2	Tokugawa Ieyasu	JP	Japan	16	M	JA
+3	Toyotomi Hideyoshi	JP	Japan	16	M	JA
+4	Osamu Tezuka	JP	Japan	20	M	JA
+5	Fukuzawa Yukichi	JP	Japan	19	M	JA
+6	Takeshi Kitano	JP	Japan	20	M	JA
+7	Yumi Matsutoya	JP	Japan	20	F	JA
+8	Shinzō Abe	JP	Japan	20	M	JA
+9	Joseph Stalin	GE	Georgia	19	M	WR
+10	Adolf Hitler	AT	Austria	19	M	DE
+11	Sadaharu Oh	JP	Japan	20	M	JA
+12	Seiko Matsuda	JP	Japan	20	F	JA
+13	Yukio Mishima	JP	Japan	20	M	JA
+14	Tetsuya Komuro	JP	Japan	20	M	JA
+15	Junichiro Koizumi	JP	Japan	20	M	JA
+16	Michael Jackson	US	United_States	20	M	EN
+17	Shintaro Ishihara	JP	Japan	20	M	JA
+18	Hirohito	JP	Japan	20	M	JA
+19	Franklin D. Roosevelt	US	United_States	19	M	EN
+20	Tarō Asō	JP	Japan	20	M	JA
+21	Miyuki Nakajima	JP	Japan	20	F	JA
+22	Saigō Takamori	JP	Japan	19	M	JA
+23	Yasushi Akimoto	JP	Japan	20	M	JA
+24	Cao Cao	CN	China	2	M	ZH
+25	Uesugi Kenshin	JP	Japan	16	M	JA
+26	Yū Aku	JP	Japan	20	M	JA
+27	Ichiro Suzuki	JP	Japan	20	M	JA
+28	Queen Victoria	UK	United_Kingdom	19	F	EN
+29	Ryōtarō Shiba	JP	Japan	20	M	JA
+30	Yasuhiro Nakasone	JP	Japan	20	M	JA
+31	Sakamoto Ryōma	JP	Japan	19	M	JA
+32	Date Masamune	JP	Japan	16	M	JA
+33	Katsuya Nomura	JP	Japan	20	M	JA
+34	Kenji Sawada	JP	Japan	20	M	JA
+35	Yukio Hatoyama	JP	Japan	20	M	JA
+36	Takeda Shingen	JP	Japan	16	M	JA
+37	Takuro Yoshida	JP	Japan	20	M	JA
+38	Seichō Matsumoto	JP	Japan	20	M	JA
+39	Sanma Akashiya	JP	Japan	20	M	JA
+40	Keisuke Kuwata	JP	Japan	20	M	JA
+41	Akina Nakamori	JP	Japan	20	F	JA
+42	Shotaro Ishinomori	JP	Japan	20	M	JA
+43	Tsunku	JP	Japan	20	M	JA
+44	Yasuo Fukuda	JP	Japan	20	M	JA
+45	Barack Obama	US	United_States	20	M	EN
+46	Yasutaka Tsutsui	JP	Japan	20	M	JA
+47	Kakuei Tanaka	JP	Japan	20	M	JA
+48	Bob Dylan	US	United_States	20	M	EN
+49	Hiromi Go	JP	Japan	20	M	JA
+50	Hideki Saijo	JP	Japan	20	M	JA
+51	Tatsuro Yamashita	JP	Japan	20	M	JA
+52	Kyōko Koizumi	JP	Japan	20	F	JA
+53	Ichirō Ozawa	JP	Japan	20	M	JA
+54	Charlie Chaplin	UK	United_Kingdom	19	M	EN
+55	Jun'ichirō Tanizaki	JP	Japan	19	M	JA
+56	Itō Hirobumi	JP	Japan	19	M	JA
+57	Alexander the Great	GR	Greece	-4	M	EL
+58	Akira Kurosawa	JP	Japan	20	M	JA
+59	Antonio Inoki	JP	Japan	20	M	JA
+60	Steven Spielberg	US	United_States	20	M	EN
+61	Ayumi Hamasaki	JP	Japan	20	F	JA
+62	Momoe Yamaguchi	JP	Japan	20	M	JA
+63	Mōri Motonari	JP	Japan	15	M	JA
+64	Tamori	JP	Japan	20	M	JA
+65	Theodore Roosevelt	US	United_States	19	M	EN
+66	Napoleon	FR	France	18	M	FR
+67	Hideki Tojo	JP	Japan	19	M	JA
+68	Naoto Kan	JP	Japan	20	M	JA
+69	Napoleon III	FR	France	19	M	FR
+70	Dmitri Shostakovich	RU	Russia	20	M	RU
+71	Masaharu Fukuyama	JP	Japan	20	M	JA
+72	Yōsui Inoue	JP	Japan	20	M	JA
+73	Vincent van Gogh	NL	Netherlands	19	M	NL
+74	Itagaki Taisuke	JP	Japan	19	M	JA
+75	Akiko Wada	JP	Japan	20	F	JA
+76	Takashi Matsumoto (lyricist)	JP	Japan	20	M	JA
+77	Hiroshi Itsuki	JP	Japan	20	M	JA
+78	Emperor Taizong of Tang	CN	China	6	M	ZH
+79	Noriyuki Makihara	JP	Japan	20	M	JA
+80	Masashi Sada	JP	Japan	20	M	JA
+81	Akechi Mitsuhide	JP	Japan	16	M	JA
+82	Tokugawa Ienari	JP	Japan	18	M	JA
+83	Kyōhei Tsutsumi	JP	Japan	20	M	JA
+84	Hokusai	JP	Japan	18	M	JA
+85	Shinsuke Shimada	JP	Japan	20	M	JA
+86	Yoshirō Mori	JP	Japan	20	M	JA
+87	Hiromitsu Ochiai	JP	Japan	20	M	JA
+88	Abraham Lincoln	US	United_States	19	M	EN
+89	George Tokoro	JP	Japan	20	M	JA
+90	Hideki Matsui	JP	Japan	20	M	JA
+91	Haruki Murakami	JP	Japan	20	M	JA
+92	Miho Nakayama	JP	Japan	20	F	JA
+93	Albert Einstein	DE	Germany	19	M	DE
+94	Otto von Bismarck	DE	Germany	19	M	DE
+95	Namie Amuro	JP	Japan	20	F	JA
+96	Yuki Saito (actress)	JP	Japan	20	F	JA
+97	Shigeo Nagashima	JP	Japan	20	M	JA
+98	Uchimura Kanzō	JP	Japan	19	M	JA
+99	Sugawara no Michizane	JP	Japan	9	M	JA
+100	Maeda Toshiie	JP	Japan	16	M	JA

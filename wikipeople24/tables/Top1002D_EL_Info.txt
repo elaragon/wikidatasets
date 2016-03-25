@@ -1,0 +1,102 @@
+#List of top 100 Greek 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Plato	GR	Greece	-5	M	EL
+2	Alexander the Great	GR	Greece	-4	M	EL
+3	Eleftherios Venizelos	GR	Greece	19	M	EL
+4	Augustus	IT	Italy	-1	M	IT
+5	Ludwig van Beethoven	DE	Germany	18	M	DE
+6	Andreas Papandreou	GR	Greece	20	M	EL
+7	Ioannis Kapodistrias	GR	Greece	18	M	EL
+8	Plutarch	GR	Greece	1	M	EL
+9	Constantine the Great	RS	Serbia	3	M	WR
+10	Adolf Hitler	AT	Austria	19	M	DE
+11	Pericles	GR	Greece	-5	M	EL
+12	Konstantinos Karamanlis	GR	Greece	20	M	EL
+13	Ioannis Metaxas	GR	Greece	19	M	EL
+14	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+15	Georgios Papandreou	GR	Greece	19	M	EL
+16	Lucian	TR	Turkey	2	M	TR
+17	Charilaos Trikoupis	GR	Greece	19	M	EL
+18	Aristotle	GR	Greece	-4	M	EL
+19	Hadrian	ES	Spain	1	M	ES
+20	Ali Pasha	AL	Albania	18	M	WR
+21	Elizabeth I of England	UK	United_Kingdom	16	F	EN
+22	Sulla	IT	Italy	-2	M	IT
+23	Charles Darwin	UK	United_Kingdom	19	M	EN
+24	Mark Antony	IT	Italy	-1	M	IT
+25	Pyrrhus of Epirus	GR	Greece	-1	M	EL
+26	Diogenes Laërtius	GR	Greece	3	M	EL
+27	Paul the Apostle	TR	Turkey	1	M	TR
+28	Claudius	FR	France	-1	M	FR
+29	Demetrius I of Macedon	GR	Greece	-4	M	EL
+30	Justinian I	MK	Macedonia	5	M	WR
+31	Ptolemy I Soter	GR	Greece	-4	M	EL
+32	Mikis Theodorakis	GR	Greece	20	M	EL
+33	Antiochus IV Epiphanes	TR	Turkey	-1	M	TR
+34	Cleopatra	EG	Egypt	-1	F	AR
+35	Xenophon	GR	Greece	-5	M	EL
+36	Antigonus I Monophthalmus	GR	Greece	-4	M	EL
+37	Georgios Karaiskakis	GR	Greece	18	M	EL
+38	Philip V of Macedon	GR	Greece	-3	M	EL
+39	Jules Verne	FR	France	19	M	FR
+40	William Shakespeare	UK	United_Kingdom	16	M	EN
+41	Konstantinos Mitsotakis	GR	Greece	20	M	EL
+42	George Papandreou	US	United_States	20	M	EN
+43	Alexandros Mavrokordatos	TR	Turkey	18	M	TR
+44	Aliki Vougiouklaki	GR	Greece	20	F	EL
+45	Melina Mercouri	GR	Greece	20	F	EL
+46	Peter the Great	RU	Russia	17	M	RU
+47	Charlemagne	BE	Belgium	8	M	NL
+48	Julian (emperor)	TR	Turkey	4	M	TR
+49	Georgios Papadopoulos	GR	Greece	20	M	EL
+50	Belisarius	BG	Bulgaria	5	M	WR
+51	Patriarch Gregory V of Constantinople	GR	Greece	18	M	EL
+52	John Chrysostom	TR	Turkey	4	M	TR
+53	Odysseas Elytis	GR	Greece	20	M	EL
+54	Rembrandt	NL	Netherlands	17	M	NL
+55	Constantine Kanaris	GR	Greece	18	M	EL
+56	Alexios I Komnenos	TR	Turkey	11	M	TR
+57	Ptolemy II Philadelphus	EG	Egypt	-4	M	AR
+58	Odysseas Androutsos	GR	Greece	18	M	EL
+59	Pythagoras	GR	Greece	-6	M	EL
+60	Alfred Hitchcock	UK	United_Kingdom	19	M	EN
+61	Max Planck	DE	Germany	19	M	DE
+62	Antonis Samaras	GR	Greece	20	M	EL
+63	Alexander Papagos	GR	Greece	19	M	EL
+64	Panagiotis Kanellopoulos	GR	Greece	20	M	EL
+65	Dionysios Solomos	GR	Greece	18	M	EL
+66	Basil II	TR	Turkey	10	M	TR
+67	Johann Sebastian Bach	DE	Germany	17	M	DE
+68	Otto, King of Greece	AT	Austria	19	M	DE
+69	Costas Simitis	GR	Greece	20	M	EL
+70	Max Wolf	DE	Germany	19	M	DE
+71	Alcibiades	GR	Greece	-5	M	EL
+72	Vasilis Papakonstantinou	GR	Greece	20	M	EL
+73	Leonardo da Vinci	IT	Italy	15	M	IT
+74	Madonna (entertainer)	US	United_States	20	F	EN
+75	Constantine I of Greece	GR	Greece	19	M	EL
+76	Andreas Vokos Miaoulis	GR	Greece	18	M	EL
+77	William the Conqueror	FR	France	11	M	FR
+78	Edward III of England	UK	United_Kingdom	14	M	EN
+79	Theodoros Kolokotronis	GR	Greece	18	M	EL
+80	Jorge Luis Borges	AR	Argentina	19	M	ES
+81	Constantine II of Greece	GR	Greece	20	M	EL
+82	Victor Hugo	FR	France	19	M	FR
+83	Isaac Newton	UK	United_Kingdom	17	M	EN
+84	Desiderius Erasmus	NL	Netherlands	15	M	NL
+85	Solon	GR	Greece	-7	M	EL
+86	Germanos III of Old Patras	GR	Greece	18	M	EL
+87	Alexandros Zaimis	GR	Greece	19	M	EL
+88	Anna Vissi	CY	Cyprus	20	F	EL
+89	Themistocles	GR	Greece	-6	M	EL
+90	Spyros Markezinis	GR	Greece	20	M	EL
+91	Nikolaos Plastiras	GR	Greece	19	M	EL
+92	Epaminondas	GR	Greece	-5	M	EL
+93	Evangelos Venizelos	GR	Greece	20	M	EL
+94	Georgios Rallis	GR	Greece	20	M	EL
+95	Kostas Karamanlis	GR	Greece	20	M	EL
+96	Carl Friedrich Gauss	DE	Germany	18	M	DE
+97	Queen Victoria	UK	United_Kingdom	19	F	EN
+98	Antigonus II Gonatas	GR	Greece	-4	M	EL
+99	Cassander	GR	Greece	-4	M	EL
+100	Dimitri Kitsikis	GR	Greece	20	M	EL

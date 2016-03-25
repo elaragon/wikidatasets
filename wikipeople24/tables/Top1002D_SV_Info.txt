@@ -1,0 +1,102 @@
+#List of top 100 Swedish 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	August Strindberg	SE	Sweden	19	M	SV
+2	Astrid Lindgren	SE	Sweden	20	F	SV
+3	Carl XVI Gustaf of Sweden	SE	Sweden	20	M	SV
+4	Bob Dylan	US	United_States	20	M	EN
+5	Carl Linnaeus	SE	Sweden	18	M	SV
+6	Elizabeth I of England	UK	United_Kingdom	16	F	EN
+7	John Lennon	UK	United_Kingdom	20	M	EN
+8	Michael Jackson	US	United_States	20	M	EN
+9	Evert Taube	SE	Sweden	19	M	SV
+10	Henry VIII of England	UK	United_Kingdom	15	M	EN
+11	Charles XII of Sweden	SE	Sweden	17	M	SV
+12	Jan Myrdal	SE	Sweden	20	M	SV
+13	Carl Jonas Love Almqvist	SE	Sweden	18	M	SV
+14	George Frideric Handel	DE	Germany	17	M	DE
+15	Ingmar Bergman	SE	Sweden	20	F	SV
+16	Jesus	PS	State_of_Palestine	-1	M	AR
+17	Augustus	IT	Italy	-1	M	IT
+18	Gustav I of Sweden	SE	Sweden	15	M	SV
+19	Povel Ramel	SE	Sweden	20	M	SV
+20	Madonna (entertainer)	US	United_States	20	F	EN
+21	Fridtjof Nansen	NO	Norway	19	M	WR
+22	Mahatma Gandhi	IN	India	19	M	HI
+23	Hans Alfredson	SE	Sweden	20	M	SV
+24	Carl Milles	SE	Sweden	19	M	SV
+25	Johan Olof Wallin	SE	Sweden	18	M	SV
+26	Karl Marx	DE	Germany	19	M	DE
+27	Nelson Mandela	ZA	South_Africa	20	M	WR
+28	Martin Luther	DE	Germany	15	M	DE
+29	John Rawls	US	United_States	20	M	EN
+30	Erik Gustaf Geijer	SE	Sweden	18	M	SV
+31	Stephen King	US	United_States	20	M	EN
+32	Cornelis Vreeswijk	NL	Netherlands	20	M	NL
+33	Franz Liszt	AT	Austria	19	M	DE
+34	Barack Obama	US	United_States	20	M	EN
+35	Gustaf V of Sweden	SE	Sweden	19	M	SV
+36	Vladimir Putin	RU	Russia	20	M	RU
+37	Hans Christian Andersen	DK	Denmark	19	M	DA
+38	Elvis Presley	US	United_States	20	M	EN
+39	Michael Schumacher	DE	Germany	20	M	DE
+40	Franz Schubert	AT	Austria	18	M	DE
+41	Steven Spielberg	US	United_States	20	M	EN
+42	Bruce Springsteen	US	United_States	20	M	EN
+43	Margaret Thatcher	UK	United_Kingdom	20	F	EN
+44	Carola Häggkvist	SE	Sweden	20	F	SV
+45	Nikola Tesla	HR	Croatia	19	M	WR
+46	Friedrich Nietzsche	DE	Germany	19	M	DE
+47	Thomas Aquinas	IT	Italy	13	M	IT
+48	Olof Palme	SE	Sweden	20	M	SV
+49	Queen Victoria	UK	United_Kingdom	19	F	EN
+50	Ludwig van Beethoven	DE	Germany	18	M	DE
+51	Magnus Uggla	SE	Sweden	20	M	SV
+52	Verner von Heidenstam	SE	Sweden	19	M	SV
+53	Yngve Larsson	SE	Sweden	19	M	SV
+54	Karl Gerhard	SE	Sweden	19	M	SV
+55	Edgar Allan Poe	US	United_States	19	M	EN
+56	Hjalmar Söderberg	SE	Sweden	19	M	SV
+57	Carl Larsson	SE	Sweden	19	M	SV
+58	Gustav III of Sweden	SE	Sweden	18	M	SV
+59	Jules Verne	FR	France	19	M	FR
+60	Per Anders Fogelström	SE	Sweden	20	M	SV
+61	Agatha Christie	UK	United_Kingdom	19	F	EN
+62	Victoria, Crown Princess of Sweden	SE	Sweden	20	F	SV
+63	Johann Sebastian Bach	DE	Germany	17	M	DE
+64	Benny Andersson	SE	Sweden	20	M	SV
+65	Ulf Lundell	SE	Sweden	20	M	SV
+66	Tove Jansson	FI	Finland	20	F	WR
+67	Adolf Hitler	AT	Austria	19	M	DE
+68	Pope Benedict XVI	DE	Germany	20	M	DE
+69	Harry S. Truman	US	United_States	19	M	EN
+70	Jan Guillou	SE	Sweden	20	M	SV
+71	Charles II of England	UK	United_Kingdom	17	M	EN
+72	Eminem	US	United_States	20	M	EN
+73	Britney Spears	US	United_States	20	F	EN
+74	Moses	EG	Egypt	-14	M	AR
+75	Artur Lundkvist	SE	Sweden	20	M	SV
+76	Igor Stravinsky	RU	Russia	19	M	RU
+77	Lars Winnerbäck	SE	Sweden	20	M	SV
+78	Clint Eastwood	US	United_States	20	M	EN
+79	Sven Hedin	SE	Sweden	19	M	SV
+80	J. R. R. Tolkien	ZA	South_Africa	19	M	WR
+81	Monica Zetterlund	SE	Sweden	20	F	SV
+82	William Thomas Calman	UK	United_Kingdom	19	M	EN
+83	Frank Zappa	US	United_States	20	M	EN
+84	David Bowie	UK	United_Kingdom	20	M	EN
+85	Alice Cooper	US	United_States	20	M	EN
+86	Paul McCartney	UK	United_Kingdom	20	M	EN
+87	Charles Darwin	UK	United_Kingdom	19	M	EN
+88	Ozzy Osbourne	UK	United_Kingdom	20	M	EN
+89	Lina Sandell	SE	Sweden	19	F	SV
+90	James VI and I	UK	United_Kingdom	16	M	EN
+91	Alfred Hitchcock	UK	United_Kingdom	19	M	EN
+92	Neil Young	CA	Canada	20	M	EN
+93	Charles XIV John of Sweden	FR	France	18	M	FR
+94	Jan Malmsjö	SE	Sweden	20	M	SV
+95	Joseph Stalin	GE	Georgia	19	M	WR
+96	Gustaf Fröding	SE	Sweden	19	M	SV
+97	Vilhelm Moberg	SE	Sweden	19	M	SV
+98	Cyrus the Great	IR	Iran	-6	M	FA
+99	Vladimir Lenin	RU	Russia	19	M	RU
+100	Victor Sjöström	SE	Sweden	19	M	SV

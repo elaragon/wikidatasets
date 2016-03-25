@@ -1,0 +1,102 @@
+#List of top 100 Chinese PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Carl Linnaeus	SE	Sweden	18	M	SV
+2	Mao Zedong	CN	China	19	M	ZH
+3	Napoleon	FR	France	18	M	FR
+4	Aristotle	GR	Greece	-4	M	EL
+5	Chiang Kai-shek	CN	China	19	M	ZH
+6	Jesus	PS	State_of_Palestine	-1	M	AR
+7	Sun Yat-sen	CN	China	19	M	ZH
+8	Confucius	CN	China	-6	M	ZH
+9	Emperor Wu of Han	CN	China	-2	M	ZH
+10	Hongwu Emperor	CN	China	14	M	ZH
+11	Albert Einstein	DE	Germany	19	M	DE
+12	Qin Shi Huang	CN	China	-3	M	ZH
+13	Adolf Hitler	AT	Austria	19	M	DE
+14	Alfred Nobel	SE	Sweden	19	M	SV
+15	Zhou Enlai	CN	China	19	M	ZH
+16	Deng Xiaoping	CN	China	20	M	ZH
+17	Karl Marx	DE	Germany	19	M	DE
+18	Cristiano Ronaldo	PT	Portugal	20	M	PT
+19	Lionel Messi	AR	Argentina	20	M	ES
+20	Yuan Shikai	CN	China	19	M	ZH
+21	Emperor Taizong of Tang	CN	China	6	M	ZH
+22	Elizabeth II	UK	United_Kingdom	20	F	EN
+23	Plato	GR	Greece	-5	M	EL
+24	Barack Obama	US	United_States	20	M	EN
+25	Joseph Stalin	GE	Georgia	19	M	WR
+26	Wu Zetian	CN	China	7	F	ZH
+27	Emperor Xuanzong of Tang	CN	China	7	M	ZH
+28	William Shakespeare	UK	United_Kingdom	16	M	EN
+29	Emperor Gaozu of Han	CN	China	-3	M	ZH
+30	Christopher Columbus	IT	Italy	15	M	IT
+31	Cao Cao	CN	China	2	M	ZH
+32	Emperor Yang of Sui	CN	China	6	M	ZH
+33	Isaac Newton	UK	United_Kingdom	17	M	EN
+34	Genghis Khan	MN	Mongolia	12	M	WR
+35	Vladimir Lenin	RU	Russia	19	M	RU
+36	Lu Xun	CN	China	19	M	ZH
+37	Stephan Endlicher	SK	Slovakia	19	M	WR
+38	Kublai Khan	MN	Mongolia	13	M	WR
+39	Gautama Buddha	NP	Nepal	-6	M	WR
+40	Yongle Emperor	CN	China	14	M	ZH
+41	David Don	UK	United_Kingdom	18	M	EN
+42	Sima Qian	CN	China	-1	M	ZH
+43	Su Shi	CN	China	11	M	ZH
+44	Edward Charles Pickering	US	United_States	19	M	EN
+45	Philipp Franz von Siebold	DE	Germany	18	M	DE
+46	Franklin D. Roosevelt	US	United_States	19	M	EN
+47	Julius Caesar	IT	Italy	-1	M	IT
+48	Joseph Gerhard Zuccarini	DE	Germany	18	M	DE
+49	Charlemagne	BE	Belgium	8	M	NL
+50	Kangxi Emperor	CN	China	17	M	ZH
+51	Henry Draper	US	United_States	19	M	EN
+52	Galileo Galilei	IT	Italy	16	M	IT
+53	Liang Qichao	CN	China	19	M	ZH
+54	Muhammad	SA	Saudi_Arabia	6	M	AR
+55	George W. Bush	US	United_States	20	M	EN
+56	René Descartes	FR	France	16	M	FR
+57	Xunzi	CN	China	-4	M	ZH
+58	Zinedine Zidane	FR	France	20	M	FR
+59	Immanuel Kant	RU	Russia	18	M	RU
+60	Charles de Gaulle	FR	France	19	M	FR
+61	Zhu Xi	CN	China	12	M	ZH
+62	Alexander the Great	GR	Greece	-4	M	EL
+63	Qianlong Emperor	CN	China	18	M	ZH
+64	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+65	Ronald Reagan	US	United_States	20	M	EN
+66	Louis XIV of France	FR	France	17	M	FR
+67	Peng Dehuai	CN	China	19	M	ZH
+68	Augustus	IT	Italy	-1	M	IT
+69	Toyotomi Hideyoshi	JP	Japan	16	M	JA
+70	Jiang Zemin	CN	China	20	M	ZH
+71	Chen Shui-bian	TW	Taiwan	20	M	ZH
+72	Napoleon III	FR	France	19	M	FR
+73	Bill Clinton	US	United_States	20	M	EN
+74	Li Hongzhang	CN	China	19	M	ZH
+75	Emperor Gaozong of Tang	CN	China	7	M	ZH
+76	Hu Jintao	CN	China	20	M	ZH
+77	Paul the Apostle	TR	Turkey	1	M	TR
+78	Emperor Huizong of Song	CN	China	11	M	ZH
+79	Richard Nixon	US	United_States	20	M	EN
+80	Benito Mussolini	IT	Italy	19	M	IT
+81	Mencius	CN	China	-4	M	ZH
+82	Charles Darwin	UK	United_Kingdom	19	M	EN
+83	Lee Teng-hui	TW	Taiwan	20	M	ZH
+84	Emperor Gaozu of Tang	CN	China	6	M	ZH
+85	Puyi	CN	China	20	M	ZH
+86	Ma Ying-jeou	HK	Hong_Kong	20	M	ZH
+87	George Washington	US	United_States	18	M	EN
+88	Hirohito	JP	Japan	20	M	JA
+89	Leonardo da Vinci	IT	Italy	15	M	IT
+90	Tokugawa Ieyasu	JP	Japan	16	M	JA
+91	Winston Churchill	UK	United_Kingdom	19	M	EN
+92	Emperor Taizu of Song	CN	China	10	M	ZH
+93	King Wu of Zhou	CN	China	-11	M	ZH
+94	Friedrich Engels	DE	Germany	19	M	DE
+95	Emperor Guangwu of Han	CN	China	-1	M	ZH
+96	Wang Mang	CN	China	-1	M	ZH
+97	Adam Smith	UK	United_Kingdom	18	M	EN
+98	Ptolemy	EG	Egypt	1	M	AR
+99	Hu Shih	CN	China	19	M	ZH
+100	Empress Dowager Cixi	CN	China	19	F	ZH

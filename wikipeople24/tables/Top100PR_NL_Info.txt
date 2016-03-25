@@ -1,0 +1,102 @@
+#List of top 100 Dutch PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Carl Linnaeus	SE	Sweden	18	M	SV
+2	Pierre André Latreille	FR	France	18	M	FR
+3	Napoleon	FR	France	18	M	FR
+4	Eugène Simon	FR	France	19	M	FR
+5	Jesus	PS	State_of_Palestine	-1	M	AR
+6	Charles Darwin	UK	United_Kingdom	19	M	EN
+7	Julius Caesar	IT	Italy	-1	M	IT
+8	Adolf Hitler	AT	Austria	19	M	DE
+9	Aristotle	GR	Greece	-4	M	EL
+10	Charlemagne	BE	Belgium	8	M	NL
+11	Jean-Baptiste Lamarck	FR	France	18	M	FR
+12	Plato	GR	Greece	-5	M	EL
+13	Alexander the Great	GR	Greece	-4	M	EL
+14	Ernst Mayr	DE	Germany	20	M	DE
+15	Louis XIV of France	FR	France	17	M	FR
+16	Pope John Paul II	PL	Poland	20	M	PL
+17	Augustus	IT	Italy	-1	M	IT
+18	Christian Gottfried Daniel Nees von Esenbeck	DE	Germany	18	M	DE
+19	Charles V, Holy Roman Emperor	BE	Belgium	15	M	NL
+20	William I of the Netherlands	NL	Netherlands	18	M	NL
+21	Alfred Russel Wallace	UK	United_Kingdom	19	M	EN
+22	Thomas Robert Malthus	UK	United_Kingdom	18	M	EN
+23	Beatrix of the Netherlands	NL	Netherlands	20	F	NL
+24	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+25	Joseph Stalin	GE	Georgia	19	M	WR
+26	John Ray	UK	United_Kingdom	17	M	EN
+27	Albert Einstein	DE	Germany	19	M	DE
+28	Christopher Columbus	IT	Italy	15	M	IT
+29	William Shakespeare	UK	United_Kingdom	16	M	EN
+30	Tacitus	FR	France	1	M	FR
+31	Cicero	IT	Italy	-2	M	IT
+32	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+33	Isaac Newton	UK	United_Kingdom	17	M	EN
+34	Johann Wolfgang von Goethe	DE	Germany	18	M	DE
+35	Elizabeth II	UK	United_Kingdom	20	F	EN
+36	William the Silent	DE	Germany	16	M	DE
+37	Muhammad	SA	Saudi_Arabia	6	M	AR
+38	Karl Marx	DE	Germany	19	M	DE
+39	Edmond de Sélys Longchamps	FR	France	19	M	FR
+40	Rembrandt	NL	Netherlands	17	M	NL
+41	Tamerlan Thorell	SE	Sweden	19	M	SV
+42	Ludwig van Beethoven	DE	Germany	18	M	DE
+43	J. B. S. Haldane	UK	United_Kingdom	19	M	EN
+44	Immanuel Kant	RU	Russia	18	M	RU
+45	Philip II of Spain	ES	Spain	16	M	ES
+46	Martin Luther	DE	Germany	15	M	DE
+47	Diocletian	HR	Croatia	3	M	WR
+48	George W. Bush	US	United_States	20	M	EN
+49	William Herschel	DE	Germany	18	M	DE
+50	Wilhelmina of the Netherlands	NL	Netherlands	19	F	NL
+51	Benito Mussolini	IT	Italy	19	M	IT
+52	René Descartes	FR	France	16	M	FR
+53	Paul the Apostle	TR	Turkey	1	M	TR
+54	Juliana of the Netherlands	NL	Netherlands	20	F	NL
+55	Johann Sebastian Bach	DE	Germany	17	M	DE
+56	Octavius Pickard-Cambridge	UK	United_Kingdom	19	M	EN
+57	Saint Peter	IL	Israel	1	M	HE
+58	Gautama Buddha	NP	Nepal	-6	M	WR
+59	Galileo Galilei	IT	Italy	16	M	IT
+60	Moses	EG	Egypt	-14	M	AR
+61	Francisco Franco	ES	Spain	19	M	ES
+62	Christiaan Huygens	NL	Netherlands	17	M	NL
+63	Constantine the Great	RS	Serbia	3	M	WR
+64	Ernst Haeckel	DE	Germany	19	M	DE
+65	Elvis Presley	US	United_States	20	M	EN
+66	Herodotus	TR	Turkey	-5	M	TR
+67	Leonardo da Vinci	IT	Italy	15	M	IT
+68	Vladimir Lenin	RU	Russia	19	M	RU
+69	Carl Ludwig Koch	DE	Germany	18	M	DE
+70	John Edward Gray	UK	United_Kingdom	18	M	EN
+71	J. R. R. Tolkien	ZA	South_Africa	19	M	WR
+72	William III of England	NL	Netherlands	17	M	NL
+73	Mao Zedong	CN	China	19	M	ZH
+74	Charles de Gaulle	FR	France	19	M	FR
+75	Pope Benedict XVI	DE	Germany	20	M	DE
+76	John F. Kennedy	US	United_States	20	M	EN
+77	Pliny the Elder	IT	Italy	1	M	IT
+78	James Cook	UK	United_Kingdom	18	M	EN
+79	Georges Cuvier	FR	France	18	M	FR
+80	Barack Obama	US	United_States	20	M	EN
+81	Augustine of Hippo	DZ	Algeria	4	M	AR
+82	Queen Victoria	UK	United_Kingdom	19	F	EN
+83	Pope Paul VI	IT	Italy	19	M	IT
+84	Cândido Firmino de Mello-Leitão	BR	Brazil	19	M	PT
+85	John Herschel	UK	United_Kingdom	18	M	EN
+86	Winston Churchill	UK	United_Kingdom	19	M	EN
+87	Justinian I	MK	Macedonia	5	M	WR
+88	Joseph Haydn	AT	Austria	18	M	DE
+89	Saddam Hussein	IQ	Iraq	20	M	AR
+90	Peter Paul Rubens	DE	Germany	16	M	DE
+91	Willis J. Gertsch	US	United_States	20	M	EN
+92	Prince Bernhard of Lippe-Biesterfeld	DE	Germany	20	M	DE
+93	Napoleon III	FR	France	19	M	FR
+94	Michael Jackson	US	United_States	20	M	EN
+95	Maurice, Prince of Orange	DE	Germany	16	M	DE
+96	Madonna (entertainer)	US	United_States	20	F	EN
+97	Franklin D. Roosevelt	US	United_States	19	M	EN
+98	William III of the Netherlands	BE	Belgium	19	M	NL
+99	Henri Marie Ducrotay de Blainville	FR	France	18	M	FR
+100	Bede	UK	United_Kingdom	7	M	EN

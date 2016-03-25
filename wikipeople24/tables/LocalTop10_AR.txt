@@ -1,0 +1,12 @@
+#AR Arabic local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 2282 & Jesus & 943 & Jesus \\
+2 & 1735 & Muhammad & 499 & Muhammad \\
+3 & 629 & Moses & 291 & Ali \\
+4 & 426 & Saddam Hussein & 219 & Saddam Hussein \\
+5 & 424 & Ptolemy & 181 & Muammar Gaddafi \\
+6 & 329 & Augustine of Hippo & 143 & Hannibal \\
+7 & 328 & Ali & 128 & Saladin \\
+8 & 196 & Umar & 128 & Anwar Sadat \\
+9 & 147 & Anwar Sadat & 117 & Hosni Mubarak \\
+10 & 134 & Euclid & 108 & Yasser Arafat \\

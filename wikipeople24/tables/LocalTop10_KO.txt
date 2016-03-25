@@ -1,0 +1,12 @@
+#KO Korean local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 100 & Gojong of the Korean Empire & 114 & Gojong of the Korean Empire \\
+2 & 98 & Kim Il-sung & 106 & Kim Il-sung \\
+3 & 95 & Sejong the Great & 100 & Park Chung-hee \\
+4 & 94 & Park Chung-hee & 99 & Kim Dae-jung \\
+5 & 93 & Taejong of Joseon & 97 & Roh Moo-hyun \\
+6 & 92 & Syngman Rhee & 95 & Sejong the Great \\
+7 & 91 & Yeongjo of Joseon & 94 & Taejo of Goryeo \\
+8 & 90 & Kim Dae-jung & 93 & Kim Young-sam \\
+9 & 89 & Seonjo of Joseon & 92 & Jeongjo of Joseon \\
+10 & 86 & Taejo of Joseon & 90 & Syngman Rhee \\

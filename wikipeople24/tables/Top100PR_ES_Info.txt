@@ -1,0 +1,102 @@
+#List of top 100 Spanish PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Carl Linnaeus	SE	Sweden	18	M	SV
+2	Napoleon	FR	France	18	M	FR
+3	Aristotle	GR	Greece	-4	M	EL
+4	Charles V, Holy Roman Emperor	BE	Belgium	15	M	NL
+5	Jesus	PS	State_of_Palestine	-1	M	AR
+6	William Shakespeare	UK	United_Kingdom	16	M	EN
+7	Julius Caesar	IT	Italy	-1	M	IT
+8	Philip II of Spain	ES	Spain	16	M	ES
+9	Adolf Hitler	AT	Austria	19	M	DE
+10	Augustus	IT	Italy	-1	M	IT
+11	Plato	GR	Greece	-5	M	EL
+12	Albert Einstein	DE	Germany	19	M	DE
+13	Alexander the Great	GR	Greece	-4	M	EL
+14	Pope John Paul II	PL	Poland	20	M	PL
+15	Christopher Columbus	IT	Italy	15	M	IT
+16	Karl Marx	DE	Germany	19	M	DE
+17	Isaac Newton	UK	United_Kingdom	17	M	EN
+18	Charles Darwin	UK	United_Kingdom	19	M	EN
+19	Charlemagne	BE	Belgium	8	M	NL
+20	Francisco Franco	ES	Spain	19	M	ES
+21	Immanuel Kant	RU	Russia	18	M	RU
+22	Louis XIV of France	FR	France	17	M	FR
+23	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+24	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+25	Cicero	IT	Italy	-2	M	IT
+26	Herodotus	TR	Turkey	-5	M	TR
+27	Charles III of Spain	ES	Spain	18	M	ES
+28	Paul the Apostle	TR	Turkey	1	M	TR
+29	Galileo Galilei	IT	Italy	16	M	IT
+30	Miguel de Cervantes	ES	Spain	16	M	ES
+31	Ferdinand VII of Spain	ES	Spain	18	M	ES
+32	René Descartes	FR	France	16	M	FR
+33	Philip V of Spain	FR	France	17	M	FR
+34	Joseph Stalin	GE	Georgia	19	M	WR
+35	Alfonso X of Castile	ES	Spain	13	M	ES
+36	Pierre André Latreille	FR	France	18	M	FR
+37	Augustine of Hippo	DZ	Algeria	4	M	AR
+38	Pliny the Elder	IT	Italy	1	M	IT
+39	Ludwig van Beethoven	DE	Germany	18	M	DE
+40	Alfonso XIII of Spain	ES	Spain	19	M	ES
+41	Leonardo da Vinci	IT	Italy	15	M	IT
+42	Francisco Goya	ES	Spain	18	M	ES
+43	Simón Bolívar	VE	Venezuela	18	M	ES
+44	Elizabeth II	UK	United_Kingdom	20	F	EN
+45	George W. Bush	US	United_States	20	M	EN
+46	Sigmund Freud	CZ	Czech_	19	M	WR
+47	Benito Mussolini	IT	Italy	19	M	IT
+48	Constantine the Great	RS	Serbia	3	M	WR
+49	Gottfried Wilhelm Leibniz	DE	Germany	17	M	DE
+50	Muhammad	SA	Saudi_Arabia	6	M	AR
+51	Barack Obama	US	United_States	20	M	EN
+52	Thomas Aquinas	IT	Italy	13	M	IT
+53	Jean-Jacques Rousseau	CH	Switzerland	18	M	DE
+54	Franklin D. Roosevelt	US	United_States	19	M	EN
+55	Saint Peter	IL	Israel	1	M	HE
+56	Michael Jackson	US	United_States	20	M	EN
+57	Pablo Picasso	ES	Spain	19	M	ES
+58	Isabella II of Spain	ES	Spain	19	F	ES
+59	Martin Luther	DE	Germany	15	M	DE
+60	Richard Wagner	DE	Germany	19	M	DE
+61	Pope Benedict XVI	DE	Germany	20	M	DE
+62	Johann Sebastian Bach	DE	Germany	17	M	DE
+63	Juan Carlos I of Spain	IT	Italy	20	M	IT
+64	Georg Wilhelm Friedrich Hegel	DE	Germany	18	M	DE
+65	Ferdinand II of Aragon	ES	Spain	15	M	ES
+66	Montesquieu	FR	France	17	M	FR
+67	Plutarch	GR	Greece	1	M	EL
+68	Napoleon III	FR	France	19	M	FR
+69	Fidel Castro	CU	Cuba	20	M	ES
+70	George Washington	US	United_States	18	M	EN
+71	Juan Perón	AR	Argentina	19	M	ES
+72	Philip IV of Spain	ES	Spain	17	M	ES
+73	Justinian I	MK	Macedonia	5	M	WR
+74	Michelangelo	IT	Italy	15	M	IT
+75	John F. Kennedy	US	United_States	20	M	EN
+76	Henry VIII of England	UK	United_Kingdom	15	M	EN
+77	Vladimir Lenin	RU	Russia	19	M	RU
+78	Thomas Edison	US	United_States	19	M	EN
+79	Trajan	ES	Spain	1	M	ES
+80	Johann Wolfgang von Goethe	DE	Germany	18	M	DE
+81	Hugo Chávez	VE	Venezuela	20	M	ES
+82	Madonna (entertainer)	US	United_States	20	F	EN
+83	Strabo	TR	Turkey	-1	M	TR
+84	John Locke	UK	United_Kingdom	17	M	EN
+85	Bob Dylan	US	United_States	20	M	EN
+86	Richard Nixon	US	United_States	20	M	EN
+87	Georges Cuvier	FR	France	18	M	FR
+88	Abraham Lincoln	US	United_States	19	M	EN
+89	Dante Alighieri	IT	Italy	13	M	IT
+90	Gautama Buddha	NP	Nepal	-6	M	WR
+91	Ferdinand III of Castile	ES	Spain	12	M	ES
+92	Nero	IT	Italy	1	M	IT
+93	John the Baptist	IL	Israel	-1	M	HE
+94	Lope de Vega	ES	Spain	16	M	ES
+95	Ronald Reagan	US	United_States	20	M	EN
+96	Ptolemy	EG	Egypt	1	M	AR
+97	Hernán Cortés	ES	Spain	15	M	ES
+98	Ovid	IT	Italy	-1	M	IT
+99	Bill Clinton	US	United_States	20	M	EN
+100	Socrates	GR	Greece	-5	M	EL

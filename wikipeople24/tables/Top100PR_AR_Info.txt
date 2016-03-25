@@ -1,0 +1,102 @@
+#List of top 100 Arabic PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Muhammad	SA	Saudi_Arabia	6	M	AR
+2	Ali	SA	Saudi_Arabia	7	M	AR
+3	Carl Linnaeus	SE	Sweden	18	M	SV
+4	Umar	SA	Saudi_Arabia	6	M	AR
+5	Aristotle	GR	Greece	-4	M	EL
+6	Napoleon	FR	France	18	M	FR
+7	Alexander the Great	GR	Greece	-4	M	EL
+8	Adolf Hitler	AT	Austria	19	M	DE
+9	Augustus	IT	Italy	-1	M	IT
+10	Julius Caesar	IT	Italy	-1	M	IT
+11	George Washington	US	United_States	18	M	EN
+12	Elizabeth II	UK	United_Kingdom	20	F	EN
+13	Jesus	PS	State_of_Palestine	-1	M	AR
+14	William Shakespeare	UK	United_Kingdom	16	M	EN
+15	Gamal Abdel Nasser	EG	Egypt	20	M	AR
+16	Al-Khalil ibn Ahmad al-Farahidi	OM	Oman	8	M	AR
+17	Isaac Newton	UK	United_Kingdom	17	M	EN
+18	Albert Einstein	DE	Germany	19	M	DE
+19	Al-Dhahabi	SY	Syria	13	M	AR
+20	Uthman ibn Affan	SA	Saudi_Arabia	6	M	AR
+21	Moses	EG	Egypt	-14	M	AR
+22	Plato	GR	Greece	-5	M	EL
+23	Karl Marx	DE	Germany	19	M	DE
+24	Ibn Khaldun	TN	Tunisia	14	M	AR
+25	Muhammad al-Bukhari	UZ	Uzbekistan	9	M	WR
+26	Christopher Columbus	IT	Italy	15	M	IT
+27	Saddam Hussein	IQ	Iraq	20	M	AR
+28	Al-Shafi‘i	PS	State_of_Palestine	8	M	AR
+29	Hosni Mubarak	EG	Egypt	20	M	AR
+30	Barack Obama	US	United_States	20	M	EN
+31	Anwar Sadat	EG	Egypt	20	M	AR
+32	Muhammad Ali of Egypt	GR	Greece	18	M	EL
+33	Ibn Kathir	TR	Turkey	14	M	TR
+34	Ahmad ibn Hanbal	IQ	Iraq	8	M	AR
+35	Saladin	IQ	Iraq	12	M	AR
+36	Ibn Saud	SA	Saudi_Arabia	19	M	AR
+37	Muawiyah I	SA	Saudi_Arabia	7	M	AR
+38	Charlemagne	BE	Belgium	8	M	NL
+39	Abd Allah ibn Abbas	SA	Saudi_Arabia	7	M	AR
+40	Joseph Stalin	GE	Georgia	19	M	WR
+41	Vladimir Lenin	RU	Russia	19	M	RU
+42	Charles Darwin	UK	United_Kingdom	19	M	EN
+43	Ibn Taymiyyah	TR	Turkey	13	M	TR
+44	Isma'il Pasha	EG	Egypt	19	M	AR
+45	Herodotus	TR	Turkey	-5	M	TR
+46	George W. Bush	US	United_States	20	M	EN
+47	Yaqut al-Hamawi	SY	Syria	12	M	AR
+48	Avicenna	UZ	Uzbekistan	10	M	WR
+49	Abraham Lincoln	US	United_States	19	M	EN
+50	Taha Hussein	EG	Egypt	19	M	AR
+51	Muhammad al-Idrisi	ES	Spain	11	M	ES
+52	Paul the Apostle	TR	Turkey	1	M	TR
+53	Harun al-Rashid	IR	Iran	8	M	FA
+54	Henry VIII of England	UK	United_Kingdom	15	M	EN
+55	Leonardo da Vinci	IT	Italy	15	M	IT
+56	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+57	Al-Suyuti	EG	Egypt	15	M	AR
+58	Al-Ghazali	IR	Iran	11	M	FA
+59	'Amr ibn al-'As	SA	Saudi_Arabia	6	M	AR
+60	Constantine the Great	RS	Serbia	3	M	WR
+61	Franklin D. Roosevelt	US	United_States	19	M	EN
+62	Mustafa el-Nahhas	EG	Egypt	19	M	AR
+63	Naguib Mahfouz	EG	Egypt	20	M	AR
+64	Muammar Gaddafi	LY	Libya	20	M	AR
+65	Thomas Jefferson	US	United_States	18	M	EN
+66	Ibn Qayyim Al-Jawziyya	SY	Syria	13	M	AR
+67	Al-Mutanabbi	IQ	Iraq	10	M	AR
+68	Abd al-Malik ibn Marwan	SA	Saudi_Arabia	7	M	AR
+69	Sayyid Qutb	EG	Egypt	20	M	AR
+70	Louis XIV of France	FR	France	17	M	FR
+71	Hasan ibn Ali	SA	Saudi_Arabia	7	M	AR
+72	Averroes	ES	Spain	12	M	ES
+73	Benito Mussolini	IT	Italy	19	M	IT
+74	Elizabeth I of England	UK	United_Kingdom	16	F	EN
+75	Khalid ibn al-Walid	SA	Saudi_Arabia	6	M	AR
+76	Friedrich Engels	DE	Germany	19	M	DE
+77	Ali ibn al-Athir	TR	Turkey	12	M	TR
+78	Martin Luther	DE	Germany	15	M	DE
+79	Kahlil Gibran	LB	Lebanon	19	M	AR
+80	Charles de Gaulle	FR	France	19	M	FR
+81	Aisha	SA	Saudi_Arabia	7	F	AR
+82	Mustafa Kemal Atatürk	GR	Greece	19	M	EL
+83	Malik ibn Anas	SA	Saudi_Arabia	8	M	AR
+84	Yusuf al-Qaradawi	EG	Egypt	20	M	AR
+85	Al-Jahiz	IQ	Iraq	8	M	AR
+86	Ibn Hajar al-Asqalani	EG	Egypt	14	M	AR
+87	Sigmund Freud	CZ	Czech_	19	M	WR
+88	Cyrus the Great	IR	Iran	-6	M	FA
+89	Heraclius	TR	Turkey	6	M	TR
+90	Alexander Graham Bell	UK	United_Kingdom	19	M	EN
+91	Galileo Galilei	IT	Italy	16	M	IT
+92	Ronald Reagan	US	United_States	20	M	EN
+93	Justinian I	MK	Macedonia	5	M	WR
+94	Abdul Hamid II	TR	Turkey	19	M	TR
+95	Yasser Arafat	EG	Egypt	20	M	AR
+96	Fahd of Saudi Arabia	SA	Saudi_Arabia	20	M	AR
+97	Bill Clinton	US	United_States	20	M	EN
+98	Richard Nixon	US	United_States	20	M	EN
+99	Mehmed the Conqueror	TR	Turkey	15	M	TR
+100	Al-Mansur	IQ	Iraq	8	M	AR

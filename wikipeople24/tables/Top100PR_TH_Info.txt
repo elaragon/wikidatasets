@@ -1,0 +1,102 @@
+#List of top 100 Thai PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Chulalongkorn	TH	Thailand	19	M	TH
+2	Jesus	PS	State_of_Palestine	-1	M	AR
+3	Bhumibol Adulyadej	US	United_States	20	M	EN
+4	Vajiravudh	TH	Thailand	19	M	TH
+5	Mongkut	TH	Thailand	19	M	TH
+6	Carl Linnaeus	SE	Sweden	18	M	SV
+7	Buddha Yodfa Chulaloke	TH	Thailand	18	M	TH
+8	Elizabeth II	UK	United_Kingdom	20	F	EN
+9	Nangklao	TH	Thailand	18	M	TH
+10	Thaksin Shinawatra	TH	Thailand	20	M	TH
+11	Damrong Rajanubhab	TH	Thailand	19	M	TH
+12	Taksin	TH	Thailand	18	M	TH
+13	Plaek Phibunsongkhram	TH	Thailand	19	M	TH
+14	Prajadhipok	TH	Thailand	19	M	TH
+15	Aristotle	GR	Greece	-4	M	EL
+16	Buddha Loetla Nabhalai	TH	Thailand	18	M	TH
+17	Narai	TH	Thailand	17	M	TH
+18	Muhammad	SA	Saudi_Arabia	6	M	AR
+19	Sirindhorn	TH	Thailand	20	F	TH
+20	Napoleon	FR	France	18	M	FR
+21	Ananda Mahidol	DE	Germany	20	M	DE
+22	Sirikit	TH	Thailand	20	F	TH
+23	Isaac Newton	UK	United_Kingdom	17	M	EN
+24	Gautama Buddha	NP	Nepal	-6	M	WR
+25	Albert Einstein	DE	Germany	19	M	DE
+26	Adolf Hitler	AT	Austria	19	M	DE
+27	Naresuan	TH	Thailand	16	M	TH
+28	Ashoka	IN	India	-4	M	HI
+29	Bayinnaung	MM	Myanmar	16	M	WR
+30	Moses	EG	Egypt	-14	M	AR
+31	Charles Darwin	UK	United_Kingdom	19	M	EN
+32	George Washington	US	United_States	18	M	EN
+33	Trailokkanat	TH	Thailand	15	M	TH
+34	Christopher Columbus	IT	Italy	15	M	IT
+35	Thanom Kittikachorn	TH	Thailand	20	M	TH
+36	Barack Obama	US	United_States	20	M	EN
+37	David Cameron	UK	United_Kingdom	20	M	EN
+38	Phetracha	TH	Thailand	17	M	TH
+39	Prem Tinsulanonda	TH	Thailand	20	M	TH
+40	George W. Bush	US	United_States	20	M	EN
+41	Ram Khamhaeng	TH	Thailand	13	M	TH
+42	Julius Caesar	IT	Italy	-1	M	IT
+43	J. R. R. Tolkien	ZA	South_Africa	19	M	WR
+44	Chuan Leekpai	TH	Thailand	20	M	TH
+45	Chao Keo Naovarat	TH	Thailand	19	M	TH
+46	Saint Peter	IL	Israel	1	M	HE
+47	Queen Victoria	UK	United_Kingdom	19	F	EN
+48	Abhisit Vejjajiva	UK	United_Kingdom	20	M	EN
+49	Pridi Banomyong	TH	Thailand	19	M	TH
+50	Saovabha Phongsri	TH	Thailand	19	F	TH
+51	Sarit Thanarat	TH	Thailand	20	M	TH
+52	Yingluck Shinawatra	TH	Thailand	20	F	TH
+53	William Thomson, 1st Baron Kelvin	UK	United_Kingdom	19	M	EN
+54	Plato	GR	Greece	-5	M	EL
+55	Galyani Vadhana	UK	United_Kingdom	20	F	EN
+56	Abraham Lincoln	US	United_States	19	M	EN
+57	Paul the Apostle	TR	Turkey	1	M	TR
+58	Kukrit Pramoj	TH	Thailand	20	M	TH
+59	Debsirindra	TH	Thailand	19	F	TH
+60	Uthong	TH	Thailand	14	M	TH
+61	Prasat Thong	TH	Thailand	16	M	TH
+62	Boromakot	TH	Thailand	18	M	TH
+63	Thomas Jefferson	US	United_States	18	M	EN
+64	Srinagarindra	TH	Thailand	19	F	TH
+65	Anawrahta	MM	Myanmar	11	M	WR
+66	Augustus	IT	Italy	-1	M	IT
+67	Pope Gregory XIII	IT	Italy	16	M	IT
+68	Martin Luther	DE	Germany	15	M	DE
+69	Sri Suriyendra	TH	Thailand	18	F	TH
+70	Samak Sundaravej	TH	Thailand	20	M	TH
+71	George III of the United Kingdom	UK	United_Kingdom	18	M	EN
+72	Galileo Galilei	IT	Italy	16	M	IT
+73	Alexander the Great	GR	Greece	-4	M	EL
+74	Chavalit Yongchaiyudh	TH	Thailand	20	M	TH
+75	Seni Pramoj	TH	Thailand	20	M	TH
+76	Ramathibodi II	TH	Thailand	15	M	TH
+77	Mahidol Adulyadej	TH	Thailand	19	M	TH
+78	Ekathotsarot	TH	Thailand	16	M	TH
+79	Louis XIV of France	FR	France	17	M	FR
+80	Amarindra	TH	Thailand	18	F	TH
+81	Pinklao	TH	Thailand	19	M	TH
+82	Charles II of England	UK	United_Kingdom	17	M	EN
+83	Vajiralongkorn	TH	Thailand	20	M	TH
+84	Montesquieu	FR	France	17	M	FR
+85	Constantine the Great	RS	Serbia	3	M	WR
+86	Phraya Phahon Phonphayuhasena	TH	Thailand	19	M	TH
+87	Marie Curie	PL	Poland	19	F	PL
+88	Joseph Stalin	GE	Georgia	19	M	WR
+89	Richard Nixon	US	United_States	20	M	EN
+90	John the Baptist	IL	Israel	-1	M	HE
+91	Charles, Prince of Wales	UK	United_Kingdom	20	M	EN
+92	William Shakespeare	UK	United_Kingdom	16	M	EN
+93	Mahinthrathirat	TH	Thailand	16	M	TH
+94	Chatichai Choonhavan	TH	Thailand	20	M	TH
+95	Winston Churchill	UK	United_Kingdom	19	M	EN
+96	Mao Zedong	CN	China	19	M	ZH
+97	Bodindecha	TH	Thailand	18	M	TH
+98	Khuang Aphaiwong	KH	Cambodia	20	M	WR
+99	Dan Beach Bradley	US	United_States	19	M	EN
+100	Cao Cao	CN	China	2	M	ZH

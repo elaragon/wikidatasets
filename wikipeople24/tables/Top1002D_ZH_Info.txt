@@ -1,0 +1,102 @@
+#List of top 100 Chinese 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Chiang Kai-shek	CN	China	19	M	ZH
+2	Mao Zedong	CN	China	19	M	ZH
+3	Emperor Taizong of Tang	CN	China	6	M	ZH
+4	Qin Shi Huang	CN	China	-3	M	ZH
+5	Yongle Emperor	CN	China	14	M	ZH
+6	Sun Yat-sen	CN	China	19	M	ZH
+7	Kangxi Emperor	CN	China	17	M	ZH
+8	Liang Qichao	CN	China	19	M	ZH
+9	Emperor Xuanzong of Tang	CN	China	7	M	ZH
+10	Albert Einstein	DE	Germany	19	M	DE
+11	Chen Shui-bian	TW	Taiwan	20	M	ZH
+12	Hu Jintao	CN	China	20	M	ZH
+13	Toyotomi Hideyoshi	JP	Japan	16	M	JA
+14	Deng Xiaoping	CN	China	20	M	ZH
+15	Ma Ying-jeou	HK	Hong_Kong	20	M	ZH
+16	Kublai Khan	MN	Mongolia	13	M	WR
+17	Cao Cao	CN	China	2	M	ZH
+18	Hongwu Emperor	CN	China	14	M	ZH
+19	Oda Nobunaga	JP	Japan	16	M	JA
+20	Franklin D. Roosevelt	US	United_States	19	M	EN
+21	Koxinga	JP	Japan	17	M	JA
+22	Zhou Enlai	CN	China	19	M	ZH
+23	Wu Zetian	CN	China	7	F	ZH
+24	Yuan Shikai	CN	China	19	M	ZH
+25	Tokugawa Ieyasu	JP	Japan	16	M	JA
+26	Confucius	CN	China	-6	M	ZH
+27	Wen Jiabao	CN	China	20	M	ZH
+28	Emperor Huizong of Song	CN	China	11	M	ZH
+29	Genghis Khan	MN	Mongolia	12	M	WR
+30	Liu Bei	CN	China	2	M	ZH
+31	Lin Biao	CN	China	20	M	ZH
+32	Zhuge Liang	CN	China	2	M	ZH
+33	Adolf Hitler	AT	Austria	19	M	DE
+34	Guan Yu	CN	China	2	M	ZH
+35	Lu Xun	CN	China	19	M	ZH
+36	Emperor Gaozu of Han	CN	China	-3	M	ZH
+37	Daoguang Emperor	CN	China	18	M	ZH
+38	Ronaldo	BR	Brazil	20	M	PT
+39	Andy Lau	HK	Hong_Kong	20	M	ZH
+40	Zhao Ziyang	CN	China	20	M	ZH
+41	Matteo Ricci	IT	Italy	16	M	IT
+42	Jin Yong	CN	China	20	M	ZH
+43	Barack Obama	US	United_States	20	M	EN
+44	Jacky Cheung	HK	Hong_Kong	20	M	ZH
+45	Jesus	PS	State_of_Palestine	-1	M	AR
+46	Lee Teng-hui	TW	Taiwan	20	M	ZH
+47	Ludwig van Beethoven	DE	Germany	18	M	DE
+48	Wanli Emperor	CN	China	16	M	ZH
+49	Hu Shih	CN	China	19	M	ZH
+50	Emperor Gaozu of Tang	CN	China	6	M	ZH
+51	Li Zicheng	CN	China	17	M	ZH
+52	Emperor Yang of Sui	CN	China	6	M	ZH
+53	Joseph Stalin	GE	Georgia	19	M	WR
+54	Empress Dowager Cixi	CN	China	19	F	ZH
+55	Jiajing Emperor	CN	China	16	M	ZH
+56	Emperor Wu of Han	CN	China	-2	M	ZH
+57	Emperor Daizong of Tang	CN	China	8	M	ZH
+58	Qianlong Emperor	CN	China	18	M	ZH
+59	Tung Chee Hwa	CN	China	20	M	ZH
+60	Emperor Xian of Han	CN	China	2	M	ZH
+61	Emperor Dezong of Tang	CN	China	8	M	ZH
+62	Wang Yangming	CN	China	15	M	ZH
+63	Jiang Zemin	CN	China	20	M	ZH
+64	Cecilia Cheung	HK	Hong_Kong	20	F	ZH
+65	Donald Tsang	HK	Hong_Kong	20	M	ZH
+66	Liu Xiaobo	CN	China	20	M	ZH
+67	Emperor Gaozong of Tang	CN	China	7	M	ZH
+68	Jackie Chan	HK	Hong_Kong	20	M	ZH
+69	Guo Moruo	CN	China	19	M	ZH
+70	Kang Youwei	CN	China	19	M	ZH
+71	Ch'ien Mu	CN	China	19	M	ZH
+72	Liu Shaoqi	CN	China	19	M	ZH
+73	Emperor Guangwu of Han	CN	China	-1	M	ZH
+74	Shunzhi Emperor	CN	China	17	M	ZH
+75	Leslie Cheung	HK	Hong_Kong	20	M	ZH
+76	Emperor Xianzong of Tang	CN	China	8	M	ZH
+77	Ang Lee	TW	Taiwan	20	M	ZH
+78	14th Dalai Lama	CN	China	20	M	ZH
+79	Puyi	CN	China	20	M	ZH
+80	John F. Kennedy	US	United_States	20	M	EN
+81	Lien Chan	CN	China	20	M	ZH
+82	Lin Zexu	CN	China	18	M	ZH
+83	Zhang Binglin	CN	China	19	M	ZH
+84	Möngke Khan	MN	Mongolia	13	M	WR
+85	Gojong of the Korean Empire	KO	S._Korea	19	M	KO
+86	Shang Yang	CN	China	-4	M	ZH
+87	Takeda Shingen	JP	Japan	16	M	JA
+88	Xiang Yu	CN	China	-3	M	ZH
+89	Xi Jinping	CN	China	20	M	ZH
+90	Yuan Shao	CN	China	2	M	ZH
+91	Xu Xiangqian	CN	China	20	M	ZH
+92	Xu Guangqi	CN	China	16	M	ZH
+93	Bruce Lee	US	United_States	20	M	EN
+94	Chen Yinke	CN	China	19	M	ZH
+95	Chiang Ching-kuo	CN	China	20	M	ZH
+96	Eason Chan	HK	Hong_Kong	20	M	ZH
+97	Kim Jong-il	RU	Russia	20	M	RU
+98	Zhang Juzheng	CN	China	16	M	ZH
+99	Zheng He	CN	China	14	M	ZH
+100	Chenghua Emperor	CN	China	15	M	ZH

@@ -1,0 +1,12 @@
+#EN local top 10 persons 
+#number, $Theta_{A}$ index, name at A=PageRank, name at A=2DRank 
+1 & 1861 & William Shakespeare & 1315 & Michael Jackson \\
+2 & 1789 & Elizabeth II & 991 & Madonna (entertainer) \\
+3 & 1756 & Isaac Newton & 773 & Charles Darwin \\
+4 & 1173 & George W. Bush & 754 & Barack Obama \\
+5 & 1101 & Barack Obama & 664 & Elizabeth II \\
+6 & 932 & Charles Darwin & 624 & Bob Dylan \\
+7 & 910 & Franklin D. Roosevelt & 556 & William Shakespeare \\
+8 & 656 & George Washington & 555 & Elvis Presley \\
+9 & 596 & Bill Clinton & 550 & Queen Victoria \\
+10 & 564 & Winston Churchill & 541 & John Lennon \\

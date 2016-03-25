@@ -1,0 +1,102 @@
+#List of top 100 Korean PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Gojong of the Korean Empire	KO	S._Korea	19	M	KO
+2	Jesus	PS	State_of_Palestine	-1	M	AR
+3	Carl Linnaeus	SE	Sweden	18	M	SV
+4	Napoleon	FR	France	18	M	FR
+5	Aristotle	GR	Greece	-4	M	EL
+6	Sejong the Great	KO	S._Korea	14	M	KO
+7	Park Chung-hee	KO	S._Korea	20	M	KO
+8	Taejong of Joseon	KP	N._Korea	14	M	KO
+9	Syngman Rhee	KP	N._Korea	19	M	KO
+10	Yeongjo of Joseon	KO	S._Korea	17	M	KO
+11	Kim Dae-jung	KO	S._Korea	20	M	KO
+12	Seonjo of Joseon	KO	S._Korea	16	M	KO
+13	Adolf Hitler	AT	Austria	19	M	DE
+14	Emperor Wu of Han	CN	China	-2	M	ZH
+15	Taejo of Joseon	KP	N._Korea	14	M	KO
+16	Kim Jong-il	RU	Russia	20	M	RU
+17	George W. Bush	US	United_States	20	M	EN
+18	Roh Moo-hyun	KO	S._Korea	20	M	KO
+19	Kim Il-sung	KP	N._Korea	20	M	KO
+20	Qianlong Emperor	CN	China	18	M	ZH
+21	Joseph Stalin	GE	Georgia	19	M	WR
+22	Karl Marx	DE	Germany	19	M	DE
+23	Sukjong of Joseon	KO	S._Korea	17	M	KO
+24	Taejo of Goryeo	KP	N._Korea	9	M	KO
+25	Chun Doo-hwan	KO	S._Korea	20	M	KO
+26	Jeongjo of Joseon	KO	S._Korea	18	M	KO
+27	Plato	GR	Greece	-5	M	EL
+28	Jungjong of Joseon	KO	S._Korea	15	M	KO
+29	Albert Einstein	DE	Germany	19	M	DE
+30	Sunjo of Joseon	KO	S._Korea	18	M	KO
+31	Qin Shi Huang	CN	China	-3	M	ZH
+32	Julius Caesar	IT	Italy	-1	M	IT
+33	Kangxi Emperor	CN	China	17	M	ZH
+34	Kim Young-sam	KO	S._Korea	20	M	KO
+35	Roh Tae-woo	KO	S._Korea	20	M	KO
+36	Chiang Kai-shek	CN	China	19	M	ZH
+37	Cao Cao	CN	China	2	M	ZH
+38	Guangxu Emperor	CN	China	19	M	ZH
+39	Confucius	CN	China	-6	M	ZH
+40	Ludwig van Beethoven	DE	Germany	18	M	DE
+41	Isaac Newton	UK	United_Kingdom	17	M	EN
+42	Seongjong of Joseon	KO	S._Korea	15	M	KO
+43	Barack Obama	US	United_States	20	M	EN
+44	Paul the Apostle	TR	Turkey	1	M	TR
+45	Injo of Joseon	KO	S._Korea	16	M	KO
+46	Gautama Buddha	NP	Nepal	-6	M	WR
+47	John F. Kennedy	US	United_States	20	M	EN
+48	Mao Zedong	CN	China	19	M	ZH
+49	Sejo of Joseon	KO	S._Korea	15	M	KO
+50	Wanli Emperor	CN	China	16	M	ZH
+51	Louis XIV of France	FR	France	17	M	FR
+52	Gongmin of Goryeo	KP	N._Korea	14	M	KO
+53	Kim Gu	KP	N._Korea	19	M	KO
+54	Puyi	CN	China	20	M	ZH
+55	Immanuel Kant	RU	Russia	18	M	RU
+56	Bill Clinton	US	United_States	20	M	EN
+57	Franklin D. Roosevelt	US	United_States	19	M	EN
+58	Tokugawa Ieyasu	JP	Japan	16	M	JA
+59	Richard Nixon	US	United_States	20	M	EN
+60	Heungseon Daewongun	KO	S._Korea	19	M	KO
+61	Muhammad	SA	Saudi_Arabia	6	M	AR
+62	Christopher Columbus	IT	Italy	15	M	IT
+63	Hongwu Emperor	CN	China	14	M	ZH
+64	Lee Myung-bak	JP	Japan	20	M	JA
+65	William Shakespeare	UK	United_Kingdom	16	M	EN
+66	Abraham Lincoln	US	United_States	19	M	EN
+67	Sunjong of the Korean Empire	KO	S._Korea	19	M	KO
+68	Elizabeth II	UK	United_Kingdom	20	F	EN
+69	Gwanghaegun of Joseon	KO	S._Korea	16	M	KO
+70	George Washington	US	United_States	18	M	EN
+71	Pope John Paul II	PL	Poland	20	M	PL
+72	René Descartes	FR	France	16	M	FR
+73	Henry VIII of England	UK	United_Kingdom	15	M	EN
+74	Vladimir Lenin	RU	Russia	19	M	RU
+75	Augustus	IT	Italy	-1	M	IT
+76	Jiajing Emperor	CN	China	16	M	ZH
+77	Herodotus	TR	Turkey	-5	M	TR
+78	Liu Bei	CN	China	2	M	ZH
+79	Toyotomi Hideyoshi	JP	Japan	16	M	JA
+80	Emperor Xian of Han	CN	China	2	M	ZH
+81	Seongjong of Goryeo	KP	N._Korea	10	M	KO
+82	Martin Luther	DE	Germany	15	M	DE
+83	Ronald Reagan	US	United_States	20	M	EN
+84	Genghis Khan	MN	Mongolia	12	M	WR
+85	Mikhail Gorbachev	RU	Russia	20	M	RU
+86	Socrates	GR	Greece	-5	M	EL
+87	Jangsu of Goguryeo	CN	China	4	M	ZH
+88	Chang Myon	KO	S._Korea	19	M	KO
+89	Daoguang Emperor	CN	China	18	M	ZH
+90	Yi Sun-sin	KO	S._Korea	16	M	KO
+91	Gyeon Hwon	KO	S._Korea	9	M	KO
+92	Johann Sebastian Bach	DE	Germany	17	M	DE
+93	Myeongjong of Joseon	KO	S._Korea	16	M	KO
+94	Hyeokgeose of Silla	KO	S._Korea	-1	M	KO
+95	Winston Churchill	UK	United_Kingdom	19	M	EN
+96	Junichiro Koizumi	JP	Japan	20	M	JA
+97	Yeonsangun of Joseon	KO	S._Korea	15	M	KO
+98	Ernst Haeckel	DE	Germany	19	M	DE
+99	Martin Luther King, Jr.	US	United_States	20	M	EN
+100	Emperor Guangwu of Han	CN	China	-1	M	ZH

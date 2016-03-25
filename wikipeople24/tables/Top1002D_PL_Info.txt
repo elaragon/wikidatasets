@@ -1,0 +1,102 @@
+#List of top 100 Polish 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Pope John Paul II	PL	Poland	20	M	PL
+2	Ludwig van Beethoven	DE	Germany	18	M	DE
+3	Leonardo da Vinci	IT	Italy	15	M	IT
+4	Queen Victoria	UK	United_Kingdom	19	F	EN
+5	Józef Piłsudski	LT	Lithuania	19	M	WR
+6	Bolesław III Wrymouth	PL	Poland	11	M	PL
+7	Andrzej Wajda	PL	Poland	20	M	PL
+8	George Frideric Handel	DE	Germany	17	M	DE
+9	Charles Darwin	UK	United_Kingdom	19	M	EN
+10	Jimi Hendrix	US	United_States	20	M	EN
+11	Stanisław August Poniatowski	BY	Belarus	18	M	RU
+12	Pope Benedict XVI	DE	Germany	20	M	DE
+13	Michael Jackson	US	United_States	20	M	EN
+14	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+15	Rembrandt	NL	Netherlands	17	M	NL
+16	Elvis Presley	US	United_States	20	M	EN
+17	Elizabeth II	UK	United_Kingdom	20	F	EN
+18	Lech Kaczyński	PL	Poland	20	M	PL
+19	Adam Mickiewicz	BY	Belarus	18	M	RU
+20	Tony Blair	UK	United_Kingdom	20	M	EN
+21	Johann Sebastian Bach	DE	Germany	17	M	DE
+22	Casimir III the Great	PL	Poland	14	M	PL
+23	John III Sobieski	UA	Ukraine	17	M	WR
+24	Philip II of Macedon	GR	Greece	-4	M	EL
+25	Vincent van Gogh	NL	Netherlands	19	M	NL
+26	Jan Kochanowski	PL	Poland	16	M	PL
+27	Frédéric Chopin	PL	Poland	19	M	PL
+28	Francis of Assisi	IT	Italy	12	M	IT
+29	Madonna (entertainer)	US	United_States	20	F	EN
+30	Józef Ignacy Kraszewski	PL	Poland	19	M	PL
+31	Agatha Christie	UK	United_Kingdom	19	F	EN
+32	Jesus	PS	State_of_Palestine	-1	M	AR
+33	Bob Dylan	US	United_States	20	M	EN
+34	Adam Małysz	PL	Poland	20	M	PL
+35	Lech Wałęsa	PL	Poland	20	M	PL
+36	Stanisław Lem	UA	Ukraine	20	M	WR
+37	Margaret Thatcher	UK	United_Kingdom	20	F	EN
+38	Raphael	IT	Italy	15	M	IT
+39	Edward Rydz-Śmigły	UA	Ukraine	19	M	WR
+40	Winston Churchill	UK	United_Kingdom	19	M	EN
+41	Edgar Allan Poe	US	United_States	19	M	EN
+42	Julian Tuwim	PL	Poland	19	M	PL
+43	Giotto	IT	Italy	13	M	IT
+44	Przemysł II	PL	Poland	13	M	PL
+45	Peter Paul Rubens	DE	Germany	16	M	DE
+46	Johann Wolfgang von Goethe	DE	Germany	18	M	DE
+47	William Shakespeare	UK	United_Kingdom	16	M	EN
+48	Czesław Niemen	BY	Belarus	20	M	RU
+49	Stephen King	US	United_States	20	M	EN
+50	Alfred Hitchcock	UK	United_Kingdom	19	M	EN
+51	Nicolaus Copernicus	PL	Poland	15	M	PL
+52	Adolf Hitler	AT	Austria	19	M	DE
+53	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+54	Terry Pratchett	UK	United_Kingdom	20	M	EN
+55	J. R. R. Tolkien	ZA	South_Africa	19	M	WR
+56	Titian	IT	Italy	15	M	IT
+57	Joseph Stalin	GE	Georgia	19	M	WR
+58	Elton John	UK	United_Kingdom	20	M	EN
+59	Roman Polanski	FR	France	20	M	FR
+60	Pieter Bruegel the Elder	BE	Belgium	16	M	NL
+61	Henryk Sienkiewicz	PL	Poland	19	M	PL
+62	Andrzej Sapkowski	PL	Poland	20	M	PL
+63	Bronisław Komorowski	PL	Poland	20	M	PL
+64	Augustus II the Strong	DE	Germany	17	M	DE
+65	Friedrich Nietzsche	DE	Germany	19	M	DE
+66	Ryszard Kapuściński	BY	Belarus	20	M	RU
+67	Barack Obama	US	United_States	20	M	EN
+68	Stefan Wyszyński	PL	Poland	20	M	PL
+69	Johannes Kepler	DE	Germany	16	M	DE
+70	Tarcisio Bertone	IT	Italy	20	M	IT
+71	Richard I of England	UK	United_Kingdom	12	M	EN
+72	Edward L. G. Bowell	UK	United_Kingdom	20	M	EN
+73	Caravaggio	IT	Italy	16	M	IT
+74	Gérard Depardieu	FR	France	20	M	FR
+75	Jan Matejko	PL	Poland	19	M	PL
+76	Nikolai Chernykh	RU	Russia	20	M	RU
+77	Maria Konopnicka	PL	Poland	19	F	PL
+78	Juliusz Słowacki	UA	Ukraine	19	M	WR
+79	Marie Curie	PL	Poland	19	F	PL
+80	Tadeusz Kościuszko	BY	Belarus	18	M	RU
+81	Jogaila	LT	Lithuania	14	M	WR
+82	Zbigniew Herbert	UA	Ukraine	20	M	WR
+83	Stefan Czarniecki	PL	Poland	16	M	PL
+84	Diana, Princess of Wales	UK	United_Kingdom	20	F	EN
+85	Edward I of England	UK	United_Kingdom	13	M	EN
+86	Lucas Cranach the Elder	DE	Germany	15	M	DE
+87	Jacek Kaczmarski	PL	Poland	20	M	PL
+88	Stanley Kubrick	US	United_States	20	M	EN
+89	Joseph Conrad	UA	Ukraine	19	M	WR
+90	Sigismund III Vasa	SE	Sweden	16	M	SV
+91	Eric Clapton	UK	United_Kingdom	20	M	EN
+92	Max Wolf	DE	Germany	19	M	DE
+93	Władysław IV Vasa	PL	Poland	16	M	PL
+94	Tadeusz Konwicki	LT	Lithuania	20	M	WR
+95	Roman Dmowski	PL	Poland	19	M	PL
+96	Eminem	US	United_States	20	M	EN
+97	Jerzy Popiełuszko	PL	Poland	20	M	PL
+98	David Bowie	UK	United_Kingdom	20	M	EN
+99	Piotr Fronczewski	PL	Poland	20	M	PL
+100	Freimut Börngen	DE	Germany	20	M	DE

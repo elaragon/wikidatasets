@@ -1,0 +1,12 @@
+#HU Hungarian local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 93 & János Szentágothai & 100 & Stephen I of Hungary \\
+2 & 91 & Stephen I of Hungary & 99 & Sándor Petőfi \\
+3 & 87 & Lajos Kossuth & 94 & Kati Kovács \\
+4 & 86 & Miklós Réthelyi & 93 & Miklós Horthy \\
+5 & 80 & Béla IV of Hungary & 92 & Attila József \\
+6 & 79 & Louis I of Hungary & 89 & Sándor Weöres \\
+7 & 75 & Sándor Petőfi & 86 & Theodor Herzl \\
+8 & 67 & Miklós Horthy & 83 & Lajos Kossuth \\
+9 & 56 & Theodor Herzl & 81 & Miklós Radnóti \\
+10 & 53 & Andrew II of Hungary & 77 & János Kodolányi \\

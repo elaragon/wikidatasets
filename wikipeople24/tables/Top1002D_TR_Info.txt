@@ -1,0 +1,102 @@
+#List of top 100 Turkish 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Mustafa Kemal Atatürk	GR	Greece	19	M	EL
+2	Julius Caesar	IT	Italy	-1	M	IT
+3	Suleiman the Magnificent	TR	Turkey	15	M	TR
+4	Augustus	IT	Italy	-1	M	IT
+5	Karl Marx	DE	Germany	19	M	DE
+6	Adolf Hitler	AT	Austria	19	M	DE
+7	Selim I	TR	Turkey	15	M	TR
+8	Michael Jackson	US	United_States	20	M	EN
+9	Mehmed the Conqueror	TR	Turkey	15	M	TR
+10	Bayezid II	GR	Greece	15	M	EL
+11	Recep Tayyip Erdoğan	TR	Turkey	20	M	TR
+12	Muhammad	SA	Saudi_Arabia	6	M	AR
+13	Abdul Hamid II	TR	Turkey	19	M	TR
+14	Adnan Menderes	TR	Turkey	19	M	TR
+15	Vladimir Lenin	RU	Russia	19	M	RU
+16	William Shakespeare	UK	United_Kingdom	16	M	EN
+17	Bülent Ecevit	TR	Turkey	20	M	TR
+18	Charles Darwin	UK	United_Kingdom	19	M	EN
+19	Mahmud II	TR	Turkey	18	M	TR
+20	Süleyman Demirel	TR	Turkey	20	M	TR
+21	Friedrich Nietzsche	DE	Germany	19	M	DE
+22	Tiberius	IT	Italy	-1	M	IT
+23	Margaret Thatcher	UK	United_Kingdom	20	F	EN
+24	Sezen Aksu	TR	Turkey	20	F	TR
+25	İsmet İnönü	TR	Turkey	19	M	TR
+26	Nâzım Hikmet Ran	GR	Greece	20	M	EL
+27	Kemal Sunal	TR	Turkey	20	M	TR
+28	Madonna (entertainer)	US	United_States	20	F	EN
+29	Ajda Pekkan	TR	Turkey	20	F	TR
+30	Enis Batur	TR	Turkey	20	M	TR
+31	Ahmet Kaya	TR	Turkey	20	M	TR
+32	Enver Pasha	TR	Turkey	19	M	TR
+33	Erdal İnönü	TR	Turkey	20	M	TR
+34	Orhan Pamuk	TR	Turkey	20	M	TR
+35	Ali	SA	Saudi_Arabia	7	M	AR
+36	Sertab Erener	TR	Turkey	20	F	TR
+37	Samuel Beckett	IE	Ireland	20	M	EN
+38	Nero	IT	Italy	1	M	IT
+39	Che Guevara	AR	Argentina	20	M	ES
+40	Atıf Yılmaz	TR	Turkey	20	M	TR
+41	Charlie Chaplin	UK	United_Kingdom	19	M	EN
+42	Orhan	TR	Turkey	13	M	TR
+43	Joseph Stalin	GE	Georgia	19	M	WR
+44	Timur	UZ	Uzbekistan	14	M	WR
+45	Barış Manço	TR	Turkey	20	M	TR
+46	Halide Edip Adıvar	TR	Turkey	19	F	TR
+47	Zeki Müren	TR	Turkey	20	M	TR
+48	Mehmed I	TR	Turkey	14	M	TR
+49	Mehmet Akif Ersoy	TR	Turkey	19	M	TR
+50	Mehmed V	TR	Turkey	19	M	TR
+51	Rıfat Ilgaz	TR	Turkey	20	M	TR
+52	Türkan Şoray	TR	Turkey	20	F	TR
+53	Murad I	TR	Turkey	14	M	TR
+54	Aziz Nesin	TR	Turkey	20	M	TR
+55	Beyoncé Knowles	US	United_States	20	F	EN
+56	Cem Karaca	TR	Turkey	20	M	TR
+57	Stephen King	US	United_States	20	M	EN
+58	Kenan Evren	TR	Turkey	20	M	TR
+59	Necip Fazıl Kısakürek	TR	Turkey	20	M	TR
+60	Orhan Veli Kanık	TR	Turkey	20	M	TR
+61	Yakup Kadri Karaosmanoğlu	EG	Egypt	19	M	AR
+62	Deniz Gezmiş	TR	Turkey	20	M	TR
+63	Brigitte Bardot	FR	France	20	F	FR
+64	Saddam Hussein	IQ	Iraq	20	M	AR
+65	Cemal Gürsel	TR	Turkey	19	M	TR
+66	Eminem	US	United_States	20	M	EN
+67	Alexios I Komnenos	TR	Turkey	11	M	TR
+68	Kadir İnanır	TR	Turkey	20	M	TR
+69	Ferdinand Magellan	PT	Portugal	15	M	PT
+70	Namık Kemal	TR	Turkey	19	M	TR
+71	Carl Friedrich Gauss	DE	Germany	18	M	DE
+72	Peter Jackson	NZ	New_Zealand	20	M	EN
+73	Tevfik Fikret	TR	Turkey	19	M	TR
+74	Marie Antoinette	AT	Austria	18	F	DE
+75	Orhan Gencebay	TR	Turkey	20	M	TR
+76	Caligula	IT	Italy	1	M	IT
+77	Janet Jackson	US	United_States	20	F	EN
+78	Alexander the Great	GR	Greece	-4	M	EL
+79	Kartal Tibet	TR	Turkey	20	M	TR
+80	Murad II	TR	Turkey	15	M	TR
+81	Yaşar Kemal	TR	Turkey	20	M	TR
+82	Hülya Koçyiğit	TR	Turkey	20	F	TR
+83	Necmettin Erbakan	TR	Turkey	20	M	TR
+84	İbrahim Tatlıses	TR	Turkey	20	M	TR
+85	Selim II	TR	Turkey	16	M	TR
+86	Alexander von Humboldt	DE	Germany	18	M	DE
+87	Oscar Niemeyer	BR	Brazil	20	M	PT
+88	Ömer Seyfettin	TR	Turkey	19	M	TR
+89	Sadri Alışık	TR	Turkey	20	M	TR
+90	Britney Spears	US	United_States	20	F	EN
+91	Lady Gaga	US	United_States	20	F	EN
+92	Genghis Khan	MN	Mongolia	12	M	WR
+93	Erwin Rommel	DE	Germany	19	M	DE
+94	Osman I	TR	Turkey	13	M	TR
+95	Said Nursî	TR	Turkey	19	M	TR
+96	Akira Kurosawa	JP	Japan	20	M	JA
+97	Claudius	FR	France	-1	M	FR
+98	Serdar Ortaç	TR	Turkey	20	M	TR
+99	Steven Spielberg	US	United_States	20	M	EN
+100	Vespasian	IT	Italy	1	M	IT

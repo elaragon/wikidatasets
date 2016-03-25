@@ -1,0 +1,102 @@
+#List of top 100 Danish PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Pope Gregory XIII	IT	Italy	16	M	IT
+2	Tycho Brahe	DK	Denmark	16	M	DA
+3	Julius Caesar	IT	Italy	-1	M	IT
+4	Jesus	PS	State_of_Palestine	-1	M	AR
+5	Carl Linnaeus	SE	Sweden	18	M	SV
+6	Martin Luther	DE	Germany	15	M	DE
+7	Ole Rømer	DK	Denmark	17	M	DA
+8	Christian IV of Denmark	DK	Denmark	16	M	DA
+9	Christian V of Denmark	DE	Germany	17	M	DE
+10	Napoleon	FR	France	18	M	FR
+11	Augustus	IT	Italy	-1	M	IT
+12	Adolf Hitler	AT	Austria	19	M	DE
+13	Alexander the Great	GR	Greece	-4	M	EL
+14	Christian IX of Denmark	DE	Germany	19	M	DE
+15	Margrethe II of Denmark	DK	Denmark	20	F	DA
+16	Hans Christian Andersen	DK	Denmark	19	M	DA
+17	Frederick IV of Denmark	DK	Denmark	17	M	DA
+18	Charlemagne	BE	Belgium	8	M	NL
+19	Paul the Apostle	TR	Turkey	1	M	TR
+20	Aristotle	GR	Greece	-4	M	EL
+21	Frederick II of Denmark	DK	Denmark	16	M	DA
+22	Diocletian	HR	Croatia	3	M	WR
+23	Christopher Columbus	IT	Italy	15	M	IT
+24	Christian VII of Denmark	DK	Denmark	18	M	DA
+25	Frederick III of Denmark	DK	Denmark	17	M	DA
+26	Plato	GR	Greece	-5	M	EL
+27	Frederick V of Denmark	DK	Denmark	18	M	DA
+28	William Shakespeare	UK	United_Kingdom	16	M	EN
+29	Muhammad	SA	Saudi_Arabia	6	M	AR
+30	Frederick VI of Denmark	DK	Denmark	18	M	DA
+31	Frederick VII of Denmark	DK	Denmark	19	M	DA
+32	Karl Marx	DE	Germany	19	M	DE
+33	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+34	Christian X of Denmark	DK	Denmark	19	M	DA
+35	Christian II of Denmark	DK	Denmark	15	M	DA
+36	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+37	Ludvig Holberg	NO	Norway	17	M	WR
+38	Immanuel Kant	RU	Russia	18	M	RU
+39	Joseph Stalin	GE	Georgia	19	M	WR
+40	Saint Peter	IL	Israel	1	M	HE
+41	Albert Einstein	DE	Germany	19	M	DE
+42	Elizabeth II	UK	United_Kingdom	20	F	EN
+43	N. F. S. Grundtvig	DK	Denmark	18	M	DA
+44	Decius	RS	Serbia	3	M	WR
+45	Isaac Newton	UK	United_Kingdom	17	M	EN
+46	Constantine the Great	RS	Serbia	3	M	WR
+47	Pope Pius V	IT	Italy	16	M	IT
+48	Christian III of Denmark	DE	Germany	16	M	DE
+49	Vladimir Lenin	RU	Russia	19	M	RU
+50	Michael Jackson	US	United_States	20	M	EN
+51	Cicero	IT	Italy	-2	M	IT
+52	Pope Sixtus V	IT	Italy	16	M	IT
+53	George W. Bush	US	United_States	20	M	EN
+54	John, King of Denmark	DK	Denmark	15	M	DA
+55	John Locke	UK	United_Kingdom	17	M	EN
+56	Saddam Hussein	IQ	Iraq	20	M	AR
+57	Elvis Presley	US	United_States	20	M	EN
+58	John the Baptist	IL	Israel	-1	M	HE
+59	Søren Kierkegaard	DK	Denmark	19	M	DA
+60	Eric of Pomerania	PL	Poland	14	M	PL
+61	Christian VI of Denmark	DK	Denmark	17	M	DA
+62	Richard Nixon	US	United_States	20	M	EN
+63	Ludwig van Beethoven	DE	Germany	18	M	DE
+64	J. R. R. Tolkien	ZA	South_Africa	19	M	WR
+65	Theobald of Provins	FR	France	11	M	FR
+66	Franklin D. Roosevelt	US	United_States	19	M	EN
+67	Christian VIII of Denmark	DK	Denmark	18	M	DA
+68	Canute IV of Denmark	DK	Denmark	11	M	DA
+69	Hans Christian Ørsted	DK	Denmark	18	M	DA
+70	Frederick I of Denmark	DK	Denmark	15	M	DA
+71	Saxo Grammaticus	DK	Denmark	12	M	DA
+72	Margaret, Maid of Norway	NO	Norway	13	F	WR
+73	Frederick IX of Denmark	DK	Denmark	19	M	DA
+74	Franz Liszt	AT	Austria	19	M	DE
+75	Valdemar IV of Denmark	DK	Denmark	14	M	DA
+76	Mark Antony	IT	Italy	-1	M	IT
+77	Valdemar I of Denmark	DK	Denmark	12	M	DA
+78	John F. Kennedy	US	United_States	20	M	EN
+79	Christian I of Denmark	DE	Germany	15	M	DE
+80	Richard Wagner	DE	Germany	19	M	DE
+81	Saint Stephen	IL	Israel	1	M	HE
+82	Valdemar II of Denmark	DK	Denmark	12	M	DA
+83	Sophie Magdalene of Brandenburg-Kulmbach	DE	Germany	17	F	DE
+84	Charles Darwin	UK	United_Kingdom	19	M	EN
+85	Margaret I of Denmark	DK	Denmark	14	F	DA
+86	Moses	EG	Egypt	-14	M	AR
+87	Dante Alighieri	IT	Italy	13	M	IT
+88	Georg Wilhelm Friedrich Hegel	DE	Germany	18	M	DE
+89	Winston Churchill	UK	United_Kingdom	19	M	EN
+90	Peter the Great	RU	Russia	17	M	RU
+91	Bill Clinton	US	United_States	20	M	EN
+92	Mao Zedong	CN	China	19	M	ZH
+93	Friedrich Nietzsche	DE	Germany	19	M	DE
+94	Anders Fogh Rasmussen	DK	Denmark	20	M	DA
+95	Niels Bohr	DK	Denmark	19	M	DA
+96	Ronald Reagan	US	United_States	20	M	EN
+97	Herodotus	TR	Turkey	-5	M	TR
+98	Louis XIV of France	FR	France	17	M	FR
+99	Snorri Sturluson	IS	Iceland	12	M	WR
+100	Cnut the Great	DK	Denmark	10	M	DA

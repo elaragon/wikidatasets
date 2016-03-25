@@ -1,0 +1,1046 @@
+#Theta_PageRank score (index), number of appearances, name, country code, century, gender, language
+2284	24	Carl Linnaeus	SE	18	M	SV
+2282	24	Jesus	PS	-1	M	AR
+2237	24	Aristotle	GR	-4	M	EL
+2208	24	Napoleon	FR	18	M	FR
+2112	24	Adolf Hitler	AT	19	M	DE
+1952	23	Julius Caesar	IT	-1	M	IT
+1949	24	Plato	GR	-5	M	EL
+1861	24	William Shakespeare	UK	16	M	EN
+1847	24	Albert Einstein	DE	19	M	DE
+1789	24	Elizabeth II	UK	20	F	EN
+1771	23	Alexander the Great	GR	-4	M	EL
+1756	24	Isaac Newton	UK	17	M	EN
+1735	24	Muhammad	SA	6	M	AR
+1730	23	Karl Marx	DE	19	M	DE
+1686	23	Joseph Stalin	GE	19	M	WR
+1662	22	Augustus	IT	-1	M	IT
+1476	23	Christopher Columbus	IT	15	M	IT
+1476	20	Charlemagne	BE	8	M	NL
+1207	22	Louis XIV of France	FR	17	M	FR
+1173	19	George W. Bush	US	20	M	EN
+1123	20	Immanuel Kant	RU	18	M	RU
+1101	21	Barack Obama	US	20	M	EN
+1094	17	Mary (mother of Jesus)	IL	-1	F	HE
+1022	20	Vladimir Lenin	RU	19	M	RU
+996	17	Wolfgang Amadeus Mozart	AT	18	M	DE
+973	19	Paul the Apostle	TR	1	M	TR
+932	18	Charles Darwin	UK	19	M	EN
+925	19	Martin Luther	DE	15	M	DE
+925	19	Herodotus	TR	-5	M	TR
+910	19	Franklin D. Roosevelt	US	19	M	EN
+893	19	Galileo Galilei	IT	16	M	IT
+864	11	Pope John Paul II	PL	20	M	PL
+842	18	Constantine the Great	RS	3	M	WR
+758	18	Benito Mussolini	IT	19	M	IT
+753	14	Cicero	IT	-2	M	IT
+724	17	René Descartes	FR	16	M	FR
+724	15	Saint Peter	IL	1	M	HE
+700	14	Ludwig van Beethoven	DE	18	M	DE
+656	14	George Washington	US	18	M	EN
+629	14	Moses	EG	-14	M	AR
+610	15	Johann Sebastian Bach	DE	17	M	DE
+596	14	Bill Clinton	US	20	M	EN
+594	16	Leonardo da Vinci	IT	15	M	IT
+570	13	Johann Wolfgang von Goethe	DE	18	M	DE
+564	9	Gautama Buddha	NP	-6	M	WR
+564	17	Winston Churchill	UK	19	M	EN
+560	14	John F. Kennedy	US	20	M	EN
+556	8	Charles V, Holy Roman Emperor	BE	15	M	NL
+528	9	Pope Benedict XVI	DE	20	M	DE
+508	16	Richard Nixon	US	20	M	EN
+506	15	Sigmund Freud	CZ	19	M	WR
+479	16	Ronald Reagan	US	20	M	EN
+442	13	Abraham Lincoln	US	19	M	EN
+426	10	Saddam Hussein	IQ	20	M	AR
+424	13	Ptolemy	EG	1	M	AR
+417	12	Richard Wagner	DE	19	M	DE
+405	9	Diocletian	HR	3	M	WR
+404	12	Queen Victoria	UK	19	F	EN
+397	12	Napoleon III	FR	19	M	FR
+385	11	Charles de Gaulle	FR	19	M	FR
+375	12	Mao Zedong	CN	19	M	ZH
+369	5	William Herschel	DE	18	M	DE
+363	10	Michael Jackson	US	20	M	EN
+351	10	Justinian I	MK	5	M	WR
+329	6	Augustine of Hippo	DZ	4	M	AR
+328	5	Ali	SA	7	M	AR
+310	7	Jean-Jacques Rousseau	CH	18	M	DE
+299	6	Ernst Haeckel	DE	19	M	DE
+292	6	Pliny the Elder	IT	1	M	IT
+288	4	Pope Gregory XIII	IT	16	M	IT
+285	5	Confucius	CN	-6	M	ZH
+283	8	Henry VIII of England	UK	15	M	EN
+279	9	Thomas Jefferson	US	18	M	EN
+276	7	Francisco Franco	ES	19	M	ES
+270	9	Georg Wilhelm Friedrich Hegel	DE	18	M	DE
+260	3	Pierre André Latreille	FR	18	M	FR
+250	5	Pope Paul VI	IT	19	M	IT
+245	8	Gottfried Wilhelm Leibniz	DE	17	M	DE
+244	4	Chiang Kai-shek	CN	19	M	ZH
+241	5	John Herschel	UK	18	M	EN
+234	6	Elizabeth I of England	UK	16	F	EN
+219	6	J. R. R. Tolkien	ZA	19	M	WR
+213	9	Socrates	GR	-5	M	EL
+203	5	Genghis Khan	MN	12	M	WR
+197	4	Qin Shi Huang	CN	-3	M	ZH
+196	3	Umar	SA	6	M	AR
+195	5	Philip II of Spain	ES	16	M	ES
+189	3	Frederick the Great	DE	18	M	DE
+186	3	Johannes Kepler	DE	16	M	DE
+186	3	Emperor Wu of Han	CN	-2	M	ZH
+181	7	Friedrich Nietzsche	DE	19	M	DE
+178	6	Plutarch	GR	1	M	EL
+172	5	Thomas Edison	US	19	M	EN
+172	4	Max Weber	DE	19	M	DE
+170	7	Dante Alighieri	IT	13	M	IT
+168	2	Ashoka	IN	-4	M	HI
+167	5	Tacitus	FR	1	M	FR
+166	2	Ernst Mayr	DE	20	M	DE
+165	2	Jean-Baptiste Lamarck	FR	18	M	FR
+162	5	Elvis Presley	US	20	M	EN
+161	4	Thomas Aquinas	IT	13	M	IT
+157	2	Molière	FR	17	M	FR
+156	5	Adam Smith	UK	18	M	EN
+156	4	Peter the Great	RU	17	M	RU
+154	3	Toyotomi Hideyoshi	JP	16	M	JA
+153	4	Mustafa Kemal Atatürk	GR	19	M	EL
+153	3	Tokugawa Ieyasu	JP	16	M	JA
+152	3	Franz Joseph I of Austria	AT	19	M	DE
+147	2	Anwar Sadat	EG	20	M	AR
+142	6	John Locke	UK	17	M	EN
+138	7	John the Baptist	IL	-1	M	HE
+138	2	Avicenna	UZ	10	M	WR
+135	3	Cao Cao	CN	2	M	ZH
+134	5	Euclid	EG	-3	M	AR
+133	4	Strabo	TR	-1	M	TR
+130	5	Mikhail Gorbachev	RU	20	M	RU
+129	2	Rumi	TJ	13	M	WR
+129	2	Hongwu Emperor	CN	14	M	ZH
+128	2	Maria Theresa	AT	18	F	DE
+127	4	Dwight D. Eisenhower	US	19	M	EN
+125	2	August Strindberg	SE	19	M	SV
+123	3	Sophocles	GR	-5	M	EL
+120	2	John Ray	UK	17	M	EN
+119	4	Giuseppe Verdi	IT	19	M	IT
+119	3	Pablo Picasso	ES	19	M	ES
+119	2	Qianlong Emperor	CN	18	M	ZH
+119	2	Kangxi Emperor	CN	17	M	ZH
+117	3	Mehmed the Conqueror	TR	15	M	TR
+112	2	Francis I of France	FR	15	M	FR
+110	2	Zoroaster	IR	-10	M	FA
+109	6	Nero	IT	1	M	IT
+109	2	Voltaire	FR	17	M	FR
+108	2	Nicolas Sarkozy	FR	20	M	FR
+108	2	Hirohito	JP	20	M	JA
+106	3	Mahatma Gandhi	IN	19	M	HI
+106	3	Charles Dickens	UK	19	M	EN
+106	2	Suleiman the Magnificent	TR	15	M	TR
+104	4	Virgil	IT	-1	M	IT
+103	2	Uthman ibn Affan	SA	6	M	AR
+103	2	Joseph II, Holy Roman Emperor	AT	18	M	DE
+102	3	Pope Pius XII	IT	19	M	IT
+101	2	Pyotr Ilyich Tchaikovsky	RU	19	M	RU
+101	2	Darius I	IR	-6	M	FA
+100	1	Mahmoud Ahmadinejad	IR	20	M	FA
+100	1	Gojong of the Korean Empire	KO	19	M	KO
+100	1	Chulalongkorn	TH	19	M	TH
+100	1	Benazir Bhutto	PK	20	F	HI
+99	1	Yitzhak Rabin	IL	20	M	HE
+99	1	Tycho Brahe	DK	16	M	DA
+98	2	Louis XVI of France	FR	18	M	FR
+98	2	Kim Il-sung	KP	20	M	KO
+98	2	Alfred Nobel	SE	19	M	SV
+98	1	Neil Armstrong	US	20	M	EN
+98	1	Bhumibol Adulyadej	US	20	M	EN
+97	2	Wilhelm II, German Emperor	DE	19	M	DE
+97	1	Yuri Gagarin	RU	20	M	RU
+97	1	Vajiravudh	TH	19	M	TH
+97	1	Oda Nobunaga	JP	16	M	JA
+97	1	Mohammad Reza Pahlavi	IR	20	M	FA
+97	1	Eugène Simon	FR	19	M	FR
+97	1	Alexander Pushkin	RU	18	M	RU
+96	2	Abdul Hamid II	TR	19	M	TR
+96	1	Rezā Shāh	IR	19	M	FA
+96	1	Mongkut	TH	19	M	TH
+96	1	Matthias Corvinus	RO	15	M	WR
+96	1	Mahathir Mohamad	MY	20	M	MS
+95	1	Yigal Amir	IL	20	M	HE
+95	1	Sejong the Great	KO	14	M	KO
+94	2	Henry IV of France	FR	16	M	FR
+94	2	Cyrus the Great	IR	-6	M	FA
+94	1	Sun Yat-sen	CN	19	M	ZH
+94	1	Park Chung-hee	KO	20	M	KO
+94	1	Ole Rømer	DK	17	M	DA
+94	1	Gustav I of Sweden	SE	15	M	SV
+94	1	Catherine the Great	PL	18	F	PL
+94	1	Buddha Yodfa Chulaloke	TH	18	M	TH
+93	2	Victor Hugo	FR	19	M	FR
+93	2	Otto von Bismarck	DE	19	M	DE
+93	2	Aeschylus	GR	-6	M	EL
+93	1	Taejong of Joseon	KP	14	M	KO
+93	1	Pausanias (geographer)	TR	2	M	TR
+93	1	János Szentágothai	HU	20	M	HU
+93	1	Gustav III of Sweden	SE	18	M	SV
+93	1	Christian IV of Denmark	DK	16	M	DA
+92	6	Friedrich Engels	DE	19	M	DE
+92	1	Syngman Rhee	KP	19	M	KO
+92	1	Nangklao	TH	18	M	TH
+92	1	Ferdowsi	IR	10	M	FA
+92	1	Christian V of Denmark	DE	17	M	DE
+92	1	14th Dalai Lama	CN	20	M	ZH
+91	1	Yeongjo of Joseon	KO	17	M	KO
+91	1	Vladimir Putin	RU	20	M	RU
+91	1	Vikramāditya	IN	-1	M	HI
+91	1	Thaksin Shinawatra	TH	20	M	TH
+91	1	Stephen I of Hungary	HU	10	M	HU
+91	1	Ho Chi Minh	VN	19	M	VI
+91	1	Getúlio Vargas	BR	19	M	PT
+91	1	Anne Frank	DE	20	F	DE
+90	1	Shivaji	IN	17	M	HI
+90	1	Ruhollah Khomeini	IR	20	M	FA
+90	1	Kim Dae-jung	KO	20	M	KO
+90	1	Józef Piłsudski	LT	19	M	WR
+90	1	Damrong Rajanubhab	TH	19	M	TH
+89	4	Nikita Khrushchev	RU	19	M	RU
+89	1	Taksin	TH	18	M	TH
+89	1	Seonjo of Joseon	KO	16	M	KO
+89	1	Otto, King of Greece	AT	19	M	DE
+89	1	Naser al-Din Shah Qajar	IR	19	M	FA
+89	1	Michael Schumacher	DE	20	M	DE
+89	1	Jawaharlal Nehru	IN	19	M	HI
+88	1	Plaek Phibunsongkhram	TH	19	M	TH
+88	1	David Ben-Gurion	PL	19	M	PL
+88	1	Alexander II of Russia	RU	19	M	RU
+88	1	Akbar	PK	16	M	HI
+87	3	Charles II of England	UK	17	M	EN
+87	1	Prajadhipok	TH	19	M	TH
+87	1	Lajos Kossuth	HU	19	M	HU
+87	1	Irakli Okruashvili	GE	20	M	WR
+87	1	Indira Gandhi	IN	20	F	HI
+87	1	Christian IX of Denmark	DE	19	M	DE
+87	1	Boris Yeltsin	RU	20	M	RU
+86	2	Theodore Roosevelt	US	19	M	EN
+86	1	Zhou Enlai	CN	19	M	ZH
+86	1	Taejo of Joseon	KP	14	M	KO
+86	1	Mohammad Khatami	IR	20	M	FA
+86	1	Miklós Réthelyi	HU	20	M	HU
+86	1	Menachem Begin	BY	20	M	RU
+86	1	Margrethe II of Denmark	DK	20	F	DA
+86	1	Gamal Abdel Nasser	EG	20	M	AR
+86	1	Euripides	GR	-5	M	EL
+86	1	Emperor Meiji	JP	19	M	JA
+86	1	Charles XII of Sweden	SE	17	M	SV
+86	1	Adi Shankara	IN	8	M	HI
+86	1	Adam Mickiewicz	BY	18	M	RU
+85	2	William the Conqueror	FR	11	M	FR
+85	2	Timur	UZ	14	M	WR
+85	1	Vishnu Prabhakar	IN	20	M	HI
+85	1	Sigismund, Holy Roman Emperor	DE	14	M	DE
+85	1	Najib Razak	MY	20	M	MS
+85	1	Kim Jong-il	RU	20	M	RU
+85	1	Hans Christian Andersen	DK	19	M	DA
+85	1	François Mitterrand	FR	20	M	FR
+85	1	Deng Xiaoping	CN	20	M	ZH
+85	1	Buddha Loetla Nabhalai	TH	18	M	TH
+85	1	Al-Khalil ibn Ahmad al-Farahidi	OM	8	M	AR
+84	2	Nicholas II of Russia	RU	19	M	RU
+84	2	Josephus	IL	1	M	HE
+84	1	P. Ramlee	MY	20	M	MS
+84	1	Narai	TH	17	M	TH
+84	1	Mohammad Hamid Ansari	IN	20	M	HI
+84	1	Ivan the Terrible	RU	16	M	RU
+84	1	Ioannis Kapodistrias	GR	18	M	EL
+84	1	Frederick IV of Denmark	DK	17	M	DA
+83	3	Blaise Pascal	FR	17	M	FR
+83	1	Roh Moo-hyun	KO	20	M	KO
+83	1	Maurice Maeterlinck	BE	19	M	NL
+83	1	Jogaila	LT	14	M	WR
+83	1	İsmet İnönü	TR	19	M	TR
+83	1	Friedrich Schiller	DE	18	M	DE
+83	1	Cristiano Ronaldo	PT	20	M	PT
+83	1	Christian Gottfried Daniel Nees von Esenbeck	DE	18	M	DE
+83	1	Chanakya	IN	-4	M	HI
+83	1	Alexander I of Russia	RU	18	M	RU
+82	1	Tulsidas	IN	15	M	HI
+82	1	Theodoros Kolokotronis	GR	18	M	EL
+82	1	Sirindhorn	TH	20	F	TH
+82	1	Lionel Messi	AR	20	M	ES
+82	1	Jacques Chirac	FR	20	M	FR
+82	1	Gustavus Adolphus of Sweden	SE	16	M	SV
+82	1	Charles I of Hungary	IT	13	M	IT
+82	1	Al-Dhahabi	SY	13	M	AR
+82	1	Abbas I of Persia	AF	16	M	FA
+81	2	Woodrow Wilson	US	19	M	EN
+81	1	Yuan Shikai	CN	19	M	ZH
+81	1	William I of the Netherlands	NL	18	M	NL
+81	1	Tunku Abdul Rahman	MY	20	M	MS
+81	1	Tom Segev	IL	20	M	HE
+81	1	Nicholas I of Russia	RU	18	M	RU
+81	1	Minamoto no Yoritomo	JP	12	M	JA
+80	4	James Cook	UK	18	M	EN
+80	2	Pythagoras	GR	-6	M	EL
+80	1	Sukarno	ID	20	M	WR
+80	1	Kabir	IN	15	M	HI
+80	1	Honoré de Balzac	FR	18	M	FR
+80	1	Frederick II of Denmark	DK	16	M	DA
+80	1	Emperor Taizong of Tang	CN	6	M	ZH
+80	1	Casimir III the Great	PL	14	M	PL
+80	1	Béla IV of Hungary	HU	13	M	HU
+80	1	Ananda Mahidol	DE	20	M	DE
+80	1	Alfred Russel Wallace	UK	19	M	EN
+79	2	Carl Friedrich Gauss	DE	18	M	DE
+79	1	Thomas Robert Malthus	UK	18	M	EN
+79	1	Sirikit	TH	20	F	TH
+79	1	Selim I	TR	15	M	TR
+79	1	Louis I of Hungary	HU	14	M	HU
+79	1	Hesiod	TR	-8	M	TR
+79	1	Dayananda Saraswati	IN	19	M	HI
+79	1	Abdullah Ahmad Badawi	MY	20	M	MS
+78	3	Bob Dylan	US	20	M	EN
+78	1	Sukjong of Joseon	KO	17	M	KO
+78	1	Stanisław August Poniatowski	BY	18	M	RU
+78	1	Mahadevi Varma	IN	20	F	HI
+78	1	John Louis Emil Dreyer	DK	19	M	DA
+78	1	Beatrix of the Netherlands	NL	20	F	NL
+77	1	Taejo of Goryeo	KP	9	M	KO
+77	1	Nader Shah	IR	17	M	FA
+77	1	Muhyiddin Yassin	MY	20	M	MS
+77	1	Ibn Khaldun	TN	14	M	AR
+77	1	Francis II Rákóczi	SK	17	M	WR
+77	1	Eleftherios Venizelos	GR	19	M	EL
+77	1	Christian VII of Denmark	DK	18	M	DA
+77	1	Babur	UZ	15	M	WR
+76	2	Snorri Sturluson	IS	12	M	WR
+76	2	Michelangelo	IT	15	M	IT
+76	2	Junichiro Koizumi	JP	20	M	JA
+76	1	Muhammad al-Bukhari	UZ	9	M	WR
+76	1	Frederick III of Denmark	DK	17	M	DA
+76	1	Chun Doo-hwan	KO	20	M	KO
+76	1	Augustin Pyramus de Candolle	CH	18	M	DE
+76	1	Ali Khamenei	IR	20	M	FA
+75	1	Wu Zetian	CN	7	F	ZH
+75	1	Sándor Petőfi	HU	19	M	HU
+75	1	Philip II of Macedon	GR	-4	M	EL
+75	1	Paul I of Russia	RU	18	M	RU
+75	1	Martina Navratilova	CZ	20	F	WR
+75	1	Jeongjo of Joseon	KO	18	M	KO
+75	1	Ariel Sharon	IL	20	M	HE
+74	2	George III of the United Kingdom	UK	18	M	EN
+74	2	Franz Liszt	AT	19	M	DE
+74	1	Shimon Peres	BY	20	M	RU
+74	1	Saadi Shirazi	IR	12	M	FA
+74	1	Naresuan	TH	16	M	TH
+74	1	Manmohan Singh	PK	20	M	HI
+74	1	John VI of Portugal	PT	18	M	PT
+74	1	Frederick V of Denmark	DK	18	M	DA
+74	1	Emperor Xuanzong of Tang	CN	7	M	ZH
+74	1	Dmitry Medvedev	RU	20	M	RU
+74	1	Charles III of Spain	ES	18	M	ES
+74	1	Abdul Razak Hussein	MY	20	M	MS
+73	3	Harry S. Truman	US	19	M	EN
+73	1	Wright brothers	US	19	M	EN
+73	1	Thucydides	GR	-5	M	EL
+73	1	Philip Miller	UK	17	M	EN
+73	1	Jungjong of Joseon	KO	15	M	KO
+73	1	Emperor Tenmu	JP	7	M	JA
+73	1	Béla Bartók	RO	19	M	WR
+73	1	Al-Shafi‘i	PS	8	M	AR
+72	2	Saladin	IQ	12	M	AR
+72	2	Lyndon B. Johnson	US	20	M	EN
+72	1	Teresa of Ávila	ES	16	F	ES
+72	1	Silvio Berlusconi	IT	20	M	IT
+72	1	Nathan Alterman	PL	20	M	PL
+72	1	Hosni Mubarak	EG	20	M	AR
+72	1	Harivansh Rai Bachchan	IN	20	M	HI
+72	1	Emperor Gaozu of Han	CN	-3	M	ZH
+72	1	Carl XVI Gustaf of Sweden	SE	20	M	SV
+72	1	Bayinnaung	MM	16	M	WR
+72	1	André Godard	FR	19	M	FR
+71	2	Jimmy Carter	US	20	M	EN
+71	2	Fyodor Dostoyevsky	RU	19	M	RU
+71	1	Sunjo of Joseon	KO	18	M	KO
+71	1	Sanjeev Kumar	IN	20	M	HI
+71	1	Pope Pius IX	IT	18	M	IT
+71	1	Nizami Ganjavi	AZ	12	M	TR
+71	1	Ngo Dinh Diem	VN	20	M	VI
+71	1	Miguel de Cervantes	ES	16	M	ES
+71	1	Midhat Pasha	TR	19	M	TR
+71	1	Luiz Inácio Lula da Silva	BR	20	M	PT
+71	1	Louis XV of France	FR	18	M	FR
+71	1	Leo Tolstoy	RU	19	M	RU
+71	1	Hugh Capet	FR	10	M	FR
+71	1	Frederick VI of Denmark	DK	18	M	DA
+71	1	Constantine Sathas	GR	19	M	EL
+71	1	Charles XI of Sweden	SE	17	M	SV
+70	3	Montesquieu	FR	17	M	FR
+70	1	Rabindranath Tagore	IN	19	M	HI
+70	1	Pedro I of Brazil	PT	18	M	PT
+70	1	Natsume Sōseki	JP	19	M	JA
+70	1	Mir-Hossein Mousavi	IR	20	M	FA
+70	1	Hayim Nahman Bialik	UA	19	M	WR
+70	1	Frederick VII of Denmark	DK	19	M	DA
+70	1	Ferdinand VII of Spain	ES	18	M	ES
+69	1	Suharto	ID	20	M	WR
+69	1	Rajendra Prasad	IN	19	M	HI
+69	1	Nikolai Gogol	UA	19	M	WR
+69	1	Muhammad Ali of Egypt	GR	18	M	EL
+69	1	Lech Wałęsa	PL	20	M	PL
+69	1	Emperor Yang of Sui	CN	6	M	ZH
+69	1	Akihito	JP	20	M	JA
+68	2	Yasser Arafat	EG	20	M	AR
+68	1	Trailokkanat	TH	15	M	TH
+68	1	Süleyman Demirel	TR	20	M	TR
+68	1	Solon	GR	-7	M	EL
+68	1	Philip V of Spain	FR	17	M	FR
+68	1	Mór Jókai	SK	19	M	WR
+68	1	Maxim Gorky	RU	19	M	RU
+68	1	John Lindley	UK	18	M	EN
+68	1	Itō Hirobumi	JP	19	M	JA
+68	1	Ibn Kathir	TR	14	M	TR
+68	1	Fath-Ali Shah Qajar	IR	18	M	FA
+68	1	Chris Evert	US	20	F	EN
+67	2	Ferdinand Magellan	PT	15	M	PT
+67	1	Miklós Horthy	HU	19	M	HU
+67	1	Louis XVII of France	FR	18	M	FR
+67	1	Kim Young-sam	KO	20	M	KO
+67	1	Julian Cope	UK	20	M	EN
+67	1	Christian X of Denmark	DK	19	M	DA
+67	1	Charles IX of Sweden	SE	16	M	SV
+67	1	Ahmad ibn Hanbal	IQ	8	M	AR
+66	2	Archimedes	IT	-3	M	IT
+66	1	Thanom Kittikachorn	TH	20	M	TH
+66	1	Takeshi Kitano	JP	20	M	JA
+66	1	Roh Tae-woo	KO	20	M	KO
+66	1	Maria I of Portugal	PT	18	F	PT
+66	1	Lech Kaczyński	PL	20	M	PL
+66	1	Hafez	IR	14	M	FA
+66	1	Giuseppe Garibaldi	FR	19	M	FR
+66	1	Christian II of Denmark	DK	15	M	DA
+66	1	Anton Chekhov	RU	19	M	RU
+66	1	Alfonso X of Castile	ES	13	M	ES
+65	2	Tamerlan Thorell	SE	19	M	SV
+65	1	Xenophon	GR	-5	M	EL
+65	1	William the Silent	DE	16	M	DE
+65	1	Turgut Özal	TR	20	M	TR
+65	1	Lu Xun	CN	19	M	ZH
+65	1	Ibn Saud	SA	19	M	AR
+65	1	George H. W. Bush	US	20	M	EN
+65	1	François Hollande	FR	20	M	FR
+65	1	Ferdinand I, Holy Roman Emperor	ES	16	M	ES
+65	1	Benjamin Netanyahu	IL	20	M	HE
+65	1	Astrid Lindgren	SE	20	F	SV
+64	2	Antoine Lavoisier	FR	18	M	FR
+64	1	Stephan Endlicher	SK	19	M	WR
+64	1	Muawiyah I	SA	7	M	AR
+64	1	Ludvig Holberg	NO	17	M	WR
+64	1	John I of Portugal	PT	14	M	PT
+64	1	David Cameron	UK	20	M	EN
+64	1	Abraham Isaac Kook	LV	19	M	WR
+63	2	Puyi	CN	20	M	ZH
+63	1	Tokugawa Iemitsu	JP	17	M	JA
+63	1	Roger Federer	CH	20	M	DE
+63	1	Phetracha	TH	17	M	TH
+63	1	Pedro II of Brazil	BR	19	M	PT
+63	1	Kublai Khan	MN	13	M	WR
+63	1	Konrad Adenauer	DE	19	M	DE
+63	1	Husayn ibn Ali	SA	7	M	AR
+63	1	Guangxu Emperor	CN	19	M	ZH
+63	1	Frédéric Chopin	PL	19	M	PL
+63	1	Christina, Queen of Sweden	SE	17	F	SV
+62	3	Fidel Castro	CU	20	M	ES
+62	1	Sri Aurobindo	IN	19	M	HI
+62	1	Prem Tinsulanonda	TH	20	M	TH
+62	1	Minh Mạng	VN	18	M	VI
+62	1	Mikhail Lomonosov	RU	18	M	RU
+62	1	Juscelino Kubitschek	BR	20	M	PT
+62	1	Julian Huxley	UK	19	M	EN
+62	1	Edmond de Sélys Longchamps	FR	19	M	FR
+62	1	Anwar Ibrahim	MY	20	M	MS
+62	1	Andreas Papandreou	GR	20	M	EL
+62	1	Akbar Hashemi Rafsanjani	IR	20	M	FA
+62	1	Abd Allah ibn Abbas	SA	7	M	AR
+61	4	Madonna (entertainer)	US	20	F	EN
+61	2	Baruch Spinoza	NL	17	M	NL
+61	1	Yongle Emperor	CN	14	M	ZH
+61	1	Rembrandt	NL	17	M	NL
+61	1	Mehdi Bazargan	IR	20	M	FA
+61	1	István Széchenyi	AT	18	M	DE
+61	1	Gordon Brown	UK	20	M	EN
+61	1	Bülent Ecevit	TR	20	M	TR
+61	1	Amitabh Bachchan	IN	20	M	HI
+61	1	Alfonso XIII of Spain	ES	19	M	ES
+60	1	Ram Khamhaeng	TH	13	M	TH
+60	1	Mohammad-Taqi Bahar	IR	19	M	FA
+60	1	Kūkai	JP	8	M	JA
+60	1	Henryk Sienkiewicz	PL	19	M	PL
+60	1	Fernando Henrique Cardoso	BR	20	M	PT
+60	1	Dmitri Mendeleev	RU	19	M	RU
+60	1	David Don	UK	18	M	EN
+59	1	Sima Qian	CN	-1	M	ZH
+59	1	Shmuel Yosef Agnon	UA	19	M	WR
+59	1	Seongjong of Joseon	KO	15	M	KO
+59	1	Osamu Tezuka	JP	20	M	JA
+59	1	Louis XIII of France	FR	17	M	FR
+59	1	James VI and I	UK	16	M	EN
+59	1	Francisco Goya	ES	18	M	ES
+59	1	Bal Gangadhar Tilak	IN	19	M	HI
+58	2	Bertrand Russell	UK	19	M	EN
+58	1	Tyagaraja	IN	18	M	HI
+58	1	Su Shi	CN	11	M	ZH
+58	1	Simón Bolívar	VE	18	M	ES
+58	1	Sigismund I the Old	PL	15	M	PL
+58	1	N. F. S. Grundtvig	DK	18	M	DA
+58	1	Mohammad Mosaddegh	IR	19	M	FA
+58	1	J. B. S. Haldane	UK	19	M	EN
+58	1	Ibn Taymiyyah	TR	13	M	TR
+58	1	Hussein Onn	MY	20	M	MS
+58	1	Denis Diderot	FR	18	M	FR
+58	1	Carl Alexander Clerck	SE	18	M	SV
+58	1	Abdülaziz	TR	19	M	TR
+57	1	Narendra Kohli	PK	20	M	HI
+57	1	Lynn Margulis	US	20	F	EN
+57	1	Isma'il Pasha	EG	19	M	AR
+57	1	Ismail I	IR	15	M	FA
+57	1	Edward Charles Pickering	US	19	M	EN
+57	1	Decius	RS	3	M	WR
+57	1	Chuan Leekpai	TH	20	M	TH
+57	1	Charles I of England	UK	16	M	EN
+57	1	Aleksander Kwaśniewski	PL	20	M	PL
+56	2	Max Planck	DE	19	M	DE
+56	1	Theodor Herzl	HU	19	M	HU
+56	1	Philipp Franz von Siebold	DE	18	M	DE
+56	1	Pete Sampras	US	20	M	EN
+56	1	Noam Chomsky	US	20	M	EN
+56	1	Mahmud II	TR	18	M	TR
+56	1	Jan Kochanowski	PL	16	M	PL
+56	1	Injo of Joseon	KO	16	M	KO
+56	1	Fukuzawa Yukichi	JP	19	M	JA
+56	1	Chao Keo Naovarat	TH	19	M	TH
+56	1	Alessandro Manzoni	IT	18	M	IT
+55	1	Premchand	IN	19	M	HI
+55	1	Nicolaus Copernicus	PL	15	M	PL
+55	1	Khosrau II	IQ	6	M	AR
+55	1	John III of Portugal	PT	16	M	PT
+55	1	János Arany	RO	19	M	WR
+55	1	Elizabeth of Russia	RU	18	F	RU
+54	1	Yaqut al-Hamawi	SY	12	M	AR
+54	1	Subhas Chandra Bose	IN	19	M	HI
+54	1	Pope Pius V	IT	16	M	IT
+54	1	Nasir Khusraw	TJ	11	M	WR
+54	1	Louis IX of France	FR	13	M	FR
+54	1	Herod the Great	IL	-1	M	HE
+54	1	Bertolt Brecht	DE	19	M	DE
+53	1	Tokugawa Yoshimune	JP	17	M	JA
+53	1	Manuel I of Portugal	PT	15	M	PT
+53	1	Joseph Gerhard Zuccarini	DE	18	M	DE
+53	1	John III Sobieski	UA	17	M	WR
+53	1	Jaishankar Prasad	IN	19	M	HI
+53	1	Frederick I, Holy Roman Emperor	DE	12	M	DE
+53	1	Christian III of Denmark	DE	16	M	DE
+53	1	Andrew II of Hungary	HU	12	M	HU
+53	1	Akiva ben Joseph	IL	1	M	HE
+53	1	Abhisit Vejjajiva	UK	20	M	EN
+52	3	Georges Cuvier	FR	18	M	FR
+52	1	Sigismund III Vasa	SE	16	M	SV
+52	1	Sejo of Joseon	KO	15	M	KO
+52	1	Rudaki	TJ	9	M	WR
+52	1	Pridi Banomyong	TH	19	M	TH
+52	1	Ehud Barak	IL	20	M	HE
+52	1	Bhagat Singh	PK	20	M	HI
+51	1	Wilhelmina of the Netherlands	NL	19	F	NL
+51	1	Wanli Emperor	CN	16	M	ZH
+51	1	Vilna Gaon	LT	18	M	WR
+51	1	Taha Hussein	EG	19	M	AR
+51	1	Shinzō Abe	JP	20	M	JA
+51	1	Saovabha Phongsri	TH	19	F	TH
+51	1	John III of Sweden	SE	16	M	SV
+51	1	Ivan Lendl	CZ	20	M	WR
+51	1	Charles Babbage	UK	18	M	EN
+51	1	Bayezid I	TR	14	M	TR
+51	1	Abū Rayḥān al-Bīrūnī	UZ	10	M	WR
+50	1	Shah Jahan	PK	16	M	HI
+50	1	Sarit Thanarat	TH	20	M	TH
+50	1	Muhammad al-Idrisi	ES	11	M	ES
+50	1	Ingmar Bergman	SE	20	F	SV
+50	1	Henry Draper	US	19	M	EN
+49	1	Yumi Matsutoya	JP	20	F	JA
+49	1	Yingluck Shinawatra	TH	20	F	TH
+49	1	Pope Sixtus V	IT	16	M	IT
+49	1	Leopold I, Holy Roman Emperor	AT	17	M	DE
+49	1	Juliusz Słowacki	UA	19	M	WR
+49	1	James Clerk Maxwell	UK	19	M	EN
+49	1	Gongmin of Goryeo	KP	14	M	KO
+48	2	Pope Leo XIII	IT	19	M	IT
+48	1	William Thomson, 1st Baron Kelvin	UK	19	M	EN
+48	1	Vallabhbhai Patel	IN	19	M	HI
+48	1	Pope Benedict XIV	IT	17	M	IT
+48	1	Oscar II of Sweden	SE	19	M	SV
+48	1	Mohammad Moin	IR	20	M	FA
+48	1	Maximilian I, Holy Roman Emperor	AT	15	M	DE
+48	1	Liang Qichao	CN	19	M	ZH
+48	1	Kim Gu	KP	19	M	KO
+48	1	John Maynard Keynes	UK	19	M	EN
+48	1	Harun al-Rashid	IR	8	M	FA
+48	1	Edwin Hubble	US	19	M	EN
+48	1	Ashikaga Takauji	JP	14	M	JA
+47	2	Gregor Mendel	CZ	19	M	WR
+47	1	Steffi Graf	DE	20	F	DE
+47	1	Juliana of the Netherlands	NL	20	F	NL
+47	1	John, King of Denmark	DK	15	M	DA
+47	1	Ja'far al-Sadiq	SA	8	M	AR
+47	1	Charles XIV John of Sweden	FR	18	M	FR
+46	2	Ernest Rutherford	NZ	19	M	EN
+46	1	Tokugawa Yoshinobu	JP	19	M	JA
+46	1	Pericles	GR	-5	M	EL
+46	1	Joseph Pitton de Tournefort	FR	17	M	FR
+46	1	Jean-Paul Sartre	FR	20	M	FR
+46	1	Gia Long	VN	18	M	VI
+46	1	Galyani Vadhana	UK	20	F	EN
+46	1	Abdülmecid I	TR	19	M	TR
+45	1	Om Prakash	IN	20	M	HI
+45	1	Octavius Pickard-Cambridge	UK	19	M	EN
+45	1	Konstantinos Karamanlis	GR	20	M	EL
+45	1	John V of Portugal	PT	17	M	PT
+45	1	Jeremiah	IL	-7	M	HE
+45	1	Francis Galton	UK	19	M	EN
+45	1	Endre Ady	RO	19	M	WR
+45	1	Emperor Go-Daigo	JP	13	M	JA
+45	1	Casimir IV Jagiellon	PL	15	M	PL
+45	1	Alexander III of Russia	RU	19	M	RU
+44	1	Zoltán Kodály	HU	19	M	HU
+44	1	Xunzi	CN	-4	M	ZH
+44	1	Omar Khayyám	IR	11	M	FA
+44	1	Livy	IT	-1	M	IT
+44	1	Johannes Brahms	DE	19	M	DE
+44	1	Ioannis Metaxas	GR	19	M	EL
+44	1	Bảo Đại	VN	20	M	VI
+44	1	Amrish Puri	IN	20	M	HI
+44	1	Al-Suyuti	EG	15	M	AR
+44	1	Alexis of Russia	RU	17	M	RU
+43	1	Zinedine Zidane	FR	20	M	FR
+43	1	Sigismund II Augustus	PL	16	M	PL
+43	1	Mimar Sinan	TR	15	M	TR
+43	1	Leonid Brezhnev	UA	20	M	WR
+43	1	Kukrit Pramoj	TH	20	M	TH
+43	1	Isabella II of Spain	ES	19	F	ES
+43	1	Frederick II, Holy Roman Emperor	IT	12	M	IT
+43	1	Fernando Collor de Mello	BR	20	M	PT
+43	1	Chaim Weizmann	BY	19	M	RU
+43	1	Anupam Kher	IN	20	M	HI
+43	1	Al-Ghazali	IR	11	M	FA
+43	1	Adamantios Korais	TR	18	M	TR
+42	2	Theodosius I	ES	4	M	ES
+42	1	Søren Kierkegaard	DK	19	M	DA
+42	1	Ramchandra Shukla	IN	19	M	HI
+42	1	Debsirindra	TH	19	F	TH
+42	1	Arthur Honegger	FR	19	M	FR
+42	1	'Amr ibn al-'As	SA	6	M	AR
+41	1	Vidyapati	IN	14	M	HI
+41	1	Uthong	TH	14	M	TH
+41	1	Shigeru Yoshida	JP	19	M	JA
+41	1	Heungseon Daewongun	KO	19	M	KO
+41	1	Gustaf V of Sweden	SE	19	M	SV
+41	1	Eric of Pomerania	PL	14	M	PL
+40	1	Zhu Xi	CN	12	M	ZH
+40	1	Shakti Kapoor	IN	20	M	HI
+40	1	Roni Dalumi	IL	20	F	HE
+40	1	Prasat Thong	TH	16	M	TH
+40	1	Olof Palme	SE	20	M	SV
+40	1	Louis Philippe I	FR	18	M	FR
+40	1	George I of Greece	DK	19	M	DA
+40	1	Christian VI of Denmark	DK	17	M	DA
+40	1	Ardashir I	IR	2	M	FA
+40	1	Adnan Menderes	TR	19	M	TR
+39	2	Marie Curie	PL	19	F	PL
+39	1	Vinayak Damodar Savarkar	IN	19	M	HI
+39	1	Thomas Mann	DE	19	M	DE
+39	1	Mustafa el-Nahhas	EG	19	M	AR
+39	1	Eric Hobsbawm	EG	20	M	AR
+39	1	Christiaan Huygens	NL	17	M	NL
+39	1	Boromakot	TH	18	M	TH
+39	1	Alain Prost	FR	20	M	FR
+39	1	Aharon Barak	LT	20	M	WR
+38	1	Rekha	IN	20	F	HI
+38	1	Naguib Mahfouz	EG	20	M	AR
+38	1	Margaret Thatcher	UK	20	F	EN
+38	1	Juan Carlos I of Spain	IT	20	M	IT
+38	1	John Zápolya	SK	15	M	WR
+38	1	Francis Fukuyama	US	20	M	EN
+38	1	Bonnie Wright	UK	20	F	EN
+38	1	Andrea Cesalpino	IT	16	M	IT
+38	1	Ahmad Shah Qajar	IR	19	M	FA
+37	3	Trajan	ES	1	M	ES
+37	1	Takeda Shingen	JP	16	M	JA
+37	1	Srinagarindra	TH	19	F	TH
+37	1	Rafael Nadal	ES	20	M	ES
+37	1	Namık Kemal	TR	19	M	TR
+37	1	Muammar Gaddafi	LY	20	M	AR
+37	1	Mizan Zainal Abidin of Terengganu	MY	20	M	MS
+37	1	Leon Trotsky	UA	19	M	WR
+37	1	Lee Myung-bak	JP	20	M	JA
+37	1	Kati Kovács	HU	20	F	HU
+37	1	Golda Meir	UA	19	F	WR
+37	1	Conrad Moench	DE	18	M	DE
+37	1	Ahmad Shamloo	IR	20	M	FA
+36	1	Valéry Giscard d'Estaing	DE	20	M	DE
+36	1	Theobald of Provins	FR	11	M	FR
+36	1	Ferdinand II of Aragon	ES	15	M	ES
+36	1	Bharatendu Harishchandra	IN	19	M	HI
+36	1	Ayrton Senna	BR	20	M	PT
+36	1	Anawrahta	MM	11	M	WR
+36	1	Ali al-Ridha	SA	8	M	AR
+35	1	Tony Blair	UK	20	M	EN
+35	1	Sudirman Arshad	MY	20	M	MS
+35	1	Raí	BR	20	M	PT
+35	1	Natan Yonatan	UA	20	M	WR
+35	1	Ibn Qayyim Al-Jawziyya	SY	13	M	AR
+35	1	Elias Magnus Fries	SE	18	M	SV
+35	1	Attila József	HU	20	M	HU
+35	1	Asrani	IN	20	M	HI
+34	3	Martin Luther King, Jr.	US	20	M	EN
+34	2	Philip IV of Spain	ES	17	M	ES
+34	1	Sunjong of the Korean Empire	KO	19	M	KO
+34	1	Spyridon Lambros	GR	19	M	EL
+34	1	Peng Dehuai	CN	19	M	ZH
+34	1	Mohammad Ali Shah Qajar	IR	19	M	FA
+34	1	Ivan III of Russia	RU	15	M	RU
+34	1	Daṇḍin	IN	6	M	HI
+34	1	Christian VIII of Denmark	DK	18	M	DA
+34	1	Charles VI, Holy Roman Emperor	AT	17	M	DE
+34	1	Antoninus Pius	IT	1	M	IT
+34	1	Al-Mutanabbi	IQ	10	M	AR
+33	1	Tokugawa Hidetada	JP	16	M	JA
+33	1	Moshe Dayan	IL	20	M	HE
+33	1	Gabriel Bethlen	RO	16	M	WR
+33	1	Cardinal Richelieu	FR	16	M	FR
+33	1	Canute IV of Denmark	DK	11	M	DA
+33	1	Bankim Chandra Chattopadhyay	IN	19	M	HI
+33	1	António de Oliveira Salazar	PT	19	M	PT
+33	1	Abd al-Malik ibn Marwan	SA	7	M	AR
+32	2	Hillary Rodham Clinton	US	20	F	EN
+32	1	Sri Suriyendra	TH	18	F	TH
+32	1	Sayyid Qutb	EG	20	M	AR
+32	1	Mohammad-Ali Rajai	IR	20	M	FA
+32	1	Mihály Lenhossék	HU	19	M	HU
+32	1	Louis XVIII of France	FR	18	M	FR
+32	1	Karan Johar	IN	20	M	HI
+32	1	Hans Christian Ørsted	DK	18	M	DA
+32	1	Gwanghaegun of Joseon	KO	16	M	KO
+32	1	Guglielmo Marconi	IT	19	M	IT
+32	1	Fernando Pessoa	PT	19	M	PT
+32	1	Carl Ludwig Koch	DE	18	M	DE
+32	1	Ali Pasha	AL	18	M	WR
+31	1	William I, German Emperor	DE	18	M	DE
+31	1	Susilo Bambang Yudhoyono	ID	20	M	WR
+31	1	Selma Lagerlöf	SE	19	F	SV
+31	1	Samak Sundaravej	TH	20	M	TH
+31	1	Sadaharu Oh	JP	20	M	JA
+31	1	Mihály Vörösmarty	HU	18	M	HU
+31	1	John Edward Gray	UK	18	M	EN
+31	1	Jiang Zemin	CN	20	M	ZH
+31	1	Frederick I of Denmark	DK	15	M	DA
+30	1	Saxo Grammaticus	DK	12	M	DA
+30	1	Murad II	TR	15	M	TR
+30	1	Karim Khan	IR	18	M	FA
+30	1	Kakuei Tanaka	JP	20	M	JA
+30	1	Juan Perón	AR	19	M	ES
+30	1	Joaquim Maria Machado de Assis	BR	19	M	PT
+30	1	Jan Długosz	PL	15	M	PL
+30	1	Hasan ibn Ali	SA	7	M	AR
+30	1	Chen Shui-bian	TW	20	M	ZH
+30	1	Charles X Gustav of Sweden	SE	17	M	SV
+30	1	Chaitanya Mahaprabhu	IN	15	M	HI
+30	1	Caligula	IT	1	M	IT
+30	1	Benjamin Franklin	US	18	M	EN
+30	1	Abdurrahman Wahid	ID	20	M	WR
+29	1	William III of England	NL	17	M	NL
+29	1	Prince Shōtoku	JP	6	M	JA
+29	1	Philippe Pétain	FR	19	M	FR
+29	1	Margaret, Maid of Norway	NO	13	F	WR
+29	1	Khosrau I	IR	6	M	FA
+29	1	Judah the Prince	IL	2	M	HE
+29	1	György Kulin	RO	20	M	WR
+29	1	George V	UK	19	M	EN
+29	1	Celâl Bayar	TR	19	M	TR
+29	1	Averroes	ES	12	M	ES
+28	1	Tsunku	JP	20	M	JA
+28	1	Tokugawa Tsunayoshi	JP	17	M	JA
+28	1	Ladislaus I of Hungary	PL	11	M	PL
+28	1	Joseph ben Ephraim Karo	ES	15	M	ES
+28	1	Helmut Kohl	DE	20	M	DE
+28	1	Gabriele D'Annunzio	IT	19	M	IT
+28	1	Fredrik Reinfeldt	SE	20	M	SV
+28	1	Frederick IX of Denmark	DK	19	M	DA
+28	1	Diodorus Siculus	IT	-1	M	IT
+28	1	Diana, Princess of Wales	UK	20	F	EN
+28	1	Bayezid II	GR	15	M	EL
+27	1	Seiko Matsuda	JP	20	F	JA
+27	1	Recep Tayyip Erdoğan	TR	20	M	TR
+27	1	Prem Chopra	PK	20	M	HI
+27	1	Mohammad Khan Qajar	IR	18	M	FA
+27	1	Li Hongzhang	CN	19	M	ZH
+27	1	Commodus	IT	2	M	IT
+27	1	Chavalit Yongchaiyudh	TH	20	M	TH
+27	1	Augustus II the Strong	DE	17	M	DE
+26	1	Valdemar IV of Denmark	DK	14	M	DA
+26	1	Tzvi Pesach Frank	LT	19	M	WR
+26	1	Seni Pramoj	TH	20	M	TH
+26	1	Khalid ibn al-Walid	SA	6	M	AR
+26	1	Fernando Alonso	ES	20	M	ES
+26	1	Emperor Gaozong of Tang	CN	7	M	ZH
+26	1	Charles IV, Holy Roman Emperor	CZ	14	M	WR
+26	1	Chandra Shekhar Azad	IN	20	M	HI
+26	1	Abdul Halim of Kedah	MY	20	M	MS
+25	1	Yukio Mishima	JP	20	M	JA
+25	1	Yitzhak Shamir	BY	20	M	RU
+25	1	Willy Brandt	DE	20	M	DE
+25	1	Ramathibodi II	TH	15	M	TH
+25	1	Raj Kapoor	PK	20	M	HI
+25	1	Mark Antony	IT	-1	M	IT
+25	1	John Hunyadi	HU	15	M	HU
+25	1	Jiajing Emperor	CN	16	M	ZH
+25	1	James Brooke	IN	19	M	HI
+25	1	Hu Jintao	CN	20	M	ZH
+25	1	Eric XIV of Sweden	SE	16	M	SV
+24	1	Zac Efron	US	20	M	EN
+24	1	Valdemar I of Denmark	DK	12	M	DA
+24	1	Sadegh Hedayat	IR	20	M	FA
+24	1	Mahidol Adulyadej	TH	19	M	TH
+24	1	Emperor Tenji	JP	7	M	JA
+24	1	Andre Agassi	US	20	M	EN
+24	1	Ali ibn al-Athir	TR	12	M	TR
+24	1	Afonso III of Portugal	PT	13	M	PT
+23	1	Vladimir the Great	RU	10	M	RU
+23	1	Tetsuya Komuro	JP	20	M	JA
+23	1	Siti Nurhaliza	MY	20	F	MS
+23	1	Petrarch	IT	14	M	IT
+23	1	Otto I, Holy Roman Emperor	DE	10	M	DE
+23	1	Oliver Cromwell	UK	16	M	EN
+23	1	Musa al-Kadhim	SA	8	M	AR
+23	1	Louis XI of France	FR	15	M	FR
+23	1	Liu Bei	CN	2	M	ZH
+23	1	Gulshan Grover	IN	20	M	HI
+23	1	Emperor Huizong of Song	CN	11	M	ZH
+23	1	Ekathotsarot	TH	16	M	TH
+22	2	Niels Bohr	DK	19	M	DA
+22	1	Xuanzang	CN	7	M	ZH
+22	1	Shigeo Nagashima	JP	20	M	JA
+22	1	Magnus IV of Sweden	NO	14	M	WR
+22	1	Lê Lợi	VN	14	M	VI
+22	1	Kahlil Gibran	LB	19	M	AR
+22	1	Ehud Olmert	IL	20	M	HE
+22	1	Christian I of Denmark	DE	15	M	DE
+22	1	Charles Baudelaire	FR	19	M	FR
+22	1	Bill Gates	US	20	M	EN
+22	1	Ahmet Necdet Sezer	TR	20	M	TR
+21	1	Władysław I the Elbow-high	PL	13	M	PL
+21	1	Romano Prodi	IT	20	M	IT
+21	1	Nebuchadnezzar II	IQ	-7	M	AR
+21	1	Jahangir	IN	16	M	HI
+21	1	Farah Pahlavi	IR	20	F	FA
+21	1	Emperor Xian of Han	CN	2	M	ZH
+21	1	Amarindra	TH	18	F	TH
+21	1	Alexandre Dumas	FR	19	M	FR
+20	1	Willi Hennig	DE	20	M	DE
+20	1	Seongjong of Goryeo	KP	10	M	KO
+20	1	Saint Stephen	IL	1	M	HE
+20	1	Pinklao	TH	19	M	TH
+20	1	Pindar	GR	-6	M	EL
+20	1	Mencius	CN	-4	M	ZH
+20	1	Louis Pasteur	FR	19	M	FR
+20	1	Levi Eshkol	UA	19	M	WR
+20	1	Ivan Turgenev	RU	19	M	RU
+20	1	Hugo Chávez	VE	20	M	ES
+20	1	Bolesław I Chrobry	PL	10	M	PL
+20	1	Anugrah Narayan Sinha	IN	19	M	HI
+20	1	Amir-Abbas Hoveyda	IR	20	M	FA
+20	1	Aisha	SA	7	F	AR
+19	1	Valdemar II of Denmark	DK	12	M	DA
+19	1	Mohammad-Javad Bahonar	IR	20	M	FA
+19	1	Meira Kumar	IN	20	F	HI
+19	1	Megawati Sukarnoputri	ID	20	F	WR
+19	1	Evliya Çelebi	TR	17	M	TR
+18	2	Alexander von Humboldt	DE	18	M	DE
+18	1	Vajiralongkorn	TH	20	M	TH
+18	1	Sophie Magdalene of Brandenburg-Kulmbach	DE	17	F	DE
+18	1	Malik ibn Anas	SA	8	M	AR
+18	1	Lee Teng-hui	TW	20	M	ZH
+18	1	János Kádár	HR	20	M	WR
+18	1	Gustav Heinrich von Bongard	DE	18	M	DE
+18	1	Georgios Papandreou	GR	19	M	EL
+18	1	Franz Schubert	AT	18	M	DE
+18	1	Billie Jean King	US	20	F	EN
+18	1	Amir Kabir	IR	19	M	FA
+18	1	Aleksander Brückner	UA	19	M	WR
+17	2	Mahmud of Ghazni	AF	10	M	FA
+17	1	Yusuf al-Qaradawi	EG	20	M	AR
+17	1	Shintaro Ishihara	JP	20	M	JA
+17	1	Pompey	IT	-2	M	IT
+17	1	Emperor Gaozu of Tang	CN	6	M	ZH
+17	1	Dilip Kumar	PK	20	M	HI
+17	1	Cândido Firmino de Mello-Leitão	BR	19	M	PT
+17	1	Abdul Taib Mahmud	MY	20	M	MS
+16	1	Sebastião José de Carvalho e Melo, 1st Marquis of Pombal	PT	17	M	PT
+16	1	Paresh Rawal	IN	20	M	HI
+16	1	Murad I	TR	14	M	TR
+16	1	Mikhail Lermontov	RU	19	M	RU
+16	1	Margaret I of Denmark	DK	14	F	DA
+16	1	Lucian	TR	2	M	TR
+16	1	John II Casimir Vasa	PL	17	M	PL
+16	1	Heinrich Hertz	DE	19	M	DE
+16	1	Ferenc Kazinczy	RO	18	M	WR
+16	1	Esfandiar Rahim Mashaei	IR	20	M	FA
+16	1	Eli Eshed	IL	20	M	HE
+16	1	Al-Jahiz	IQ	8	M	AR
+15	2	Ovid	IT	-1	M	IT
+15	1	Zsigmond Móricz	HU	19	M	HU
+15	1	Wilhelm von Humboldt	DE	18	M	DE
+15	1	Phraya Phahon Phonphayuhasena	TH	19	M	TH
+15	1	Nhất Linh	VN	20	M	VI
+15	1	Ma Ying-jeou	HK	20	M	ZH
+15	1	Ibn Hajar al-Asqalani	EG	14	M	AR
+15	1	Hadrian	ES	1	M	ES
+15	1	Guru Gobind Singh	IN	17	M	HI
+15	1	Claude Debussy	FR	19	M	FR
+15	1	B. J. Habibie	ID	20	M	WR
+15	1	Baal Shem Tov	UA	17	M	WR
+15	1	Ali-Akbar Dehkhoda	IR	19	M	FA
+14	1	Surdas	IN	15	M	HI
+14	1	Saint George	IL	3	M	HE
+14	1	Judah Halevi	ES	11	M	ES
+14	1	Jangsu of Goguryeo	CN	4	M	ZH
+14	1	Gotthold Ephraim Lessing	DE	18	M	DE
+14	1	Antonie van Leeuwenhoek	NL	17	M	NL
+14	1	Abu Bakr	SA	6	M	AR
+13	1	Polybius	GR	-2	M	EL
+13	1	Osama bin Laden	SA	20	M	AR
+13	1	Joseph Haydn	AT	18	M	DE
+13	1	Jô	BR	20	M	PT
+13	1	Jerome	SI	4	M	WR
+13	1	Jeetendra	IN	20	M	HI
+13	1	Gustav Mahler	CZ	19	M	WR
+13	1	Chang Myon	KO	19	M	KO
+12	1	Yitzhak Ben-Zvi	UA	19	M	WR
+12	1	Tim Berners-Lee	UK	20	M	EN
+12	1	Tage Erlander	SE	20	M	SV
+12	1	Mori Ōgai	JP	19	M	JA
+12	1	Mohammad Shah Qajar	IR	19	M	FA
+12	1	Mikhail Bulgakov	UA	19	M	WR
+12	1	Jürgen Habermas	DE	20	M	DE
+12	1	Heraclius	TR	6	M	TR
+12	1	Daoguang Emperor	CN	18	M	ZH
+12	1	Charilaos Trikoupis	GR	19	M	EL
+12	1	Aruna Irani	IN	20	F	HI
+11	2	Raphael	IT	15	M	IT
+11	1	Yi Sun-sin	KO	16	M	KO
+11	1	Stephen Báthory	RO	16	M	WR
+11	1	Ryōtarō Shiba	JP	20	M	JA
+11	1	Pope Pius VII	IT	18	M	IT
+11	1	Peter Paul Rubens	DE	16	M	DE
+11	1	Mark Twain	US	19	M	EN
+11	1	Kader Khan	PK	20	M	HI
+11	1	Alexander Graham Bell	UK	19	M	EN
+10	1	Willis J. Gertsch	US	20	M	EN
+10	1	Morteza Motahhari	IR	20	M	FA
+10	1	Hemachandra	IN	11	M	HI
+10	1	Helmut Schmidt	DE	20	M	DE
+10	1	Gyeon Hwon	KO	9	M	KO
+10	1	Gustaf VI Adolf of Sweden	SE	19	M	SV
+10	1	Francis II, Holy Roman Emperor	IT	18	M	IT
+10	1	Ferdinand III of Castile	ES	12	M	ES
+10	1	Émile Zola	FR	19	M	FR
+10	1	Charles, Prince of Wales	UK	20	M	EN
+10	1	Albert Marth	PL	19	M	PL
+9	1	Ram Manohar Lohia	IN	20	M	HI
+9	1	Prince Bernhard of Lippe-Biesterfeld	DE	20	M	DE
+9	1	Pope John XXIII	IT	19	M	IT
+9	1	Norberto Bobbio	IT	20	M	IT
+9	1	Joseph Dalton Hooker	UK	19	M	EN
+9	1	Gerald Ford	US	20	M	EN
+9	1	Emperor Taizu of Song	CN	10	M	ZH
+9	1	Bronisław Komorowski	PL	20	M	PL
+9	1	Angela Merkel	DE	20	F	DE
+9	1	Abdullah Gül	TR	20	M	TR
+8	1	Pierre Bourdieu	FR	20	M	FR
+8	1	Onn Jaafar	MY	19	M	MS
+8	1	Myeongjong of Joseon	KO	16	M	KO
+8	1	Mahinthrathirat	TH	16	M	TH
+8	1	King Wu of Zhou	CN	-11	M	ZH
+8	1	George Frideric Handel	DE	17	M	DE
+8	1	Erwin Schrödinger	AT	19	M	DE
+8	1	Emperor Kanmu	JP	8	M	JA
+8	1	Elton John	UK	20	M	EN
+8	1	Dhyan Chand	IN	20	M	HI
+7	2	Emperor Guangwu of Han	CN	-1	M	ZH
+7	1	Richard Feynman	US	20	M	EN
+7	1	Rajiv Gandhi	IN	20	M	HI
+7	1	Lope de Vega	ES	16	M	ES
+7	1	Karl Popper	AT	20	M	DE
+7	1	Hyeokgeose of Silla	KO	-1	M	KO
+7	1	Hamdallah Mustawfi	IR	13	M	FA
+7	1	Chatichai Choonhavan	TH	20	M	TH
+7	1	Charlie Chaplin	UK	19	M	EN
+7	1	Anders Fogh Rasmussen	DK	20	M	DA
+6	1	Steven Spielberg	US	20	M	EN
+6	1	Stefan Wyszyński	PL	20	M	PL
+6	1	Mithridates VI of Pontus	TR	-2	M	TR
+6	1	Maurice, Prince of Orange	DE	16	M	DE
+6	1	Hulagu Khan	MN	13	M	WR
+6	1	Camillo Benso, Count of Cavour	IT	19	M	IT
+5	1	Wang Mang	CN	-1	M	ZH
+5	1	Venus Williams	US	20	F	EN
+5	1	Orhan	TR	13	M	TR
+5	1	Mihály Babits	HU	19	M	HU
+5	1	Joseph Goebbels	DE	19	M	DE
+5	1	Jimi Hendrix	US	20	M	EN
+5	1	Gioachino Rossini	IT	18	M	IT
+5	1	Fahd of Saudi Arabia	SA	20	M	AR
+5	1	Elio Di Rupo	BE	20	M	NL
+5	1	Eliezer Ben-Yehuda	BY	19	M	RU
+5	1	Edward VII	UK	19	M	EN
+5	1	Darius III	IR	-4	M	FA
+5	1	Anne, Queen of Great Britain	UK	17	F	EN
+4	1	Yeonsangun of Joseon	KO	15	M	KO
+4	1	Rudolf II, Holy Roman Emperor	AT	16	M	DE
+4	1	Pope Pius XI	IT	19	M	IT
+4	1	Mohammad-Reza Mahdavi Kani	IR	20	M	FA
+4	1	Jean de La Fontaine	FR	17	M	FR
+4	1	Hernán Cortés	ES	15	M	ES
+4	1	Eric Walter Elst	BE	20	M	NL
+4	1	Emperor Taishō	JP	19	M	JA
+4	1	Desiderius Erasmus	NL	15	M	NL
+4	1	Bodindecha	TH	18	M	TH
+4	1	Amir Khusrow	IN	13	M	HI
+3	1	William III of the Netherlands	BE	19	M	NL
+3	1	Saadia Gaon	EG	9	M	AR
+3	1	Naseeruddin Shah	IN	20	M	HI
+3	1	Khuang Aphaiwong	KH	20	M	WR
+3	1	João Goulart	BR	20	M	PT
+3	1	Date Masamune	JP	16	M	JA
+3	1	Carl Michael Bellman	SE	18	M	SV
+3	1	Andrzej Wajda	PL	20	M	PL
+3	1	Alan Turing	UK	20	M	EN
+2	1	Stefan Edberg	SE	20	M	SV
+2	1	Sokratis Malamas	GR	20	M	EL
+2	1	Philip II of France	FR	12	M	FR
+2	1	Leonhard Euler	CH	18	M	DE
+2	1	Karl Rudolphi	SE	18	M	SV
+2	1	Hu Shih	CN	19	M	ZH
+2	1	Henri Marie Ducrotay de Blainville	FR	18	M	FR
+2	1	Dan Beach Bradley	US	19	M	EN
+2	1	Ali Larijani	IQ	20	M	AR
+1	1	Zoltán Lajos Bay	HU	20	M	HU
+1	1	Vladimir Mayakovsky	GE	19	M	WR
+1	1	Shapur I	IR	3	M	FA
+1	1	Johanan bar Nappaha	IL	3	M	HE
+1	1	Francis Crick	UK	20	M	EN
+1	1	Empress Suiko	JP	6	F	JA
+1	1	Empress Dowager Cixi	CN	19	F	ZH
+1	1	Cnut the Great	DK	10	M	DA
+1	1	Bolesław III Wrymouth	PL	11	M	PL
+1	1	Bede	UK	7	M	EN
+1	1	Andrew Jackson	US	18	M	EN
+1	1	Al-Mansur	IQ	8	M	AR
+1	1	Albert Camus	DZ	20	M	AR
+1	1	Aamir Khan	IN	20	M	HI

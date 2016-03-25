@@ -1,0 +1,12 @@
+#MS Malaysian local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 96 & Mahathir Mohamad & 100 & Mahathir Mohamad \\
+2 & 85 & Najib Razak & 99 & Najib Razak \\
+3 & 84 & P. Ramlee & 98 & Anwar Ibrahim \\
+4 & 81 & Tunku Abdul Rahman & 93 & Mizan Zainal Abidin of Terengganu \\
+5 & 79 & Abdullah Ahmad Badawi & 92 & Sudirman Arshad \\
+6 & 77 & Muhyiddin Yassin & 91 & Tunku Abdul Rahman \\
+7 & 74 & Abdul Razak Hussein & 90 & Siti Nurhaliza \\
+8 & 62 & Anwar Ibrahim & 89 & Abdullah Ahmad Badawi \\
+9 & 58 & Hussein Onn & 88 & Abdul Taib Mahmud \\
+10 & 37 & Mizan Zainal Abidin of Terengganu & 84 & P. Ramlee \\

@@ -1,0 +1,102 @@
+#List of top 100 French PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Napoleon	FR	France	18	M	FR
+2	Carl Linnaeus	SE	Sweden	18	M	SV
+3	Louis XIV of France	FR	France	17	M	FR
+4	Aristotle	GR	Greece	-4	M	EL
+5	Charles de Gaulle	FR	France	19	M	FR
+6	Julius Caesar	IT	Italy	-1	M	IT
+7	Pope John Paul II	PL	Poland	20	M	PL
+8	Adolf Hitler	AT	Austria	19	M	DE
+9	Augustus	IT	Italy	-1	M	IT
+10	Plato	GR	Greece	-5	M	EL
+11	Joseph Stalin	GE	Georgia	19	M	WR
+12	Charlemagne	BE	Belgium	8	M	NL
+13	Napoleon III	FR	France	19	M	FR
+14	Charles V, Holy Roman Emperor	BE	Belgium	15	M	NL
+15	Victor Hugo	FR	France	19	M	FR
+16	François Mitterrand	FR	France	20	M	FR
+17	Nicolas Sarkozy	FR	France	20	M	FR
+18	William Shakespeare	UK	United_Kingdom	16	M	EN
+19	Jacques Chirac	FR	France	20	M	FR
+20	Elizabeth II	UK	United_Kingdom	20	F	EN
+21	Honoré de Balzac	FR	France	18	M	FR
+22	Voltaire	FR	France	17	M	FR
+23	Francis I of France	FR	France	15	M	FR
+24	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+25	Muhammad	SA	Saudi_Arabia	6	M	AR
+26	George W. Bush	US	United_States	20	M	EN
+27	Louis XVI of France	FR	France	18	M	FR
+28	Karl Marx	DE	Germany	19	M	DE
+29	Henry IV of France	FR	France	16	M	FR
+30	Louis XV of France	FR	France	18	M	FR
+31	René Descartes	FR	France	16	M	FR
+32	Jean-Jacques Rousseau	CH	Switzerland	18	M	DE
+33	Pope Benedict XVI	DE	Germany	20	M	DE
+34	Cicero	IT	Italy	-2	M	IT
+35	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+36	Alexander the Great	GR	Greece	-4	M	EL
+37	Jesus	PS	State_of_Palestine	-1	M	AR
+38	Molière	FR	France	17	M	FR
+39	Christopher Columbus	IT	Italy	15	M	IT
+40	Barack Obama	US	United_States	20	M	EN
+41	Franklin D. Roosevelt	US	United_States	19	M	EN
+42	Louis XIII of France	FR	France	17	M	FR
+43	Denis Diderot	FR	France	18	M	FR
+44	Herodotus	TR	Turkey	-5	M	TR
+45	Constantine the Great	RS	Serbia	3	M	WR
+46	Paul the Apostle	TR	Turkey	1	M	TR
+47	Louis IX of France	FR	France	13	M	FR
+48	Pablo Picasso	ES	Spain	19	M	ES
+49	Diocletian	HR	Croatia	3	M	WR
+50	Pope Paul VI	IT	Italy	19	M	IT
+51	Isaac Newton	UK	United_Kingdom	17	M	EN
+52	Sigmund Freud	CZ	Czech_	19	M	WR
+53	Winston Churchill	UK	United_Kingdom	19	M	EN
+54	Albert Einstein	DE	Germany	19	M	DE
+55	Jean-Paul Sartre	FR	France	20	M	FR
+56	Benito Mussolini	IT	Italy	19	M	IT
+57	Ronald Reagan	US	United_States	20	M	EN
+58	Bill Clinton	US	United_States	20	M	EN
+59	Immanuel Kant	RU	Russia	18	M	RU
+60	Queen Victoria	UK	United_Kingdom	19	F	EN
+61	Louis Philippe I	FR	France	18	M	FR
+62	Richard Nixon	US	United_States	20	M	EN
+63	Charles Darwin	UK	United_Kingdom	19	M	EN
+64	Johann Sebastian Bach	DE	Germany	17	M	DE
+65	Valéry Giscard d'Estaing	DE	Germany	20	M	DE
+66	Ludwig van Beethoven	DE	Germany	18	M	DE
+67	Mao Zedong	CN	China	19	M	ZH
+68	Cardinal Richelieu	FR	France	16	M	FR
+69	Louis XVIII of France	FR	France	18	M	FR
+70	John F. Kennedy	US	United_States	20	M	EN
+71	Martin Luther	DE	Germany	15	M	DE
+72	Philippe Pétain	FR	France	19	M	FR
+73	Saint Peter	IL	Israel	1	M	HE
+74	Galileo Galilei	IT	Italy	16	M	IT
+75	Saddam Hussein	IQ	Iraq	20	M	AR
+76	Leonardo da Vinci	IT	Italy	15	M	IT
+77	Johann Wolfgang von Goethe	DE	Germany	18	M	DE
+78	Louis XI of France	FR	France	15	M	FR
+79	Charles Baudelaire	FR	France	19	M	FR
+80	Alexandre Dumas	FR	France	19	M	FR
+81	Francisco Franco	ES	Spain	19	M	ES
+82	Gottfried Wilhelm Leibniz	DE	Germany	17	M	DE
+83	Montesquieu	FR	France	17	M	FR
+84	Justinian I	MK	Macedonia	5	M	WR
+85	Blaise Pascal	FR	France	17	M	FR
+86	Moses	EG	Egypt	-14	M	AR
+87	Michael Jackson	US	United_States	20	M	EN
+88	Otto von Bismarck	DE	Germany	19	M	DE
+89	Ovid	IT	Italy	-1	M	IT
+90	Richard Wagner	DE	Germany	19	M	DE
+91	Émile Zola	FR	France	19	M	FR
+92	Friedrich Nietzsche	DE	Germany	19	M	DE
+93	Pierre Bourdieu	FR	France	20	M	FR
+94	Plutarch	GR	Greece	1	M	EL
+95	Steven Spielberg	US	United_States	20	M	EN
+96	Dwight D. Eisenhower	US	United_States	19	M	EN
+97	Jean de La Fontaine	FR	France	17	M	FR
+98	Georg Wilhelm Friedrich Hegel	DE	Germany	18	M	DE
+99	Philip II of France	FR	France	12	M	FR
+100	Albert Camus	DZ	Algeria	20	M	AR

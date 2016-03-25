@@ -1,0 +1,102 @@
+#List of top 100 English PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Napoleon	FR	France	18	M	FR
+2	Barack Obama	US	United_States	20	M	EN
+3	Carl Linnaeus	SE	Sweden	18	M	SV
+4	Elizabeth II	UK	United_Kingdom	20	F	EN
+5	George W. Bush	US	United_States	20	M	EN
+6	Jesus	PS	State_of_Palestine	-1	M	AR
+7	Aristotle	GR	Greece	-4	M	EL
+8	William Shakespeare	UK	United_Kingdom	16	M	EN
+9	Adolf Hitler	AT	Austria	19	M	DE
+10	Franklin D. Roosevelt	US	United_States	19	M	EN
+11	Bill Clinton	US	United_States	20	M	EN
+12	Ronald Reagan	US	United_States	20	M	EN
+13	Queen Victoria	UK	United_Kingdom	19	F	EN
+14	George Washington	US	United_States	18	M	EN
+15	Plato	GR	Greece	-5	M	EL
+16	Abraham Lincoln	US	United_States	19	M	EN
+17	Joseph Stalin	GE	Georgia	19	M	WR
+18	Richard Nixon	US	United_States	20	M	EN
+19	Muhammad	SA	Saudi_Arabia	6	M	AR
+20	Winston Churchill	UK	United_Kingdom	19	M	EN
+21	John F. Kennedy	US	United_States	20	M	EN
+22	Henry VIII of England	UK	United_Kingdom	15	M	EN
+23	Alexander the Great	GR	Greece	-4	M	EL
+24	Thomas Jefferson	US	United_States	18	M	EN
+25	Albert Einstein	DE	Germany	19	M	DE
+26	Augustus	IT	Italy	-1	M	IT
+27	Charlemagne	BE	Belgium	8	M	NL
+28	Charles Darwin	UK	United_Kingdom	19	M	EN
+29	Karl Marx	DE	Germany	19	M	DE
+30	Elizabeth I of England	UK	United_Kingdom	16	F	EN
+31	Julius Caesar	IT	Italy	-1	M	IT
+32	Louis XIV of France	FR	France	17	M	FR
+33	Dwight D. Eisenhower	US	United_States	19	M	EN
+34	Pope John Paul II	PL	Poland	20	M	PL
+35	Lyndon B. Johnson	US	United_States	20	M	EN
+36	George H. W. Bush	US	United_States	20	M	EN
+37	Charles II of England	UK	United_Kingdom	17	M	EN
+38	Theodore Roosevelt	US	United_States	19	M	EN
+39	Isaac Newton	UK	United_Kingdom	17	M	EN
+40	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+41	Jimmy Carter	US	United_States	20	M	EN
+42	James VI and I	UK	United_Kingdom	16	M	EN
+43	Pliny the Elder	IT	Italy	1	M	IT
+44	Charles I of England	UK	United_Kingdom	16	M	EN
+45	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+46	Gautama Buddha	NP	Nepal	-6	M	WR
+47	Charles V, Holy Roman Emperor	BE	Belgium	15	M	NL
+48	Harry S. Truman	US	United_States	19	M	EN
+49	Woodrow Wilson	US	United_States	19	M	EN
+50	Herodotus	TR	Turkey	-5	M	TR
+51	Cicero	IT	Italy	-2	M	IT
+52	Paul the Apostle	TR	Turkey	1	M	TR
+53	Bob Dylan	US	United_States	20	M	EN
+54	Martin Luther	DE	Germany	15	M	DE
+55	Augustine of Hippo	DZ	Algeria	4	M	AR
+56	Johann Sebastian Bach	DE	Germany	17	M	DE
+57	George III of the United Kingdom	UK	United_Kingdom	18	M	EN
+58	Vladimir Lenin	RU	Russia	19	M	RU
+59	Elvis Presley	US	United_States	20	M	EN
+60	Ludwig van Beethoven	DE	Germany	18	M	DE
+61	Ptolemy	EG	Egypt	1	M	AR
+62	Immanuel Kant	RU	Russia	18	M	RU
+63	Margaret Thatcher	UK	United_Kingdom	20	F	EN
+64	Christopher Columbus	IT	Italy	15	M	IT
+65	Charles Dickens	UK	United_Kingdom	19	M	EN
+66	Tony Blair	UK	United_Kingdom	20	M	EN
+67	Pope Benedict XVI	DE	Germany	20	M	DE
+68	Sigmund Freud	CZ	Czech_	19	M	WR
+69	Johann Wolfgang von Goethe	DE	Germany	18	M	DE
+70	Benito Mussolini	IT	Italy	19	M	IT
+71	Benjamin Franklin	US	United_States	18	M	EN
+72	George V	UK	United_Kingdom	19	M	EN
+73	Constantine the Great	RS	Serbia	3	M	WR
+74	Michael Jackson	US	United_States	20	M	EN
+75	Philip II of Spain	ES	Spain	16	M	ES
+76	Saint Peter	IL	Israel	1	M	HE
+77	Napoleon III	FR	France	19	M	FR
+78	Oliver Cromwell	UK	United_Kingdom	16	M	EN
+79	Leonardo da Vinci	IT	Italy	15	M	IT
+80	Richard Wagner	DE	Germany	19	M	DE
+81	Martin Luther King, Jr.	US	United_States	20	M	EN
+82	Adam Smith	UK	United_Kingdom	18	M	EN
+83	René Descartes	FR	France	16	M	FR
+84	Strabo	TR	Turkey	-1	M	TR
+85	William the Conqueror	FR	France	11	M	FR
+86	Thomas Aquinas	IT	Italy	13	M	IT
+87	Madonna (entertainer)	US	United_States	20	F	EN
+88	Virgil	IT	Italy	-1	M	IT
+89	Mao Zedong	CN	China	19	M	ZH
+90	Hillary Rodham Clinton	US	United_States	20	F	EN
+91	Friedrich Nietzsche	DE	Germany	19	M	DE
+92	Justinian I	MK	Macedonia	5	M	WR
+93	Elton John	UK	United_Kingdom	20	M	EN
+94	Plutarch	GR	Greece	1	M	EL
+95	Dante Alighieri	IT	Italy	13	M	IT
+96	Edward VII	UK	United_Kingdom	19	M	EN
+97	Moses	EG	Egypt	-14	M	AR
+98	Bertrand Russell	UK	United_Kingdom	19	M	EN
+99	James Cook	UK	United_Kingdom	18	M	EN
+100	Andrew Jackson	US	United_States	18	M	EN

@@ -1,0 +1,28 @@
+#overlap of Wiki editions with the Hart list of top 100
+#Edition & Top PR overlap & Top 2D overlap
+#
+& AR &    31 &    10
+& DA &    27 &    6
+& DE &    32 &    13
+& EL &    31 &    18
+& EN &    37 &    4
+& ES &    37 &    14
+& FA &    24 &    11
+& FR &    31 &    9
+& HE &    23 &    14
+& HI &    14 &    1
+& HU &    29 &    10
+& IT &    33 &    12
+& JA &    30 &    5
+& KO &    28 &    12
+& MS &    31 &    14
+& NL &    32 &    15
+& PL &    30 &    9
+& PT &    37 &    15
+& RU &    31 &    14
+& SV &    29 &    13
+& TH &    25 &    8
+& TR &    37 &    11
+& VI &    42 &    17
+& ZH &    30 &    11
+

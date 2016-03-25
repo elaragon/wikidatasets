@@ -1,0 +1,12 @@
+#TR Turkish local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 973 & Paul the Apostle & 252 & Paul the Apostle \\
+2 & 925 & Herodotus & 231 & Suleiman the Magnificent \\
+3 & 133 & Strabo & 172 & Mehmed the Conqueror \\
+4 & 117 & Mehmed the Conqueror & 169 & Selim I \\
+5 & 106 & Suleiman the Magnificent & 142 & Abdul Hamid II \\
+6 & 96 & Abdul Hamid II & 111 & Julian (emperor) \\
+7 & 93 & Pausanias (geographer) & 90 & Recep Tayyip Erdoğan \\
+8 & 83 & İsmet İnönü & 87 & Adnan Menderes \\
+9 & 79 & Selim I & 85 & Lucian \\
+10 & 79 & Hesiod & 84 & Bülent Ecevit \\

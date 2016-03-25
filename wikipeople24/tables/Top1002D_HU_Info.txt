@@ -1,0 +1,102 @@
+#List of top 100 Hungarian 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Stephen I of Hungary	HU	Hungary	10	M	HU
+2	Sándor Petőfi	HU	Hungary	19	M	HU
+3	Adolf Hitler	AT	Austria	19	M	DE
+4	Franz Liszt	AT	Austria	19	M	DE
+5	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+6	Béla Bartók	RO	Romania	19	M	WR
+7	Kati Kovács	HU	Hungary	20	F	HU
+8	Miklós Horthy	HU	Hungary	19	M	HU
+9	Attila József	HU	Hungary	20	M	HU
+10	Rubens Barrichello	BR	Brazil	20	M	PT
+11	Kimi Räikkönen	FI	Finland	20	M	WR
+12	Sándor Weöres	HU	Hungary	20	M	HU
+13	Alexander the Great	GR	Greece	-4	M	EL
+14	Mariah Carey	US	United_States	20	F	EN
+15	Thalía	MX	Mexico	20	F	ES
+16	Mór Jókai	SK	Slovakia	19	M	WR
+17	Aristotle	GR	Greece	-4	M	EL
+18	Lajos Kossuth	HU	Hungary	19	M	HU
+19	Jay Chou	TW	Taiwan	20	M	ZH
+20	Miklós Radnóti	HU	Hungary	20	M	HU
+21	Bonnie Tyler	UK	United_Kingdom	20	F	EN
+22	Charles I of Hungary	IT	Italy	13	M	IT
+23	Isaac Asimov	RU	Russia	20	M	RU
+24	János Kodolányi	HU	Hungary	19	M	HU
+25	Charlemagne	BE	Belgium	8	M	NL
+26	David Coulthard	UK	United_Kingdom	20	M	EN
+27	Ferenc Erkel	HU	Hungary	19	M	HU
+28	Ferenc Kazinczy	RO	Romania	18	M	WR
+29	Zsuzsa Koncz	HU	Hungary	20	F	HU
+30	Rembrandt	NL	Netherlands	17	M	NL
+31	Stephen King	US	United_States	20	M	EN
+32	György Kulin	RO	Romania	20	M	WR
+33	Josip Broz Tito	HR	Croatia	19	M	WR
+34	Napoleon	FR	France	18	M	FR
+35	Louis I of Hungary	HU	Hungary	14	M	HU
+36	Agatha Christie	UK	United_Kingdom	19	F	EN
+37	Gioachino Rossini	IT	Italy	18	M	IT
+38	Jesus	PS	State_of_Palestine	-1	M	AR
+39	Géza Gárdonyi	HU	Hungary	19	M	HU
+40	Gottlob Frege	DE	Germany	19	M	DE
+41	Francis I of France	FR	France	15	M	FR
+42	Queen Victoria	UK	United_Kingdom	19	F	EN
+43	John Lennon	UK	United_Kingdom	20	M	EN
+44	Franz Joseph I of Austria	AT	Austria	19	M	DE
+45	Ingmar Bergman	SE	Sweden	20	F	SV
+46	Edward L. G. Bowell	UK	United_Kingdom	20	M	EN
+47	Ladislaus I of Hungary	PL	Poland	11	M	PL
+48	Toni Braxton	US	United_States	20	F	EN
+49	Gigi D'Agostino	IT	Italy	20	M	IT
+50	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+51	Akhenaten	EG	Egypt	-14	M	AR
+52	Michael Schumacher	DE	Germany	20	M	DE
+53	János Bolyai	RO	Romania	19	M	WR
+54	Ferenc Szálasi	SK	Slovakia	19	M	WR
+55	Madonna (entertainer)	US	United_States	20	F	EN
+56	Paul Erdős	HU	Hungary	20	M	HU
+57	Sándor Kőrösi Csoma	RO	Romania	18	M	WR
+58	Sebastian Vettel	DE	Germany	20	M	DE
+59	Julius Caesar	IT	Italy	-1	M	IT
+60	Giancarlo Fisichella	IT	Italy	20	M	IT
+61	Louis XIV of France	FR	France	17	M	FR
+62	Eleanor F. Helin	US	United_States	20	F	EN
+63	Britney Spears	US	United_States	20	F	EN
+64	László Németh	RO	Romania	20	M	WR
+65	Gaetano Donizetti	IT	Italy	18	M	IT
+66	Jarno Trulli	IT	Italy	20	M	IT
+67	Josip Jelačić	RS	Serbia	19	M	WR
+68	Karl Wilhelm Reinmuth	DE	Germany	19	M	DE
+69	Gyula Illyés	HU	Hungary	20	M	HU
+70	Joseph Haydn	AT	Austria	18	M	DE
+71	Miklós Zrínyi	HR	Croatia	17	M	WR
+72	Louis IX of France	FR	France	13	M	FR
+73	Mihály Munkácsy	UA	Ukraine	19	M	WR
+74	Mario Andretti	HR	Croatia	20	M	WR
+75	Frank Zappa	US	United_States	20	M	EN
+76	Carl Friedrich Gauss	DE	Germany	18	M	DE
+77	Empress Elisabeth of Austria	DE	Germany	19	F	DE
+78	Roger Waters	UK	United_Kingdom	20	M	EN
+79	Imre Thököly	SK	Slovakia	17	M	WR
+80	Mika Häkkinen	FI	Finland	20	M	WR
+81	Károly Kós	RO	Romania	19	M	WR
+82	Joan of Arc	FR	France	15	F	FR
+83	Pericles	GR	Greece	-5	M	EL
+84	László Sólyom	HU	Hungary	20	M	HU
+85	Augustus	IT	Italy	-1	M	IT
+86	Jenson Button	UK	United_Kingdom	20	M	EN
+87	Matthias Corvinus	RO	Romania	15	M	WR
+88	Sulla	IT	Italy	-2	M	IT
+89	Jimi Hendrix	US	United_States	20	M	EN
+90	Charles I of Austria	AT	Austria	19	M	DE
+91	Johann Sebastian Bach	DE	Germany	17	M	DE
+92	Imre Nagy	HU	Hungary	19	M	HU
+93	Justinian I	MK	Macedonia	5	M	WR
+94	Francis II Rákóczi	SK	Slovakia	17	M	WR
+95	Mihály Károlyi	HU	Hungary	19	M	HU
+96	Jean Alesi	FR	France	20	M	FR
+97	Anastacia	US	United_States	20	F	EN
+98	Michael Jackson	US	United_States	20	M	EN
+99	Philip II of France	FR	France	12	M	FR
+100	Eric Clapton	UK	United_Kingdom	20	M	EN

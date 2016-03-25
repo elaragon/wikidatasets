@@ -1,0 +1,102 @@
+#List of top 100 Italian PageRank historical figures
+#Ranking, Name, Birth counrty code, Birth country, Birth century, Gender, Language
+1	Napoleon	FR	France	18	M	FR
+2	Jesus	PS	State_of_Palestine	-1	M	AR
+3	Aristotle	GR	Greece	-4	M	EL
+4	Augustus	IT	Italy	-1	M	IT
+5	Pope John Paul II	PL	Poland	20	M	PL
+6	Adolf Hitler	AT	Austria	19	M	DE
+7	Julius Caesar	IT	Italy	-1	M	IT
+8	Dante Alighieri	IT	Italy	13	M	IT
+9	Carl Linnaeus	SE	Sweden	18	M	SV
+10	Benito Mussolini	IT	Italy	19	M	IT
+11	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+12	Charlemagne	BE	Belgium	8	M	NL
+13	Plato	GR	Greece	-5	M	EL
+14	Isaac Newton	UK	United_Kingdom	17	M	EN
+15	Galileo Galilei	IT	Italy	16	M	IT
+16	Louis XIV of France	FR	France	17	M	FR
+17	Constantine the Great	RS	Serbia	3	M	WR
+18	Cicero	IT	Italy	-2	M	IT
+19	Joseph Stalin	GE	Georgia	19	M	WR
+20	Albert Einstein	DE	Germany	19	M	DE
+21	Alexander the Great	GR	Greece	-4	M	EL
+22	Paul the Apostle	TR	Turkey	1	M	TR
+23	Franklin D. Roosevelt	US	United_States	19	M	EN
+24	George W. Bush	US	United_States	20	M	EN
+25	Muhammad	SA	Saudi_Arabia	6	M	AR
+26	William Shakespeare	UK	United_Kingdom	16	M	EN
+27	Pope Benedict XVI	DE	Germany	20	M	DE
+28	Karl Marx	DE	Germany	19	M	DE
+29	Silvio Berlusconi	IT	Italy	20	M	IT
+30	Pope Pius IX	IT	Italy	18	M	IT
+31	Pope Paul VI	IT	Italy	19	M	IT
+32	Elizabeth II	UK	United_Kingdom	20	F	EN
+33	Leonardo da Vinci	IT	Italy	15	M	IT
+34	Christopher Columbus	IT	Italy	15	M	IT
+35	Giuseppe Garibaldi	FR	France	19	M	FR
+36	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+37	Bill Clinton	US	United_States	20	M	EN
+38	Virgil	IT	Italy	-1	M	IT
+39	Napoleon III	FR	France	19	M	FR
+40	Vladimir Lenin	RU	Russia	19	M	RU
+41	Saint Peter	IL	Israel	1	M	HE
+42	Richard Nixon	US	United_States	20	M	EN
+43	Charles Darwin	UK	United_Kingdom	19	M	EN
+44	Martin Luther	DE	Germany	15	M	DE
+45	Alessandro Manzoni	IT	Italy	18	M	IT
+46	Winston Churchill	UK	United_Kingdom	19	M	EN
+47	Justinian I	MK	Macedonia	5	M	WR
+48	Dwight D. Eisenhower	US	United_States	19	M	EN
+49	John F. Kennedy	US	United_States	20	M	EN
+50	Ronald Reagan	US	United_States	20	M	EN
+51	Pope Pius XII	IT	Italy	19	M	IT
+52	Michelangelo	IT	Italy	15	M	IT
+53	Pope Benedict XIV	IT	Italy	17	M	IT
+54	Diocletian	HR	Croatia	3	M	WR
+55	George Washington	US	United_States	18	M	EN
+56	Abraham Lincoln	US	United_States	19	M	EN
+57	Livy	IT	Italy	-1	M	IT
+58	Pliny the Elder	IT	Italy	1	M	IT
+59	Queen Victoria	UK	United_Kingdom	19	F	EN
+60	Pope Leo XIII	IT	Italy	19	M	IT
+61	Immanuel Kant	RU	Russia	18	M	RU
+62	Francisco Franco	ES	Spain	19	M	ES
+63	Thomas Edison	US	United_States	19	M	EN
+64	Herodotus	TR	Turkey	-5	M	TR
+65	Barack Obama	US	United_States	20	M	EN
+66	John the Baptist	IL	Israel	-1	M	HE
+67	Francis I of France	FR	France	15	M	FR
+68	Charles de Gaulle	FR	France	19	M	FR
+69	Guglielmo Marconi	IT	Italy	19	M	IT
+70	Moses	EG	Egypt	-14	M	AR
+71	Johann Wolfgang von Goethe	DE	Germany	18	M	DE
+72	Giuseppe Verdi	IT	Italy	19	M	IT
+73	Gabriele D'Annunzio	IT	Italy	19	M	IT
+74	Plutarch	GR	Greece	1	M	EL
+75	Sigmund Freud	CZ	Czech_	19	M	WR
+76	Nero	IT	Italy	1	M	IT
+77	Louis XVI of France	FR	France	18	M	FR
+78	Petrarch	IT	Italy	14	M	IT
+79	Henry IV of France	FR	France	16	M	FR
+80	Romano Prodi	IT	Italy	20	M	IT
+81	Michael Jackson	US	United_States	20	M	EN
+82	Tacitus	FR	France	1	M	FR
+83	Nikita Khrushchev	RU	Russia	19	M	RU
+84	René Descartes	FR	France	16	M	FR
+85	Saddam Hussein	IQ	Iraq	20	M	AR
+86	Theodosius I	ES	Spain	4	M	ES
+87	Mahatma Gandhi	IN	India	19	M	HI
+88	Harry S. Truman	US	United_States	19	M	EN
+89	Mikhail Gorbachev	RU	Russia	20	M	RU
+90	Pope Pius VII	IT	Italy	18	M	IT
+91	Richard Wagner	DE	Germany	19	M	DE
+92	Pope John XXIII	IT	Italy	19	M	IT
+93	Raphael	IT	Italy	15	M	IT
+94	Trajan	ES	Spain	1	M	ES
+95	Camillo Benso, Count of Cavour	IT	Italy	19	M	IT
+96	Gioachino Rossini	IT	Italy	18	M	IT
+97	Pope Pius XI	IT	Italy	19	M	IT
+98	Fidel Castro	CU	Cuba	20	M	ES
+99	Johann Sebastian Bach	DE	Germany	17	M	DE
+100	Philip II of Spain	ES	Spain	16	M	ES

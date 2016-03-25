@@ -1,0 +1,102 @@
+#List of top 100 Vietnamese 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Frederick the Great	DE	Germany	18	M	DE
+2	Napoleon	FR	France	18	M	FR
+3	Ho Chi Minh	VN	Vietnam	19	M	VI
+4	Gia Long	VN	Vietnam	18	M	VI
+5	Minh Mạng	VN	Vietnam	18	M	VI
+6	Qin Shi Huang	CN	China	-3	M	ZH
+7	Nguyễn Huệ	VN	Vietnam	18	M	VI
+8	Emperor Meiji	JP	Japan	19	M	JA
+9	Alexander the Great	GR	Greece	-4	M	EL
+10	Albert Einstein	DE	Germany	19	M	DE
+11	Michael Jackson	US	United_States	20	M	EN
+12	Whitney Houston	US	United_States	20	F	EN
+13	Charlemagne	BE	Belgium	8	M	NL
+14	Mary (mother of Jesus)	IL	Israel	-1	F	HE
+15	Lê Lợi	VN	Vietnam	14	M	VI
+16	Vladimir Putin	RU	Russia	20	M	RU
+17	Trần Hưng Đạo	VN	Vietnam	13	M	VI
+18	Vo Nguyen Giap	VN	Vietnam	20	M	VI
+19	Tự Đức	VN	Vietnam	19	M	VI
+20	Lê Thánh Tông	VN	Vietnam	15	M	VI
+21	Trưng Sisters	VN	Vietnam	1	F	VI
+22	Ngo Dinh Diem	VN	Vietnam	20	M	VI
+23	Madonna (entertainer)	US	United_States	20	F	EN
+24	Franklin D. Roosevelt	US	United_States	19	M	EN
+25	Đinh Bộ Lĩnh	VN	Vietnam	10	M	VI
+26	Nguyen Tan Dung	VN	Vietnam	20	M	VI
+27	Ludwig van Beethoven	DE	Germany	18	M	DE
+28	Marcus Aurelius	IT	Italy	2	M	IT
+29	Emperor Gaozu of Han	CN	China	-3	M	ZH
+30	Pham Gia Khiem	VN	Vietnam	20	M	VI
+31	Nguyễn Trãi	VN	Vietnam	14	M	VI
+32	Constantine the Great	RS	Serbia	3	M	WR
+33	Archimedes	IT	Italy	-3	M	IT
+34	Dwight D. Eisenhower	US	United_States	19	M	EN
+35	Cao Cao	CN	China	2	M	ZH
+36	Genghis Khan	MN	Mongolia	12	M	WR
+37	Hongwu Emperor	CN	China	14	M	ZH
+38	George Harrison	UK	United_Kingdom	20	M	EN
+39	Jesus	PS	State_of_Palestine	-1	M	AR
+40	James Craig Watson	CA	Canada	19	M	EN
+41	Nguyễn Du	VN	Vietnam	18	M	VI
+42	Elizabeth II	UK	United_Kingdom	20	F	EN
+43	Abraham Lincoln	US	United_States	19	M	EN
+44	Qianlong Emperor	CN	China	18	M	ZH
+45	Charles XII of Sweden	SE	Sweden	17	M	SV
+46	Bảo Đại	VN	Vietnam	20	M	VI
+47	Herodotus	TR	Turkey	-5	M	TR
+48	Hoang Van Thai	VN	Vietnam	20	M	VI
+49	Nguyen Van Thieu	VN	Vietnam	20	M	VI
+50	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+51	Stephen Hawking	UK	United_Kingdom	20	M	EN
+52	Ernest Hemingway	US	United_States	19	M	EN
+53	Cyrus the Great	IR	Iran	-6	M	FA
+54	Nelson Mandela	ZA	South_Africa	20	M	WR
+55	Zhuge Liang	CN	China	2	M	ZH
+56	Peter the Great	RU	Russia	17	M	RU
+57	François Mitterrand	FR	France	20	M	FR
+58	Karl Marx	DE	Germany	19	M	DE
+59	Nhất Linh	VN	Vietnam	20	M	VI
+60	Boris Yeltsin	RU	Russia	20	M	RU
+61	Xiang Yu	CN	China	-3	M	ZH
+62	Tokugawa Ieyasu	JP	Japan	16	M	JA
+63	Kublai Khan	MN	Mongolia	13	M	WR
+64	Lê Hoàn	VN	Vietnam	10	M	VI
+65	Julius Caesar	IT	Italy	-1	M	IT
+66	Jin Yong	CN	China	20	M	ZH
+67	Erwin Rommel	DE	Germany	19	M	DE
+68	Liu Bei	CN	China	2	M	ZH
+69	Tản Đà	VN	Vietnam	19	M	VI
+70	Li Bai	CN	China	8	M	ZH
+71	Paul the Apostle	TR	Turkey	1	M	TR
+72	Nguyen Phu Trong	VN	Vietnam	20	M	VI
+73	Richard I of England	UK	United_Kingdom	12	M	EN
+74	Lê Văn Duyệt	VN	Vietnam	18	M	VI
+75	Suleiman the Magnificent	TR	Turkey	15	M	TR
+76	Saint Joseph	PS	State_of_Palestine	-1	M	AR
+77	Henry IV of France	FR	France	16	M	FR
+78	Phan Bội Châu	VN	Vietnam	19	M	VI
+79	Nicolas Sarkozy	FR	France	20	M	FR
+80	Nguyen Binh Khiem	VN	Vietnam	15	M	VI
+81	Koxinga	JP	Japan	17	M	JA
+82	Frederick William, Elector of Brandenburg	DE	Germany	17	M	DE
+83	Nguyen Van Linh	VN	Vietnam	20	M	VI
+84	Sima Qian	CN	China	-1	M	ZH
+85	Leon Trotsky	UA	Ukraine	19	M	WR
+86	Phan Chu Trinh	VN	Vietnam	19	M	VI
+87	Galileo Galilei	IT	Italy	16	M	IT
+88	Phung Quang Thanh	VN	Vietnam	20	M	VI
+89	14th Dalai Lama	CN	China	20	M	ZH
+90	Vincent van Gogh	NL	Netherlands	19	M	NL
+91	Kim Il-sung	KP	N._Korea	20	M	KO
+92	Nguyen Cao Ky	VN	Vietnam	20	M	VI
+93	Nicolae Ceaușescu	RO	Romania	20	M	WR
+94	Namthip Jongrachatawiboon	TH	Thailand	20	F	TH
+95	Kangxi Emperor	CN	China	17	M	ZH
+96	Nero	IT	Italy	1	M	IT
+97	Hong Taiji	CN	China	16	M	ZH
+98	Mikhail Gorbachev	RU	Russia	20	M	RU
+99	James II of England	UK	United_Kingdom	17	M	EN
+100	George Washington	US	United_States	18	M	EN

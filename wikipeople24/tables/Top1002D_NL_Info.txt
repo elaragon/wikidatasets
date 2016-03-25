@@ -1,0 +1,102 @@
+#List of top 100 Dutch 2DRank historical figures
+#Ranking, Name, Birth country code, Birth country, Birth century, Gender,Language
+1	Pope Benedict XVI	DE	Germany	20	M	DE
+2	Elizabeth II	UK	United_Kingdom	20	F	EN
+3	Charles Darwin	UK	United_Kingdom	19	M	EN
+4	Albert Einstein	DE	Germany	19	M	DE
+5	Hadrian	ES	Spain	1	M	ES
+6	René Descartes	FR	France	16	M	FR
+7	Hugo Claus	BE	Belgium	20	M	NL
+8	Johann Sebastian Bach	DE	Germany	17	M	DE
+9	Christopher Columbus	IT	Italy	15	M	IT
+10	Johan Cruyff	NL	Netherlands	20	M	NL
+11	Michael Jackson	US	United_States	20	M	EN
+12	Pope Pius XII	IT	Italy	19	M	IT
+13	Pope John Paul II	PL	Poland	20	M	PL
+14	William Shakespeare	UK	United_Kingdom	16	M	EN
+15	Rembrandt	NL	Netherlands	17	M	NL
+16	Augustus	IT	Italy	-1	M	IT
+17	Igor Stravinsky	RU	Russia	19	M	RU
+18	Baruch Spinoza	NL	Netherlands	17	M	NL
+19	Benjamin Britten	UK	United_Kingdom	20	M	EN
+20	Peter Paul Rubens	DE	Germany	16	M	DE
+21	Madonna (entertainer)	US	United_States	20	F	EN
+22	Beatrix of the Netherlands	NL	Netherlands	20	F	NL
+23	Frederick the Great	DE	Germany	18	M	DE
+24	Wolfgang Amadeus Mozart	AT	Austria	18	M	DE
+25	Louis Couperus	NL	Netherlands	19	M	NL
+26	Pierre Cuypers	NL	Netherlands	19	M	NL
+27	Martin of Tours	HU	Hungary	4	M	HU
+28	Pope Pius IX	IT	Italy	18	M	IT
+29	J. R. R. Tolkien	ZA	South_Africa	19	M	WR
+30	Eddy Merckx	BE	Belgium	20	M	NL
+31	Charles V, Holy Roman Emperor	BE	Belgium	15	M	NL
+32	Geert Wilders	NL	Netherlands	20	M	NL
+33	Ludwig van Beethoven	DE	Germany	18	M	DE
+34	Pope Pius XI	IT	Italy	19	M	IT
+35	Silvio Berlusconi	IT	Italy	20	M	IT
+36	Johannes Vermeer	NL	Netherlands	17	M	NL
+37	Juliana of the Netherlands	NL	Netherlands	20	F	NL
+38	Jan Peter Balkenende	NL	Netherlands	20	M	NL
+39	Napoleon	FR	France	18	M	FR
+40	Adolf Hitler	AT	Austria	19	M	DE
+41	Piet Mondrian	NL	Netherlands	19	M	NL
+42	Anouk (singer)	NL	Netherlands	20	F	NL
+43	Dmitri Shostakovich	RU	Russia	20	M	RU
+44	Pope Paul VI	IT	Italy	19	M	IT
+45	14th Dalai Lama	CN	China	20	M	ZH
+46	Hermann Göring	DE	Germany	19	M	DE
+47	Jean-Jacques Rousseau	CH	Switzerland	18	M	DE
+48	Dési Bouterse	SR	Suriname	20	M	NL
+49	Muhammad	SA	Saudi_Arabia	6	M	AR
+50	Domitian	IT	Italy	1	M	IT
+51	Paul de Leeuw	NL	Netherlands	20	M	NL
+52	Marten Toonder	NL	Netherlands	20	M	NL
+53	Harry Mulisch	NL	Netherlands	20	M	NL
+54	Frederick Henry, Prince of Orange	NL	Netherlands	16	M	NL
+55	Vincent van Gogh	NL	Netherlands	19	M	NL
+56	Marco Borsato	NL	Netherlands	20	M	NL
+57	Willem-Alexander of the Netherlands	NL	Netherlands	20	M	NL
+58	Charlemagne	BE	Belgium	8	M	NL
+59	Willy Vandersteen	BE	Belgium	20	M	NL
+60	Pyotr Ilyich Tchaikovsky	RU	Russia	19	M	RU
+61	Otto von Bismarck	DE	Germany	19	M	DE
+62	Marco van Basten	NL	Netherlands	20	M	NL
+63	Victor Hugo	FR	France	19	M	FR
+64	Roger Federer	CH	Switzerland	20	M	DE
+65	Michelangelo	IT	Italy	15	M	IT
+66	Annie M. G. Schmidt	NL	Netherlands	20	F	NL
+67	Alexander von Humboldt	DE	Germany	18	M	DE
+68	Caligula	IT	Italy	1	M	IT
+69	Wim Sonneveld	NL	Netherlands	20	M	NL
+70	Timur	UZ	Uzbekistan	14	M	WR
+71	Justine Henin	BE	Belgium	20	F	NL
+72	Joseph Priestley	UK	United_Kingdom	18	M	EN
+73	Barack Obama	US	United_States	20	M	EN
+74	William the Silent	DE	Germany	16	M	DE
+75	Elvis Presley	US	United_States	20	M	EN
+76	Constantine the Great	RS	Serbia	3	M	WR
+77	André Hazes	NL	Netherlands	20	M	NL
+78	Alberto Contador	ES	Spain	20	M	ES
+79	Christiaan Huygens	NL	Netherlands	17	M	NL
+80	Maurice, Prince of Orange	DE	Germany	16	M	DE
+81	George Frideric Handel	DE	Germany	17	M	DE
+82	Pete Sampras	US	United_States	20	M	EN
+83	Shakira	CO	Colombia	20	F	ES
+84	Pope Julius II	IT	Italy	15	M	IT
+85	Alfred Hitchcock	UK	United_Kingdom	19	M	EN
+86	Lance Armstrong	US	United_States	20	M	EN
+87	Rita Verdonk	NL	Netherlands	20	F	NL
+88	Giacomo Puccini	IT	Italy	19	M	IT
+89	Tom Boonen	BE	Belgium	20	M	NL
+90	Herman Van Rompuy	BE	Belgium	20	M	NL
+91	Bernhard Riemann	DE	Germany	19	M	DE
+92	Boudewijn de Groot	ID	Indonesia	20	M	WR
+93	Ronald Plasterk	NL	Netherlands	20	M	NL
+94	André van Duin	NL	Netherlands	20	M	NL
+95	Prince Bernhard of Lippe-Biesterfeld	DE	Germany	20	M	DE
+96	Willibrord	UK	United_Kingdom	7	M	EN
+97	Kim Clijsters	BE	Belgium	20	F	NL
+98	Archimedes	IT	Italy	-3	M	IT
+99	Multatuli	NL	Netherlands	19	M	NL
+100	Stevie Wonder	US	United_States	20	M	EN

@@ -1,0 +1,12 @@
+#ZH Chinese (written)) local top 10 persons 
+#number, $Theta_{A=PR}$ index, name at A=PageRank, $Theta_{A=2D}$ index, name at A=2DRank
+1 & 375 & Mao Zedong & 306 & Cao Cao \\
+2 & 285 & Confucius & 243 & 14th Dalai Lama \\
+3 & 244 & Chiang Kai-shek & 234 & Liu Bei \\
+4 & 197 & Qin Shi Huang & 192 & Qin Shi Huang \\
+5 & 186 & Emperor Wu of Han & 191 & Kangxi Emperor \\
+6 & 135 & Cao Cao & 188 & Zhuge Liang \\
+7 & 129 & Hongwu Emperor & 179 & Qianlong Emperor \\
+8 & 119 & Qianlong Emperor & 154 & Mao Zedong \\
+9 & 119 & Kangxi Emperor & 147 & Hongwu Emperor \\
+10 & 94 & Sun Yat-sen & 146 & Sun Yat-sen \\
