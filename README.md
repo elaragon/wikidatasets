@@ -10,3 +10,5 @@ Datasets generated for research articles. Each dataset includes a README.md whic
 
 ####wikipeople24
 [Eom, Y. H., Aragón, P., Laniado, D., Kaltenbrunner, A., Vigna, S., & Shepelyansky, D. L. (2015). Interactions of cultures and top people of Wikipedia from ranking of 24 language editions. PloS one, 10(3), e0114825.](https://github.com/elaragon/datasets/raw/master/wikipeople24/eom_etal_2015_plosone.pdf)
+
+![open data](http://trendct.org/files/2015/09/Big_Data_Africa_Open_Data.png)
