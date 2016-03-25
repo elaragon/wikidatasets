@@ -1,0 +1,2 @@
+nodes	edges	clustering	sizeGC	sizeGC%	averagePathLength	reciprocity	density	diameter	a_out_in	a_out_in_avg	a_out_in_z	a_out_in_ASP	a_in_out	a_in_out_avg	a_in_out_z	a_in_out_ASP	a_out_out	a_out_out_avg	a_out_out_z	a_out_out_ASP	a_in_in	a_in_in_avg	a_in_in_z	a_in_in_ASP	kin_max_val	kin_max_avg	kin_max_sigma	kin_max_z	kin_max_size	kin_size_avg	kin_size_sigma	kin_size_z	kout_max_val	kout_max_avg	kout_max_sigma	kout_max_z	kout_max_size	kout_size_avg	kout_size_sigma	kout_size_z
+23085	60745	0.0721787651373	15967	0.691661251895	8.27192486959	0.203626664543	0.000113990744954	46	
