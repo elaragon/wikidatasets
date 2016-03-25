@@ -1,0 +1,5 @@
+	nodes	edges	assortativity	assortativity_avg	assortativity_sigma	assortativity_z
+gdp	11295	14697	0.0126	-0.0005	0.0087	1.51
+gdppc	11296	14698	0.0777	0.0005	0.0078	9.86
+hdi	11253	14621	0.0630	-0.0004	0.0075	8.46
+political	11267	14738	0.0626	0.0004	0.0090	6.94

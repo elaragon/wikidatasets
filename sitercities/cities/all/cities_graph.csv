@@ -1,0 +1,2 @@
+nodes	edges	clustering	size_gc	size_gc%	avg_d_gc	reciprocity	density	gini_degree	assortativity	assortativity_avg	assortativity_sigma	assortativity_z	kmax	kmax_avg	kmax_sigma	kmax_z	ksize	ksize_avg	ksize_sigma	ksize_z	
+11618	15225	0.10745134442	7128	0.61353072818	6.73522927731	1.0	0.000225611864935	0.507736951382	0.340689344671	-0.00421683166236	0.00783449021632	44.0240739104	22	4	0.0	Nan	24	522	33.3016516107	-14.9542132571	
