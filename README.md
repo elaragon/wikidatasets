@@ -1,6 +1,6 @@
 # Datasets
 
-Datasets generated for research articles. 
+Datasets generated for research articles. Each dataset includes a README.md which describes the files that form the dataset.
 
 Please, feel free to use these datasets and cite the corresponding study if the files are used.
 
