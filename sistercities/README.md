@@ -39,5 +39,6 @@ Edges between cities including the corresponding country
 Article of this study
 <br/><br/>
 
-![figure](https://raw.githubusercontent.com/elaragon/datasets/master/sitercities/kaltenbrunner_etal_2013_iwsos.png)
+![figure](https://raw.githubusercontent.com/elaragon/datasets/master/sistercities/kaltenbrunner_etal_2013_iwsos.png)
+
 Country network: node size corresponds to degree and node colours indicate the four clusters obtained with the Louvain method.
