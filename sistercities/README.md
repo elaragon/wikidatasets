@@ -19,23 +19,23 @@ Each network subfolder contains:
 * **cities_nodes.csv**: node centrality values
 <br/><br/>
 
-###Countries/
+### Countries/
 Networks of sister cities at a country level. The folder structure is the same as above.
 <br/><br/>
 
-####assortativities.csv
+#### assortativities.csv
 Asortativity values for the city networks regarding  (gdp, gdppc, hdi, ps)
 <br/><br/>
 
-####city_country.csv
+#### city_country.csv
 Cities and the corresponding country
 <br/><br/>
 
-####city_country_edges.csv
+#### city_country_edges.csv
 Edges between cities including the corresponding country
 <br/><br/>
 
-####kaltenbrunner_etal_2013_iwsos.pdf
+#### kaltenbrunner_etal_2013_iwsos.pdf
 Article of this study
 <br/><br/>
 
