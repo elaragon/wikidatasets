@@ -1,6 +1,6 @@
 # Sistercities
 
-###Cities/
+### Cities/
 Network subfolders of sister cities:
 * **all**: All sister cities that were obtained. Assortativity by degree
 * **gdp**: Sister cities that identified to a country whose Gross Domestic Product (gdp) is known. Assortativity by gdp
